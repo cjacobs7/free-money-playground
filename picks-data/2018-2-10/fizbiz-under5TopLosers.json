@@ -1,0 +1,186 @@
+{
+  "610": [
+    {
+      "ticker": "TNDM",
+      "price": 2.35
+    },
+    {
+      "ticker": "RMGN",
+      "price": 0.88
+    },
+    {
+      "ticker": "CBL",
+      "price": 4.2
+    },
+    {
+      "ticker": "NXTD",
+      "price": 2.17
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.88
+    },
+    {
+      "ticker": "RLGT",
+      "price": 3.87
+    },
+    {
+      "ticker": "CTXR",
+      "price": 3.34
+    },
+    {
+      "ticker": "EFOI",
+      "price": 2.21
+    },
+    {
+      "ticker": "GBR",
+      "price": 1.27
+    },
+    {
+      "ticker": "TYHT",
+      "price": 1.41
+    },
+    {
+      "ticker": "APRN",
+      "price": 3.26
+    },
+    {
+      "ticker": "ARTX",
+      "price": 3.1
+    },
+    {
+      "ticker": "IDN",
+      "price": 2.33
+    },
+    {
+      "ticker": "CUR",
+      "price": 1.46
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.86
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.46
+    },
+    {
+      "ticker": "SGLB",
+      "price": 1.51
+    },
+    {
+      "ticker": "ARQL",
+      "price": 1.51
+    },
+    {
+      "ticker": "ARDM",
+      "price": 1.11
+    },
+    {
+      "ticker": "MYSZ",
+      "price": 1.32
+    }
+  ],
+  "612": [
+    {
+      "ticker": "TNDM",
+      "price": 2.35,
+      "trend": "-19.52%"
+    },
+    {
+      "ticker": "RMGN",
+      "price": 0.88,
+      "trend": "-18.06%"
+    },
+    {
+      "ticker": "CBL",
+      "price": 4.2,
+      "trend": "-15.66%"
+    },
+    {
+      "ticker": "NXTD",
+      "price": 2.17,
+      "trend": "-14.90%"
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.88,
+      "trend": "-14.43%"
+    },
+    {
+      "ticker": "RLGT",
+      "price": 3.87,
+      "trend": "-14.00%"
+    },
+    {
+      "ticker": "CTXR",
+      "price": 3.34,
+      "trend": "-13.92%"
+    },
+    {
+      "ticker": "EFOI",
+      "price": 2.21,
+      "trend": "-12.97%"
+    },
+    {
+      "ticker": "GBR",
+      "price": 1.27,
+      "trend": "-12.60%"
+    },
+    {
+      "ticker": "TYHT",
+      "price": 1.41,
+      "trend": "-12.42%"
+    },
+    {
+      "ticker": "APRN",
+      "price": 3.26,
+      "trend": "-11.89%"
+    },
+    {
+      "ticker": "ARTX",
+      "price": 3.1,
+      "trend": "-11.43%"
+    },
+    {
+      "ticker": "IDN",
+      "price": 2.33,
+      "trend": "-10.73%"
+    },
+    {
+      "ticker": "CUR",
+      "price": 1.46,
+      "trend": "-9.88%"
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.86,
+      "trend": "-9.27%"
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.46,
+      "trend": "-9.06%"
+    },
+    {
+      "ticker": "SGLB",
+      "price": 1.51,
+      "trend": "-9.05%"
+    },
+    {
+      "ticker": "ARQL",
+      "price": 1.51,
+      "trend": "-9.04%"
+    },
+    {
+      "ticker": "ARDM",
+      "price": 1.11,
+      "trend": "-9.02%"
+    },
+    {
+      "ticker": "MYSZ",
+      "price": 1.32,
+      "trend": "-8.97%"
+    }
+  ]
+}

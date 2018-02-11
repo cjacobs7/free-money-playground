@@ -1,3 +1,5 @@
+const DISABLED = true; // records picks but does not purchase
+
 // utils
 const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
 
@@ -53,12 +55,11 @@ const basedOnJump = {
     init: (Robinhood) => {
         // runs at init
         regCronIncAfterSixThirty(Robinhood, {
-            name: 'execute based-on-jump strategy',
-            // run: [15], // 7:00am
-            run: [],
+            name: 'record based-on-jump strategy',
+            run: [15], // 7:00am
             fn: async (Robinhood, min) => {
                 setTimeout(async () => {
-                    await executeStrategy(Robinhood, trendFilter, min, 0.2, 'based-on-jump');
+                    await executeStrategy(Robinhood, trendFilter, min, 0.2, 'based-on-jump', DISABLED);
                 }, 5000);
             }
         });

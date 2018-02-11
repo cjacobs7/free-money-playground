@@ -31,9 +31,8 @@ module.exports = async (Robinhood, { ticker, strategy, maxPrice }) => {
 
         attemptCount++;
         console.log('attempting ', curBuyRatio, ticker, 'ratio', curBuyRatio);
-        const { yahooPrice, lastTrade } = (await lookup(ticker, Robinhood));
-        const curPrice = yahooPrice || lastTrade;
-        const bidPrice = curPrice * curBuyRatio;
+        const { currentPrice } = (await lookup(ticker, Robinhood));
+        const bidPrice = currentPrice * curBuyRatio;
         const quantity = Math.floor(maxPrice / bidPrice);
         if (!quantity) {
             console.log('maxPrice below bidPrice', maxPrice, bidPrice, ticker);

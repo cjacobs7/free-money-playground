@@ -1,16 +1,16 @@
 const mapLimit = require('promise-map-limit');
 
 // utils
-const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
+const regCronIncAfterSixThirty = require('../../utils/reg-cron-after-630');
 
 // app-actions
-const purchaseStocks = require('../app-actions/purchase-stocks');
+const purchaseStocks = require('../../app-actions/purchase-stocks');
 
 // rh-actions
-const trendingUp = require('../rh-actions/trending-up');
+const trendingUp = require('../../rh-actions/trending-up');
 
 // utils
-const timeoutPromise = require('../utils/timeout-promise');
+const timeoutPromise = require('../../utils/timeout-promise');
 
 
 
@@ -18,7 +18,7 @@ const beforeClose = {
     init: Robinhood => {
         // runs at init
         regCronIncAfterSixThirty(Robinhood, {
-            name: 'execute pattern predict strategy',
+            name: 'execute swing strategy',
             run: [0], // 12:31, 12:50pm
             fn: async (Robinhood) => {
 

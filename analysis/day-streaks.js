@@ -42,7 +42,8 @@ const avgArray = require('../utils/avg-array');
                 count: jumpedUp.length,
                 percUp: jumpedUp.filter(b => Number(b.trend_since_open) > 0).length / jumpedUp.length,
                 avgToday: avgArray(jumpedUp.map(m => Number(m.trend_since_open)))
-            }
+            },
+            tickers: matches.map(match => match.ticker)
         };
     };
 

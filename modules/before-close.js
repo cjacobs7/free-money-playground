@@ -1,3 +1,5 @@
+const DISABLED = true; // records picks but does not purchase
+
 // utils
 const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
 
@@ -52,10 +54,10 @@ const beforeClose = {
             Robinhood,
             {
                 name: 'execute before-close strategy',
-                // run: [370],  // 12:31, 12:50pm
-                run: [],
+                run: [370],  // 12:31, 12:50pm
+                // run: [],
                 fn: async (Robinhood, min) => {
-                    await executeStrategy(Robinhood, trendFilter, min, 0.55, 'before-close');
+                    await executeStrategy(Robinhood, trendFilter, min, 0.55, 'before-close', DISABLED);
                 }
             },
         );

@@ -1,7 +1,7 @@
 const detailedNonZero = require('./detailed-non-zero');
 const activeSell = require('./active-sell');
 
-const MIN_PERC_UP = 18; // sell if stock rose 18% since yesterdays close
+const MIN_PERC_UP = 5; // sell if stock rose 18% since yesterdays close
 
 module.exports = async Robinhood => {
     const nonzero = await detailedNonZero(Robinhood);
@@ -15,7 +15,7 @@ module.exports = async Robinhood => {
                 quantity: pos.quantity
             }
         );
-        console.log(response);
+        console.log('sold because gone up', response);
     }
 
 };

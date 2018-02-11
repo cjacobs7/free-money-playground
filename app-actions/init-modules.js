@@ -1,11 +1,11 @@
 const fs = require('mz/fs');
 const path = require('path');
 
-const strategies = [];
+const modules = [];
 
 module.exports = async (Robinhood) => {
 
-    var normalizedPath = path.join(__dirname, '../strategies');
+    var normalizedPath = path.join(__dirname, '../modules');
 
     const files = (await fs.readdir(normalizedPath))
         .filter(fileName => !fileName.startsWith('.'))
@@ -13,11 +13,11 @@ module.exports = async (Robinhood) => {
 
     for (let file of files) {
         const isDir = (await fs.lstat(file)).isDirectory();
-        if (!isDir) {
-            const strategyObj = require(file);
-            strategyObj.init(Robinhood);
-            strategies.push(strategyObj);
-        }
+        // if (!isDir) {
+            const moduleObj = require(file);
+            moduleObj.init(Robinhood);
+            modules.push(moduleObj);
+        // }
     }
 
 };

@@ -1,0 +1,55 @@
+key auth_token
+key expire_token
+key investment_profile
+key fundamentals
+key instruments
+key quote_data
+key accounts
+key user
+key dividends
+key orders
+key cancel_order
+key place_buy_order
+key place_sell_order
+key positions
+key nonzero_positions
+key news
+key markets
+key sp500_up
+key sp500_down
+key create_watch_list
+key watchlists
+key splits
+key historicals
+key url
+canceling all orders...
+orders []
+getting detailed non zero
+looking up NSPR
+looking up BPMX
+looking up URTY
+made it [ { average_buy_price: 0.23,
+    symbol: 'NSPR',
+    quantity: '301.0000',
+    lastTrade: 0.2089,
+    prevClose: 0.239,
+    instrument: 'https://api.robinhood.com/instruments/53f6737c-4a9f-47c0-a9ae-21c70dde8bd6/',
+    yahooPrice: 0.2089 },
+  { average_buy_price: 0.1683,
+    symbol: 'BPMX',
+    quantity: '2951.0000',
+    lastTrade: 0.1611,
+    prevClose: 0.1877,
+    instrument: 'https://api.robinhood.com/instruments/d4343b04-5522-4ff6-a892-4fc97dc61b68/',
+    yahooPrice: 0.1611 },
+  { average_buy_price: 89.1375,
+    symbol: 'URTY',
+    quantity: '4.0000',
+    lastTrade: 84.13,
+    prevClose: 89.13,
+    instrument: 'https://api.robinhood.com/instruments/af05d9ed-68e7-4eaf-b93c-0298b37d806f/' } ]
+3 'total' 0 'gone up'
+06:30:00 30 6 * * 1-5 sell all stocks if went up  - 
+08:55:00 55 8 * * 1-5 sellAllIfWentUp  - 
+11:35:00 35 11 * * 1-5 sellAllIfWentUp  - 
+12:00:00 0 12 * * 1-5 sellAllStocks  - 

@@ -1,3 +1,5 @@
+const DISABLED = true; // records picks but does not purchase
+
 // utils
 const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
 
@@ -67,7 +69,7 @@ const daytime = {
             // run: [190, 250], // 10:41am, 11:31am
             run: [],
             fn: async (Robinhood, min) => {
-                await executeStrategy(Robinhood, trendFilter, min, 0.3, 'daytime');
+                await executeStrategy(Robinhood, trendFilter, min, 0.3, 'daytime', DISABLED);
             }
         });
     }

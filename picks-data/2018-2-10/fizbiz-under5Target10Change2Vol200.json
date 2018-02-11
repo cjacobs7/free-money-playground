@@ -1,0 +1,123 @@
+{
+  "610": [
+    {
+      "ticker": "DSX",
+      "price": 3.61
+    },
+    {
+      "ticker": "ATRS",
+      "price": 2.06
+    },
+    {
+      "ticker": "KERX",
+      "price": 4.49
+    },
+    {
+      "ticker": "CLD",
+      "price": 4.22
+    },
+    {
+      "ticker": "SGYP",
+      "price": 1.97
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.29
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.2
+    },
+    {
+      "ticker": "OZM",
+      "price": 2.33
+    },
+    {
+      "ticker": "UAN",
+      "price": 3.02
+    },
+    {
+      "ticker": "ASNA",
+      "price": 1.94
+    },
+    {
+      "ticker": "DHT",
+      "price": 3.61
+    },
+    {
+      "ticker": "BCRX",
+      "price": 4.94
+    },
+    {
+      "ticker": "NSU",
+      "price": 2.17
+    }
+  ],
+  "612": [
+    {
+      "ticker": "DSX",
+      "price": 3.61,
+      "trend": "6.18%"
+    },
+    {
+      "ticker": "ATRS",
+      "price": 2.06,
+      "trend": "5.10%"
+    },
+    {
+      "ticker": "KERX",
+      "price": 4.49,
+      "trend": "4.91%"
+    },
+    {
+      "ticker": "CLD",
+      "price": 4.22,
+      "trend": "4.46%"
+    },
+    {
+      "ticker": "SGYP",
+      "price": 1.97,
+      "trend": "4.23%"
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.29,
+      "trend": "3.87%"
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.2,
+      "trend": "3.77%"
+    },
+    {
+      "ticker": "OZM",
+      "price": 2.33,
+      "trend": "3.56%"
+    },
+    {
+      "ticker": "UAN",
+      "price": 3.02,
+      "trend": "3.42%"
+    },
+    {
+      "ticker": "ASNA",
+      "price": 1.94,
+      "trend": "3.19%"
+    },
+    {
+      "ticker": "DHT",
+      "price": 3.61,
+      "trend": "3.14%"
+    },
+    {
+      "ticker": "BCRX",
+      "price": 4.94,
+      "trend": "2.92%"
+    },
+    {
+      "ticker": "NSU",
+      "price": 2.17,
+      "trend": "2.84%"
+    }
+  ]
+}

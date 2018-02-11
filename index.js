@@ -3,7 +3,7 @@
 // console.log(stocks);
 const login = require('./rh-actions/login');
 // const initCrons = require('./app-actions/init-crons');
-const initStrategies = require('./app-actions/init-strategies');
+const initModules = require('./app-actions/init-modules');
 
 const getAllTickers = require('./rh-actions/get-all-tickers');
 const cancelAllOrders = require('./rh-actions/cancel-all-orders');
@@ -38,12 +38,11 @@ const sellAllIfWentUp = require('./app-actions/sell-all-if-went-up');
         .filter(stock => stock.tradeable)
         .map(stock => stock.symbol);
 
-    await cancelAllOrders(Robinhood);
+    // await cancelAllOrders(Robinhood);
 
     await logPortfolioValue(Robinhood);
-    await sellAllIfWentUp(Robinhood);
 
-    await initStrategies(Robinhood);
+    await initModules(Robinhood);
     regCronIncAfterSixThirty.display();
 
     // startCrons();
