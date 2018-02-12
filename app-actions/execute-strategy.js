@@ -7,7 +7,7 @@ const executeStrategy = async (Robinhood, strategyFn, min, ratioToSpend, strateg
     await cancelAllOrders(Robinhood);
     const trend = await getTrendAndSave(Robinhood, min + '*');
     const toPurchase = await strategyFn(Robinhood, trend);
-    await recordPicks(strategy, min, toPurchase);
+    await recordPicks(Robinhood, strategy, min, toPurchase);
     if (skipPurchaseFlag) return;
     await purchaseStocks(Robinhood, {
         stocksToBuy: toPurchase,

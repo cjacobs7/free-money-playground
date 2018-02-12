@@ -25,7 +25,7 @@ module.exports = async (Robinhood, {
     const {
         currentPrice,
         instrument
-    } = (await lookup(ticker, Robinhood));
+    } = (await lookup(Robinhood, ticker));
     bidPrice = bidPrice || currentPrice;
 
     bidPrice = +(Number(bidPrice).toFixed(2));

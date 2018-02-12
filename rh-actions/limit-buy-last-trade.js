@@ -37,7 +37,7 @@ const limitBuyLastTrade = async (Robinhood, { ticker, maxPrice, quantity, bidPri
         const {
             currentPrice,
             instrument
-        } = (await lookup(ticker, Robinhood));
+        } = (await lookup(Robinhood, ticker));
         bidPrice = bidPrice || currentPrice;
 
         bidPrice = +(Number(bidPrice).toFixed(2));

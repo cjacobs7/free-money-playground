@@ -6,7 +6,7 @@ module.exports = async (Robinhood) => {
     console.log('getting detailed non zero');
     const withTicks = await mapLimit(allPositions, 1, async pos => {
         const instrument = await Robinhood.url(pos.instrument);
-        const lookupObj = await lookup(instrument.symbol, Robinhood);
+        const lookupObj = await lookup(Robinhood, instrument.symbol);
         return {
             average_buy_price: Number(pos.average_buy_price),
             symbol: instrument.symbol,

@@ -21,11 +21,11 @@ const trendFilter = async (Robinhood, trend) => {
 
     console.log('total trend stocks', trend.length);
     const allUp = trend.filter(
-        stock => stock.trend_since_open && stock.trend_since_open > 3
+        stock => stock.trend_since_prev_close && stock.trend_since_prev_close > 3
     );
     console.log('trendingUp', allUp.length);
     let cheapBuys = allUp.filter(stock => {
-        return Number(stock.quote_data.last_trade_price) < 30;
+        return Number(stock.quote_data.last_trade_price) < 5;
     });
     console.log('trading below $30', cheapBuys.length);
 
@@ -33,7 +33,7 @@ const trendFilter = async (Robinhood, trend) => {
         ...buy,
         ...(await getRisk(Robinhood, buy.ticker)),
         trendingUp: await trendingUp(Robinhood, buy.ticker, [
-            50,
+            // 50,
             30,
             10,
             6
@@ -66,8 +66,8 @@ const daytime = {
         // runs at init
         regCronIncAfterSixThirty(Robinhood, {
             name: 'execute daytime strategy',
-            // run: [190, 250], // 10:41am, 11:31am
-            run: [],
+            run: [190, 250], // 10:41am, 11:31am
+            // run: [],
             fn: async (Robinhood, min) => {
                 await executeStrategy(Robinhood, trendFilter, min, 0.3, 'daytime', DISABLED);
             }

@@ -47,7 +47,7 @@ const additionalCronConfig = [
     // log port value
     // {
     //     name: 'log the portfolio value',
-    //     run: [195, 292, 390],
+    //     run: [195, 292],
     //     fn: logPortfolioValue
     // },
     // log the trend

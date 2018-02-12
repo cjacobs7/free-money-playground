@@ -20,7 +20,7 @@ const trendFilter = async (Robinhood, trend) => {
 
     console.log('total trend stocks', trend.length);
     const allUp = trend.filter(
-        stock => stock.trend_since_open && stock.trend_since_open > 3
+        stock => stock.trend_since_prev_close && stock.trend_since_prev_close > 3
     );
     console.log('trendingUp', allUp.length);
     let cheapBuys = allUp.filter(stock => {
@@ -47,7 +47,7 @@ const trendFilter = async (Robinhood, trend) => {
 
     console.log(cheapBuys, cheapBuys.length);
     return cheapBuys
-        .sort((a, b) => b.trend_since_open - a.trend_since_open)
+        .sort((a, b) => b.trend_since_prev_close - a.trend_since_prev_close)
         .slice(0, 5)    // top five trending up
         .map(stock => stock.ticker);
 };
@@ -58,8 +58,8 @@ const bigDayTrendUp = {
         // runs at init
         regCronIncAfterSixThirty(Robinhood, {
             name: 'execute big-day-trend-up strategy',
-            // run: [10, 30, 90], // 10:41am, 11:31am
-            run: [],
+            run: [10, 30, 90], // 10:41am, 11:31am
+            // run: [],
             fn: async (Robinhood, min) => {
                 await executeStrategy(Robinhood, trendFilter, min, 0.3, 'big-day-trend-up', DISABLED);
             }

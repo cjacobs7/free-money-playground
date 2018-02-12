@@ -4,7 +4,7 @@ const getTrend = require('../utils/get-trend');
 const avgArray = require('../utils/avg-array');
 
 const shouldWatchout = async (Robinhood, ticker) => {
-    console.log('evaluating risk ...', ticker);
+    // console.log('evaluating risk ...', ticker);
     const historicalDailyUrl = `https://api.robinhood.com/quotes/historicals/${ticker}/?interval=day`;
     let { historicals: dailyYear} = await Robinhood.url(historicalDailyUrl);
 

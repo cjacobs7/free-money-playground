@@ -17,20 +17,20 @@ const trendFilter = async (Robinhood, trend) => {
     // trending 7, 5, 3
     // not "watching out"
 
-    console.log('running beforeClose strategy');
+    console.log('running beforeCloseUp strategy');
 
-    const trendingAbove4 = trend.filter(stock => stock.trend_since_open && stock.trend_since_open > 2);
+    const trendingAbove4 = trend.filter(stock => stock.trend_since_prev_close > 2);
     console.log('trending above 4', trendingAbove4.length);
 
     let cheapBuys = trendingAbove4.filter(stock => {
-        return Number(stock.quote_data.last_trade_price) < 30;
+        return Number(stock.quote_data.last_trade_price) < 5;
     });
-    console.log('trading below $30', cheapBuys.length);
+    console.log('trading below $5', cheapBuys.length);
 
     cheapBuys = await mapLimit(cheapBuys, 20, async buy => ({
         ...buy,
         ...await getRisk(Robinhood, buy.ticker),
-        trendingUp: await trendingUp(Robinhood, buy.ticker, [7, 5, 3])
+        trendingUp: await trendingUp(Robinhood, buy.ticker, [7])
     }));
     // console.log('num watcout', cheapBuys.filter(buy => buy.shouldWatchout).length);
     console.log('num not trending', cheapBuys.filter(buy => !buy.trendingUp).length);
@@ -51,8 +51,8 @@ const beforeCloseUp = {
             Robinhood,
             {
                 name: 'execute before-close-up strategy',
-                // run: [350, 380],  // 12:31, 12:50pm
-                run: [],
+                run: [350, 380],  // 12:31, 12:50pm
+                // run: [],
                 fn: async (Robinhood, min) => {
                     await executeStrategy(Robinhood, trendFilter, min, 0.35, 'before-close-up', DISABLED);
                 }

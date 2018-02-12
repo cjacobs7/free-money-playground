@@ -19,13 +19,10 @@ const trendFilter = async (Robinhood, trend) => {
 
     console.log('running beforeClose strategy');
 
-    const trendingBelow10 = trend.filter(stock => stock.trend_since_open && stock.trend_since_open < -8);
+    const trendingBelow10 = trend.filter(stock => stock.trend_since_prev_close && stock.trend_since_prev_close < -8);
     console.log('trending below 10', trendingBelow10.length);
 
-    const notJumpedSinceYesterday = trendingBelow10.filter(stock => stock.trend_since_prev_close < 6);
-    console.log('not jumped more than 5% up since yesterday', notJumpedSinceYesterday.length);
-
-    let cheapBuys = notJumpedSinceYesterday.filter(stock => {
+    let cheapBuys = trendingBelow10.filter(stock => {
         return Number(stock.quote_data.last_trade_price) < 30;
     });
     console.log('trading below $30', cheapBuys.length);
@@ -54,7 +51,7 @@ const beforeClose = {
             Robinhood,
             {
                 name: 'execute before-close strategy',
-                run: [370],  // 12:31, 12:50pm
+                run: [351, 381],  // 12:31, 12:50pm
                 // run: [],
                 fn: async (Robinhood, min) => {
                     await executeStrategy(Robinhood, trendFilter, min, 0.55, 'before-close', DISABLED);

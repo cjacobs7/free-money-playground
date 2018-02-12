@@ -15,13 +15,13 @@ const getRelatedHistorical = (historicals, daysBack) => {
 
 const trendingUp = async (Robinhood, ticker, days) => {
     try {
-      
+
         const quoteData = await Robinhood.quote_data(ticker);
         let { previous_close: prevClose } = quoteData.results[0];
 
         const mustMatch = Array.isArray(days) ? days : [days];
 
-        console.log('trending up ? ...', ticker, mustMatch);
+        // console.log('trending up ? ...', ticker, mustMatch);
         const historicalDailyUrl = `https://api.robinhood.com/quotes/historicals/${ticker}/?interval=day`;
         let { historicals } = await Robinhood.url(historicalDailyUrl);
 
