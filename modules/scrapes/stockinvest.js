@@ -45,5 +45,5 @@ const scrapeStockInvest = async (browser, url) => {
 
 module.exports = {
     config,
-    scrapeStockInvest
+    scrapeFn: scrapeStockInvest
 };

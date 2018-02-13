@@ -1,0 +1,86 @@
+{
+  "7": [
+    {
+      "ticker": "CRNT",
+      "price": 2.45
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.2367
+    },
+    {
+      "ticker": "APRI",
+      "price": 2.7366
+    },
+    {
+      "ticker": "NEPT",
+      "price": 3.29
+    }
+  ],
+  "60": [
+    {
+      "ticker": "CRNT",
+      "price": 2.6001
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.27
+    },
+    {
+      "ticker": "APRI",
+      "price": 2.815
+    },
+    {
+      "ticker": "NEPT",
+      "price": 3.21
+    }
+  ],
+  "120": [
+    {
+      "ticker": "CRNT",
+      "price": 2.6235
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.27
+    },
+    {
+      "ticker": "APRI",
+      "price": 2.78
+    },
+    {
+      "ticker": "NEPT",
+      "price": 3.24
+    },
+    {
+      "ticker": "HTGM",
+      "price": 4.1905
+    },
+    {
+      "ticker": "AMPE",
+      "price": 3.4701
+    }
+  ],
+  "123": [
+    {
+      "ticker": "CRNT",
+      "price": 2.63
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.28
+    },
+    {
+      "ticker": "APRI",
+      "price": 2.7866
+    },
+    {
+      "ticker": "NEPT",
+      "price": 3.2511
+    },
+    {
+      "ticker": "HTGM",
+      "price": 4.16
+    }
+  ]
+}

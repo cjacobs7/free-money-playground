@@ -1,16 +1,13 @@
 const fs = require('mz/fs');
-const mapLimit = require('promise-map-limit');
 
-const login = require('../rh-actions/login');
 const getTrend = require('../utils/get-trend');
 const avgArray = require('../utils/avg-array');
 const jsonMgr = require('../utils/json-mgr');
 // const lookup = require('../utils/lookup');
 const chunkApi = require('../utils/chunk-api');
 
-let Robinhood;
+const analyzeDay = async (Robinhood, day) => {
 
-const analyzeDay = async (day) => {
     let files = await fs.readdir(`./picks-data/${day}`);
     console.log(files);
 
@@ -61,8 +58,8 @@ const analyzeDay = async (day) => {
         }));
         withTrend.push({
             strategyName: stratMin,
-            avgTrend: avgArray(picksWithTrend.map(pick => pick.trend)),
-            picks: picksWithTrend
+            avgTrend: avgArray(picksWithTrend.map(pick => pick.trend))
+            // picks: picksWithTrend
         });
     });
 
@@ -71,26 +68,31 @@ const analyzeDay = async (day) => {
         .filter(trend => trend.avgTrend)
         .sort((a, b) => b.avgTrend - a.avgTrend);
 
-    console.log(JSON.stringify(sortedByAvgTrend, null, 2));
+    // console.log(JSON.stringify(sortedByAvgTrend, null, 2));
 
+    return sortedByAvgTrend;
 
-  };
+};
 
-  (async () => {
+module.exports = async (Robinhood, min) => {
 
-    Robinhood = await login();
-
+    // console.log('running record')
+    // console.log(Robinhood, min);
     let folders = await fs.readdir('./picks-data');
+    // console.log(folders);
 
     let sortedFolders = folders.sort((a, b) => {
         return new Date(a) - new Date(b);
     });
 
+
     console.log(sortedFolders);
 
-    await analyzeDay(sortedFolders[sortedFolders.length - 1]);
+    const prevDayDate = sortedFolders[sortedFolders.length - 2];
+    const analyzed = await analyzeDay(Robinhood, prevDayDate);
 
-    // calcStratPerf('2018-1-18');
-    // sortedFiles.forEach(calcStratPerf);
-
-})();
+    const curStratPerfs = await jsonMgr.get(`./strat-perfs/${prevDayDate}.json`) || {};
+    curStratPerfs[`next-day-${min}`] = analyzed;
+    await jsonMgr.save(`./strat-perfs/${prevDayDate}.json`, curStratPerfs);
+    console.log('saved strat-perfs!')
+};

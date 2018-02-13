@@ -2,6 +2,8 @@
 // app actions
 const getTrendAndSave = require('../app-actions/get-trend-and-save');
 const logPortfolioValue = require('../app-actions/log-portfolio-value');
+const recordStratPerfs = require('../app-actions/record-strat-perfs');
+
 
 // utils
 const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
@@ -55,7 +57,13 @@ const additionalCronConfig = [
     //     name: 'log the trend',
     //     run: [75, 105, 180],
     //     fn: getTrendAndSave
-    // }
+    // },
+    // record prev day strat performances,
+    {
+        name: 'record-strat-perfs',
+        run: [9, 85, 155, 230, 270, 330, 149],
+        fn: recordStratPerfs
+    }
 ];
 
 const additionalCron = {

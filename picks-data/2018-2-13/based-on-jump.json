@@ -1,0 +1,842 @@
+{
+  "5": [
+    {
+      "ticker": "ZOM",
+      "price": 2.1
+    },
+    {
+      "ticker": "HAIR",
+      "price": 4.42
+    },
+    {
+      "ticker": "CETXW",
+      "price": 0.39
+    },
+    {
+      "ticker": "RVEN",
+      "price": 4.67
+    },
+    {
+      "ticker": "ONS",
+      "price": 1.21
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.2004
+    },
+    {
+      "ticker": "AQMS",
+      "price": 2.25
+    },
+    {
+      "ticker": "AEMD",
+      "price": 1.5585
+    },
+    {
+      "ticker": "FENX",
+      "price": 0.45
+    },
+    {
+      "ticker": "BVXVW",
+      "price": 1.7017
+    },
+    {
+      "ticker": "HTGM",
+      "price": 4.25
+    },
+    {
+      "ticker": "CNXR",
+      "price": 0.349
+    },
+    {
+      "ticker": "NTIP",
+      "price": 2.6
+    },
+    {
+      "ticker": "ADMA",
+      "price": 3.8695
+    },
+    {
+      "ticker": "XENE",
+      "price": 3.7
+    },
+    {
+      "ticker": "PRISY",
+      "price": 4
+    },
+    {
+      "ticker": "HMY",
+      "price": 1.8064
+    },
+    {
+      "ticker": "CIG",
+      "price": 2.265
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.485
+    },
+    {
+      "ticker": "TCPIF",
+      "price": 0.88
+    },
+    {
+      "ticker": "MOBL",
+      "price": 4.75
+    },
+    {
+      "ticker": "FNJN",
+      "price": 2.28
+    },
+    {
+      "ticker": "CPST",
+      "price": 0.925
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.181
+    },
+    {
+      "ticker": "THM",
+      "price": 0.4788
+    },
+    {
+      "ticker": "CRNT",
+      "price": 2.441
+    },
+    {
+      "ticker": "ATOS",
+      "price": 0.5501
+    },
+    {
+      "ticker": "JE",
+      "price": 4.895
+    },
+    {
+      "ticker": "RFIL",
+      "price": 3.1
+    },
+    {
+      "ticker": "BVX",
+      "price": 2.47
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.04
+    },
+    {
+      "ticker": "ENPH",
+      "price": 2.58
+    },
+    {
+      "ticker": "UTI",
+      "price": 2.63
+    },
+    {
+      "ticker": "ROX",
+      "price": 1.14
+    },
+    {
+      "ticker": "GIGA",
+      "price": 0.4
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.68
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.3451
+    },
+    {
+      "ticker": "HOS",
+      "price": 3.9675
+    },
+    {
+      "ticker": "AMPE",
+      "price": 3.01
+    },
+    {
+      "ticker": "RVP",
+      "price": 0.7697
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.75
+    },
+    {
+      "ticker": "SYNC",
+      "price": 2.15
+    },
+    {
+      "ticker": "OCN",
+      "price": 3.555
+    },
+    {
+      "ticker": "APRI",
+      "price": 2.75
+    },
+    {
+      "ticker": "GNMX",
+      "price": 2.35
+    },
+    {
+      "ticker": "QCCO",
+      "price": 0.52
+    },
+    {
+      "ticker": "EXFO",
+      "price": 4.4
+    },
+    {
+      "ticker": "SBSAA",
+      "price": 0.33
+    },
+    {
+      "ticker": "MLNK",
+      "price": 2.24
+    },
+    {
+      "ticker": "ICON",
+      "price": 1.64
+    },
+    {
+      "ticker": "FCRE",
+      "price": 0.93
+    },
+    {
+      "ticker": "AVIR",
+      "price": 0.8024
+    }
+  ],
+  "15": [
+    {
+      "ticker": "ZOM",
+      "price": 2.1
+    },
+    {
+      "ticker": "HAIR",
+      "price": 4.42
+    },
+    {
+      "ticker": "CETXW",
+      "price": 0.39
+    },
+    {
+      "ticker": "RVEN",
+      "price": 4.67
+    },
+    {
+      "ticker": "ONS",
+      "price": 1.21
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.2
+    },
+    {
+      "ticker": "AQMS",
+      "price": 2.7766
+    },
+    {
+      "ticker": "AEMD",
+      "price": 1.54
+    },
+    {
+      "ticker": "FENX",
+      "price": 0.49
+    },
+    {
+      "ticker": "BVXVW",
+      "price": 1.7017
+    },
+    {
+      "ticker": "HTGM",
+      "price": 4.1272
+    },
+    {
+      "ticker": "CNXR",
+      "price": 0.349
+    },
+    {
+      "ticker": "NTIP",
+      "price": 2.6
+    },
+    {
+      "ticker": "ADMA",
+      "price": 3.74
+    },
+    {
+      "ticker": "XENE",
+      "price": 3.7
+    },
+    {
+      "ticker": "PRISY",
+      "price": 4
+    },
+    {
+      "ticker": "HMY",
+      "price": 1.78
+    },
+    {
+      "ticker": "CIG",
+      "price": 2.27
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.5
+    },
+    {
+      "ticker": "TCPIF",
+      "price": 0.88
+    },
+    {
+      "ticker": "MOBL",
+      "price": 4.725
+    },
+    {
+      "ticker": "FNJN",
+      "price": 2.298
+    },
+    {
+      "ticker": "CPST",
+      "price": 0.925
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.1676
+    },
+    {
+      "ticker": "THM",
+      "price": 0.47
+    },
+    {
+      "ticker": "CRNT",
+      "price": 2.46
+    },
+    {
+      "ticker": "ATOS",
+      "price": 0.5617
+    },
+    {
+      "ticker": "JE",
+      "price": 4.815
+    },
+    {
+      "ticker": "RFIL",
+      "price": 3.15
+    },
+    {
+      "ticker": "BVX",
+      "price": 2.495
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.04
+    },
+    {
+      "ticker": "ENPH",
+      "price": 2.62
+    },
+    {
+      "ticker": "UTI",
+      "price": 2.63
+    },
+    {
+      "ticker": "ROX",
+      "price": 1.15
+    },
+    {
+      "ticker": "GIGA",
+      "price": 0.4
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.7
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.3476
+    },
+    {
+      "ticker": "HOS",
+      "price": 3.9589
+    },
+    {
+      "ticker": "AMPE",
+      "price": 3.07
+    },
+    {
+      "ticker": "RVP",
+      "price": 0.815
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.84
+    },
+    {
+      "ticker": "SYNC",
+      "price": 2.15
+    },
+    {
+      "ticker": "OCN",
+      "price": 3.49
+    },
+    {
+      "ticker": "APRI",
+      "price": 2.7816
+    },
+    {
+      "ticker": "GNMX",
+      "price": 2.4588
+    },
+    {
+      "ticker": "QCCO",
+      "price": 0.52
+    },
+    {
+      "ticker": "EXFO",
+      "price": 4.5
+    },
+    {
+      "ticker": "SBSAA",
+      "price": 0.33
+    },
+    {
+      "ticker": "MLNK",
+      "price": 2.24
+    },
+    {
+      "ticker": "ICON",
+      "price": 1.64
+    },
+    {
+      "ticker": "FCRE",
+      "price": 0.93
+    },
+    {
+      "ticker": "AVIR",
+      "price": 0.8166
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ZOM",
+      "price": 2.1
+    },
+    {
+      "ticker": "HAIR",
+      "price": 4.42
+    },
+    {
+      "ticker": "CETXW",
+      "price": 0.39
+    },
+    {
+      "ticker": "RVEN",
+      "price": 4.67
+    },
+    {
+      "ticker": "ONS",
+      "price": 1.21
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.192
+    },
+    {
+      "ticker": "AQMS",
+      "price": 2.83
+    },
+    {
+      "ticker": "AEMD",
+      "price": 1.54
+    },
+    {
+      "ticker": "FENX",
+      "price": 0.49
+    },
+    {
+      "ticker": "BVXVW",
+      "price": 1.7017
+    },
+    {
+      "ticker": "HTGM",
+      "price": 4.15
+    },
+    {
+      "ticker": "CNXR",
+      "price": 0.349
+    },
+    {
+      "ticker": "NTIP",
+      "price": 2.6
+    },
+    {
+      "ticker": "ADMA",
+      "price": 3.74
+    },
+    {
+      "ticker": "XENE",
+      "price": 3.6928
+    },
+    {
+      "ticker": "PRISY",
+      "price": 4
+    },
+    {
+      "ticker": "HMY",
+      "price": 1.785
+    },
+    {
+      "ticker": "CIG",
+      "price": 2.27
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.4876
+    },
+    {
+      "ticker": "TCPIF",
+      "price": 0.88
+    },
+    {
+      "ticker": "MOBL",
+      "price": 4.75
+    },
+    {
+      "ticker": "FNJN",
+      "price": 2.31
+    },
+    {
+      "ticker": "CPST",
+      "price": 0.925
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.17
+    },
+    {
+      "ticker": "THM",
+      "price": 0.47
+    },
+    {
+      "ticker": "CRNT",
+      "price": 2.49
+    },
+    {
+      "ticker": "ATOS",
+      "price": 0.5617
+    },
+    {
+      "ticker": "JE",
+      "price": 4.815
+    },
+    {
+      "ticker": "RFIL",
+      "price": 3.15
+    },
+    {
+      "ticker": "BVX",
+      "price": 2.495
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.03
+    },
+    {
+      "ticker": "ENPH",
+      "price": 2.62
+    },
+    {
+      "ticker": "UTI",
+      "price": 2.63
+    },
+    {
+      "ticker": "ROX",
+      "price": 1.15
+    },
+    {
+      "ticker": "GIGA",
+      "price": 0.4
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.7073
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.345
+    },
+    {
+      "ticker": "HOS",
+      "price": 3.95
+    },
+    {
+      "ticker": "AMPE",
+      "price": 3.0629
+    },
+    {
+      "ticker": "RVP",
+      "price": 0.8149
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.8393
+    },
+    {
+      "ticker": "SYNC",
+      "price": 2.15
+    },
+    {
+      "ticker": "OCN",
+      "price": 3.487
+    },
+    {
+      "ticker": "APRI",
+      "price": 2.789
+    },
+    {
+      "ticker": "GNMX",
+      "price": 2.4588
+    },
+    {
+      "ticker": "QCCO",
+      "price": 0.52
+    },
+    {
+      "ticker": "EXFO",
+      "price": 4.5
+    },
+    {
+      "ticker": "SBSAA",
+      "price": 0.33
+    },
+    {
+      "ticker": "MLNK",
+      "price": 2.24
+    },
+    {
+      "ticker": "ICON",
+      "price": 1.6195
+    },
+    {
+      "ticker": "FCRE",
+      "price": 0.93
+    },
+    {
+      "ticker": "AVIR",
+      "price": 0.79
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ZOM",
+      "price": 2.1
+    },
+    {
+      "ticker": "HAIR",
+      "price": 4.2421
+    },
+    {
+      "ticker": "CETXW",
+      "price": 0.39
+    },
+    {
+      "ticker": "RVEN",
+      "price": 4.67
+    },
+    {
+      "ticker": "ONS",
+      "price": 1.21
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.1606
+    },
+    {
+      "ticker": "AQMS",
+      "price": 2.78
+    },
+    {
+      "ticker": "AEMD",
+      "price": 1.5551
+    },
+    {
+      "ticker": "FENX",
+      "price": 0.49
+    },
+    {
+      "ticker": "BVXVW",
+      "price": 1.7
+    },
+    {
+      "ticker": "HTGM",
+      "price": 4.1
+    },
+    {
+      "ticker": "CNXR",
+      "price": 0.349
+    },
+    {
+      "ticker": "NTIP",
+      "price": 2.675
+    },
+    {
+      "ticker": "ADMA",
+      "price": 3.6583
+    },
+    {
+      "ticker": "XENE",
+      "price": 3.6928
+    },
+    {
+      "ticker": "PRISY",
+      "price": 4.6
+    },
+    {
+      "ticker": "HMY",
+      "price": 1.795
+    },
+    {
+      "ticker": "CIG",
+      "price": 2.27
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.5348
+    },
+    {
+      "ticker": "TCPIF",
+      "price": 0.84
+    },
+    {
+      "ticker": "MOBL",
+      "price": 4.75
+    },
+    {
+      "ticker": "FNJN",
+      "price": 2.32
+    },
+    {
+      "ticker": "CPST",
+      "price": 0.9135
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.1555
+    },
+    {
+      "ticker": "THM",
+      "price": 0.461
+    },
+    {
+      "ticker": "CRNT",
+      "price": 2.6
+    },
+    {
+      "ticker": "ATOS",
+      "price": 0.5501
+    },
+    {
+      "ticker": "JE",
+      "price": 4.7638
+    },
+    {
+      "ticker": "RFIL",
+      "price": 3.295
+    },
+    {
+      "ticker": "BVX",
+      "price": 2.495
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.099
+    },
+    {
+      "ticker": "ENPH",
+      "price": 2.6572
+    },
+    {
+      "ticker": "UTI",
+      "price": 2.63
+    },
+    {
+      "ticker": "ROX",
+      "price": 1.14
+    },
+    {
+      "ticker": "GIGA",
+      "price": 0.4
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.68
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.3496
+    },
+    {
+      "ticker": "HOS",
+      "price": 3.93
+    },
+    {
+      "ticker": "AMPE",
+      "price": 3.0449
+    },
+    {
+      "ticker": "RVP",
+      "price": 0.8275
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.8084
+    },
+    {
+      "ticker": "SYNC",
+      "price": 2.15
+    },
+    {
+      "ticker": "OCN",
+      "price": 3.48
+    },
+    {
+      "ticker": "APRI",
+      "price": 2.8695
+    },
+    {
+      "ticker": "GNMX",
+      "price": 2.3325
+    },
+    {
+      "ticker": "QCCO",
+      "price": 0.52
+    },
+    {
+      "ticker": "EXFO",
+      "price": 4.4811
+    },
+    {
+      "ticker": "SBSAA",
+      "price": 0.33
+    },
+    {
+      "ticker": "MLNK",
+      "price": 2.24
+    },
+    {
+      "ticker": "ICON",
+      "price": 1.5876
+    },
+    {
+      "ticker": "FCRE",
+      "price": 0.89
+    },
+    {
+      "ticker": "AVIR",
+      "price": 0.7952
+    }
+  ]
+}

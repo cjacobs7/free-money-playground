@@ -1,0 +1,149 @@
+{
+  "1": [],
+  "2": [],
+  "12": [],
+  "75": [
+    {
+      "ticker": "ONDK",
+      "price": 4.99
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.9201
+    },
+    {
+      "ticker": "GLUU",
+      "price": 3.8008
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.215
+    },
+    {
+      "ticker": "AKS",
+      "price": 4.8462
+    },
+    {
+      "ticker": "TRQ",
+      "price": 2.835
+    },
+    {
+      "ticker": "JCP",
+      "price": 3.56
+    }
+  ],
+  "120": [
+    {
+      "ticker": "MNKD",
+      "price": 2.96
+    },
+    {
+      "ticker": "GLUU",
+      "price": 3.755
+    },
+    {
+      "ticker": "NMM",
+      "price": 2.16
+    },
+    {
+      "ticker": "TOO",
+      "price": 2.57
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.22
+    },
+    {
+      "ticker": "AKS",
+      "price": 4.885
+    },
+    {
+      "ticker": "TNK",
+      "price": 1.165
+    },
+    {
+      "ticker": "JCP",
+      "price": 3.55
+    },
+    {
+      "ticker": "P",
+      "price": 4.74
+    },
+    {
+      "ticker": "JMEI",
+      "price": 2.795
+    },
+    {
+      "ticker": "TRQ",
+      "price": 2.86
+    },
+    {
+      "ticker": "SBGL",
+      "price": 4.425
+    }
+  ],
+  "158": [
+    {
+      "ticker": "MNKD",
+      "price": 2.96
+    },
+    {
+      "ticker": "GLUU",
+      "price": 3.79
+    },
+    {
+      "ticker": "TRQ",
+      "price": 2.85
+    },
+    {
+      "ticker": "JCP",
+      "price": 3.56
+    },
+    {
+      "ticker": "NMM",
+      "price": 2.1547
+    },
+    {
+      "ticker": "NSU",
+      "price": 2.1994
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.205
+    },
+    {
+      "ticker": "TOO",
+      "price": 2.52
+    }
+  ],
+  "165": [
+    {
+      "ticker": "ONDK",
+      "price": 4.84
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.97
+    },
+    {
+      "ticker": "GLUU",
+      "price": 3.815
+    },
+    {
+      "ticker": "NMM",
+      "price": 2.16
+    },
+    {
+      "ticker": "TRQ",
+      "price": 2.86
+    },
+    {
+      "ticker": "JCP",
+      "price": 3.5739
+    },
+    {
+      "ticker": "NSU",
+      "price": 2.197
+    }
+  ]
+}
