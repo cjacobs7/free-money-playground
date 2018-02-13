@@ -1,84 +1,95 @@
 const fs = require('mz/fs');
 const mapLimit = require('promise-map-limit');
+
+const login = require('../rh-actions/login');
 const getTrend = require('../utils/get-trend');
 const avgArray = require('../utils/avg-array');
+const jsonMgr = require('../utils/json-mgr');
+const lookup = require('../utils/lookup');
+const chunkApi = require('../utils/chunk-api');
 
-let sortedFiles, allTransObj;
+let sortedFiles, allTransObj, Robinhood;
 
-const calcStratPerf = date => {
+const analyzeDay = async (day) => {
+    let files = await fs.readdir(`./picks-data/${day}`);
+    console.log(files);
 
-    const transactions = allTransObj[date];
+    const tickerLookups = {};
+    const strategyPicks = {};
 
-    const sells = transactions.filter(t => t.type === 'sell');
-    // console.log(date, sells);
+    // load data from picks-data and keep track of tickers to lookup
+    for (let file of files) {
+        const strategyName = file.split('.')[0];
+        const obj = await jsonMgr.get(`./picks-data/${day}/${file}`);
+        // console.log(strategyName);
+        // console.log(obj);
 
-    const dayInd = sortedFiles.findIndex(f => f === date);
-    // console.log(dayInd);
-    const prevDay = sortedFiles[dayInd - 1];
-    if (!prevDay) return;
-    const prevDayTransactions = allTransObj[prevDay];
-
-    const stratPerf = {};
-    sells.forEach(sell => {
-
-        const buys = prevDayTransactions.filter(buy => {
-            return buy.type === 'buy' && buy.ticker === sell.ticker && buy.strategy;
-        });
-
-        if (sell.ticker === 'RLGT') {
-            console.log('rlgt', buys);
+        for (let min of Object.keys(obj)) {
+            // for each strategy run
+            strategyPicks[`${strategyName}-${min}`] = obj[min];
+            obj[min].forEach(({ticker}) => {
+                tickerLookups[ticker] = null;
+            });
         }
+    }
 
-        buys.forEach(buy => {
-            const foundStrategy = buy.strategy;
-            const trend = getTrend(sell.bid_price, buy.bid_price);
-            const obj = {
-                buyPrice: buy.bid_price,
-                sellPrice: sell.bid_price,
-                trend,
-                ticker: buy.ticker
-            };
-            stratPerf[foundStrategy] = (stratPerf[foundStrategy] || []).concat(obj);
+    // lookup prices of all tickers (chunked)
+    const tickersToLookup = Object.keys(tickerLookups);
+    let quotes = await chunkApi(
+        tickersToLookup,
+        async (tickerStr) => {
+            // console.log('ti', tickerStr);
+            const { results } = await Robinhood.url(`https://api.robinhood.com/quotes/?symbols=${tickerStr}`);
+            return results;
+        },
+        1630
+    );
+
+    quotes.forEach(({symbol, last_trade_price}) => {
+        tickerLookups[symbol] = Number(last_trade_price);
+    });
+
+    // calc trend and avg for each strategy-min
+    const withTrend = [];
+    Object.keys(strategyPicks).forEach(stratMin => {
+        const picks = strategyPicks[stratMin];
+        const picksWithTrend = picks.map(({ticker, price}) => ({
+            ticker,
+            thenPrice: price,
+            nowPrice: tickerLookups[ticker],
+            trend: getTrend(tickerLookups[ticker], price)
+        }));
+        withTrend.push({
+            strategyName: stratMin,
+            avgTrend: avgArray(picksWithTrend.map(pick => pick.trend)),
+            // picks: picksWithTrend
         });
-
-      // console.log(t.ticker, 'found matches', prevMatches);
-
     });
 
-    console.log(date, '.....')
-    Object.keys(stratPerf).forEach(strategy => {
-        stratPerf[strategy] = {
-            avgTrend: avgArray(stratPerf[strategy].map(t => t.trend)),
-            // transactions: stratPerf[strategy]
-        };
-        console.log(strategy, stratPerf[strategy]);
-    });
-    console.log('-----------------');
+
+    const sortedByAvgTrend = withTrend
+        .sort((a, b) => b.avgTrend - a.avgTrend);
+
+    console.log(JSON.stringify(sortedByAvgTrend, null, 2));
+
 
   };
 
   (async () => {
 
-    let files = await fs.readdir('./daily-transactions');
-    files = files.map(file => file.split('.')[0]);
+    Robinhood = await login();
 
-    sortedFiles = files.sort((a, b) => {
+    let folders = await fs.readdir('./picks-data');
+
+    let sortedFolders = folders.sort((a, b) => {
         return new Date(a) - new Date(b);
     });
 
-    console.log(sortedFiles);
-    const allTransactions = await mapLimit(sortedFiles, 1, async file => {
-        return JSON.parse(await fs.readFile('./daily-transactions/' + file + '.json', 'utf8'));
-    });
+    console.log(sortedFolders);
 
-    allTransObj = allTransactions.reduce((acc, val, ind) => {
-        acc[sortedFiles[ind]] = val;
-        return acc;
-    }, {});
-
-    // console.log(JSON.stringify(allTransObj, null, 2));
+    await analyzeDay(sortedFolders[0]);
 
     // calcStratPerf('2018-1-18');
-    sortedFiles.forEach(calcStratPerf);
+    // sortedFiles.forEach(calcStratPerf);
 
 })();
