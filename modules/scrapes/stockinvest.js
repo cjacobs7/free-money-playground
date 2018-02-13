@@ -1,5 +1,5 @@
 const config = {
-    RUN: [7, 60, 120, 260],
+    RUN: [7, 60, 123, 263],
     QUERIES: {
         top100: 'https://stockinvest.us/list/buy/top100',
         undervalued: 'https://stockinvest.us/list/undervalued'

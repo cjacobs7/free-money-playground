@@ -29,11 +29,6 @@ const perms = [
         name: '$3-$5-upstreak-5',
         priceFilter: price => price > 3 && price < 5,
         upstreak: 5
-    },
-    {
-        name: '$5-$15-upstreak-5',
-        priceFilter: price => price > 5 && price < 15,
-        upstreak: 5
     }
 ];
 
@@ -44,11 +39,11 @@ const upstreakStrategy = async (Robinhood, min) => {
 
     // get trend, filter < $15, add upstreak
     const trend = await getTrendAndSave(Robinhood, min + '*');
-    const under15 = trend.filter(stock => {
+    const under5 = trend.filter(stock => {
         return Number(stock.quote_data.last_trade_price) < 5;
     });
-    const withOvernightJump = await addOvernightJump(Robinhood, under15);
-    const withUpstreak = await mapLimit(withOvernightJump, 20, async buy => ({
+    console.log('uner 5', under5.length);
+    const withUpstreak = await mapLimit(under5, 20, async buy => ({
         ...buy,
         upstreak: await getUpStreak(Robinhood, buy.ticker)
     }));
@@ -100,8 +95,8 @@ const up10days = {
             Robinhood,
             {
                 name: 'execute up-streak strategy',
-                // run: [45, 989],  // 12:31, 12:50pm
-                run: [],
+                run: [45, 189],  // 12:31, 12:50pm
+                // run: [],
                 fn: (Robinhood, min) => setTimeout(() => {
                     upstreakStrategy(Robinhood, min);
                 }, 5000)
