@@ -1,0 +1,128 @@
+{
+  "851": [
+    {
+      "ticker": "BLBD",
+      "price": 23.4
+    },
+    {
+      "ticker": "MTCH",
+      "price": 37.99
+    },
+    {
+      "ticker": "CRNT",
+      "price": 2.49
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.2
+    },
+    {
+      "ticker": "QNST",
+      "price": 12.13
+    },
+    {
+      "ticker": "SEAS",
+      "price": 15.82
+    },
+    {
+      "ticker": "CACI",
+      "price": 149.2
+    },
+    {
+      "ticker": "ECHO",
+      "price": 29.45
+    },
+    {
+      "ticker": "ARGX",
+      "price": 80.78
+    },
+    {
+      "ticker": "MCO",
+      "price": 159.28
+    },
+    {
+      "ticker": "APRI",
+      "price": 2.7
+    },
+    {
+      "ticker": "ENVA",
+      "price": 20.85
+    },
+    {
+      "ticker": "VIPS",
+      "price": 16.39
+    },
+    {
+      "ticker": "ARES",
+      "price": 23
+    },
+    {
+      "ticker": "QURE",
+      "price": 22.32
+    },
+    {
+      "ticker": "UIS",
+      "price": 10.25
+    },
+    {
+      "ticker": "PIRS",
+      "price": 8.88
+    },
+    {
+      "ticker": "OTEL",
+      "price": 17.5
+    },
+    {
+      "ticker": "NEPT",
+      "price": 3.4
+    },
+    {
+      "ticker": "LION",
+      "price": 23.71
+    }
+  ],
+  "866": [
+    {
+      "ticker": "CRNT",
+      "price": 2.49
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.2
+    },
+    {
+      "ticker": "APRI",
+      "price": 2.7
+    },
+    {
+      "ticker": "NEPT",
+      "price": 3.4
+    },
+    {
+      "ticker": "HTGM",
+      "price": 4.05
+    }
+  ],
+  "868": [
+    {
+      "ticker": "CRNT",
+      "price": 2.49
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.2
+    },
+    {
+      "ticker": "APRI",
+      "price": 2.7
+    },
+    {
+      "ticker": "NEPT",
+      "price": 3.4
+    },
+    {
+      "ticker": "AMPE",
+      "price": 3.07
+    }
+  ]
+}

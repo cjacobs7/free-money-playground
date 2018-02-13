@@ -5,7 +5,7 @@ const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
 
 // app-actions
 const executeStrategy = require('../app-actions/execute-strategy');
-
+const addTrendSinceOpen = require('../app-actions/add-trend-since-open');
 // npm
 const mapLimit = require('promise-map-limit');
 
@@ -20,16 +20,20 @@ const trendFilter = async (Robinhood, trend) => {
     console.log('running daytime strategy');
 
     console.log('total trend stocks', trend.length);
-    const allUp = trend.filter(
-        stock => stock.trend_since_prev_close && stock.trend_since_prev_close > 3
+
+    let cheapBuys = trend.filter(stock => {
+        return Number(stock.quote_data.last_trade_price) < 6;
+    });
+
+    console.log('trading below $6', cheapBuys.length);
+    const withTrendSinceOpen = await addTrendSinceOpen(Robinhood, cheapBuys);
+    let allUp = withTrendSinceOpen.filter(
+        stock => stock.trendSinceOpen && stock.trendSinceOpen > 3
     );
     console.log('trendingUp', allUp.length);
-    let cheapBuys = allUp.filter(stock => {
-        return Number(stock.quote_data.last_trade_price) < 5;
-    });
-    console.log('trading below $30', cheapBuys.length);
 
-    cheapBuys = await mapLimit(cheapBuys, 20, async buy => ({
+
+    const withTrendingUp = await mapLimit(allUp, 20, async buy => ({
         ...buy,
         ...(await getRisk(Robinhood, buy.ticker)),
         trendingUp: await trendingUp(Robinhood, buy.ticker, [
@@ -42,22 +46,22 @@ const trendFilter = async (Robinhood, trend) => {
 
     console.log(
         'num watcout',
-        cheapBuys.filter(buy => buy.shouldWatchout).length
+        withTrendingUp.filter(buy => buy.shouldWatchout).length
     );
     console.log(
         'num not trending',
-        cheapBuys.filter(buy => !buy.trendingUp).length
+        withTrendingUp.filter(buy => !buy.trendingUp).length
     );
     console.log(
         '> 8% below max of year',
-        cheapBuys.filter(buy => buy.percMax > -8).length
+        withTrendingUp.filter(buy => buy.percMax > -8).length
     );
-    cheapBuys = cheapBuys.filter(
+    withTrendingUp = withTrendingUp.filter(
         buy => !buy.shouldWatchout && buy.trendingUp && buy.percMax < -8
     );
 
-    console.log(cheapBuys, cheapBuys.length);
-    return cheapBuys.map(stock => stock.ticker);
+    console.log(withTrendingUp, withTrendingUp.length);
+    return withTrendingUp.map(stock => stock.ticker);
 };
 
 const daytime = {

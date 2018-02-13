@@ -1,5 +1,9 @@
-const getTrendAndSave = require('../app-actions/get-trend-and-save');
+const DISABLED = true; // records picks but does not purchase
+
+// utils
+const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
 const getMultipleHistoricals = require('../app-actions/get-multiple-historicals');
+const executeStrategy = require('../app-actions/execute-strategy');
 
 const mapLimit = require('promise-map-limit');
 
@@ -26,9 +30,7 @@ const DAY_PERMS = [
     }
 ];
 
-module.exports = async Robinhood => {
-
-    let trend = await getTrendAndSave(Robinhood);
+const trendFilter = async (Robinhood, trend) => {
 
     let cheapBuys = trend
         .filter(stock => {
@@ -157,6 +159,24 @@ module.exports = async Robinhood => {
         .map(ticker => ({
             ticker,
             ...stockResults[ticker],
-        }));
+        }))
+        .map(({ticker}) => ticker); // uncomment for in depth object
 
 };
+
+const swings = {
+    trendFilter,
+    init: Robinhood => {
+        // runs at init
+        regCronIncAfterSixThirty(Robinhood, {
+            name: 'execute swings strategy',
+            run: [190, 250, 895], // 10:41am, 11:31am
+            // run: [],
+            fn: async (Robinhood, min) => {
+                await executeStrategy(Robinhood, trendFilter, min, 0.3, 'swings', DISABLED);
+            }
+        });
+    }
+};
+
+module.exports = swings;

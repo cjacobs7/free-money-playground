@@ -15,7 +15,7 @@ const trendingUp = require('../rh-actions/trending-up');
 const addOvernightJump = require('../app-actions/add-overnight-jump');
 
 const trendFilter = async (Robinhood, trend) => {
-    // stocks that went down overnight
+    // stocks that went up overnight and
     // trending upward
     console.log('running based-on-jump strategy');
 
@@ -25,10 +25,10 @@ const trendFilter = async (Robinhood, trend) => {
 
     console.log('total cheapbuys', cheapBuys.length);
 
-    let downOvernight = await addOvernightJump(Robinhood, cheapBuys);
-    downOvernight = downOvernight.filter(stock => stock.overnightJump < -4);
+    let upOvernight = await addOvernightJump(Robinhood, cheapBuys);
+    upOvernight = upOvernight.filter(stock => stock.overnightJump > 3);
 
-    downOvernight = await mapLimit(cheapBuys, 20, async buy => ({
+    upOvernight = await mapLimit(cheapBuys, 20, async buy => ({
         ...buy,
         ...(await getRisk(Robinhood, buy.ticker)),
         trendingUp: await trendingUp(Robinhood, buy.ticker, [35, 25, 7])
@@ -36,16 +36,16 @@ const trendFilter = async (Robinhood, trend) => {
 
     console.log(
         'num not trending',
-        downOvernight.filter(buy => !buy.trendingUp).length
+        upOvernight.filter(buy => !buy.trendingUp).length
     );
     console.log(
         '> 8% below max of year',
-        downOvernight.filter(buy => buy.percMax > -8).length
+        upOvernight.filter(buy => buy.percMax > -8).length
     );
-    downOvernight = downOvernight.filter(buy => buy.trendingUp && buy.percMax < -8);
+    upOvernight = upOvernight.filter(buy => buy.trendingUp && buy.percMax < -8);
 
-    console.log(cheapBuys, downOvernight.length);
-    return downOvernight.map(stock => stock.ticker);
+    console.log(cheapBuys, upOvernight.length);
+    return upOvernight.map(stock => stock.ticker);
 };
 
 // based on jump
@@ -56,7 +56,7 @@ const basedOnJump = {
         // runs at init
         regCronIncAfterSixThirty(Robinhood, {
             name: 'record based-on-jump strategy',
-            run: [15], // 7:00am
+            run: [5, 15, 30], // 7:00am
             fn: async (Robinhood, min) => {
                 setTimeout(async () => {
                     await executeStrategy(Robinhood, trendFilter, min, 0.2, 'based-on-jump', DISABLED);

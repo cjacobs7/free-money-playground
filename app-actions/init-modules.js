@@ -14,9 +14,9 @@ module.exports = async (Robinhood) => {
     for (let file of files) {
         const isDir = (await fs.lstat(file)).isDirectory();
         // if (!isDir) {
-            const moduleObj = require(file);
-            moduleObj.init(Robinhood);
-            modules.push(moduleObj);
+        const moduleObj = require(file);
+        moduleObj.init(Robinhood);
+        modules.push(moduleObj);
         // }
     }
 
