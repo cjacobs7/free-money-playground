@@ -1,0 +1,68 @@
+{
+  "10": [
+    {
+      "ticker": "AMBR",
+      "price": 10.2099
+    },
+    {
+      "ticker": "ADMA",
+      "price": 4.81
+    },
+    {
+      "ticker": "FNJN",
+      "price": 2.165
+    },
+    {
+      "ticker": "CRNT",
+      "price": 2.38
+    },
+    {
+      "ticker": "JMBA",
+      "price": 8.3
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMBR",
+      "price": 9.9699
+    },
+    {
+      "ticker": "FNJN",
+      "price": 2.155
+    },
+    {
+      "ticker": "JMBA",
+      "price": 8.33
+    },
+    {
+      "ticker": "SEII",
+      "price": 4.1784
+    },
+    {
+      "ticker": "ADMA",
+      "price": 4.17
+    }
+  ],
+  "90": [
+    {
+      "ticker": "AMBR",
+      "price": 9.5
+    },
+    {
+      "ticker": "FNJN",
+      "price": 2.25
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.3197
+    },
+    {
+      "ticker": "JMBA",
+      "price": 8.49
+    },
+    {
+      "ticker": "CRNT",
+      "price": 2.35
+    }
+  ]
+}

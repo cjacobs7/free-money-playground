@@ -8,8 +8,8 @@ const QUERIES = {
     under5TopLosers: 'https://finviz.com/screener.ashx?v=111&s=ta_toplosers&f=sh_price_u5'
 };
 
-const scrapeFizbiz = async (url) => {
-    const browser = await puppeteer.launch({headless: true });
+const scrapeFizbiz = async (browser, url) => {
+
     const page = await browser.newPage();
     await page.goto(url);
     const results = await page.evaluate(() => {
@@ -28,7 +28,7 @@ const scrapeFizbiz = async (url) => {
         return tickers;
     });
     console.log('got em ')
-    await browser.close();
+    await page.close();
     console.log('returning')
     return results;
 }
@@ -45,12 +45,14 @@ const finbizScrapes = {
 
                 console.log('running fizbiz')
                 const queries = Object.keys(QUERIES);
+                const browser = await puppeteer.launch({headless: true });
                 for (let queryName of queries) {
                     console.log(queryName);
-                    const queryPicks = await scrapeFizbiz(QUERIES[queryName]);
+                    const queryPicks = await scrapeFizbiz(browser, QUERIES[queryName]);
                     console.log(queryName, queryPicks);
                     await registerPicks(Robinhood, `fizbiz-${queryName}`, min, queryPicks);
                 }
+                await browser.close();
 
             }
         });
