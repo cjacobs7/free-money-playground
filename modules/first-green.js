@@ -95,7 +95,7 @@ const firstGreens = {
         // runs at init
         regCronIncAfterSixThirty(Robinhood, {
             name: 'execute first-greens strategy',
-            run: [190, 250, 893], // 10:41am, 11:31am
+            run: [190, 250], // 10:41am, 11:31am
             // run: [],
             fn: async (Robinhood, min) => {
                 await executeStrategy(Robinhood, trendFilter, min, 0.3, 'first-greens', DISABLED);
