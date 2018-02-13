@@ -5,7 +5,7 @@ const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
 
 // app-actions
 const executeStrategy = require('../app-actions/execute-strategy');
-
+const addTrendSinceOpen = require('../app-actions/add-trend-since-open');
 // npm
 const mapLimit = require('promise-map-limit');
 
@@ -19,14 +19,18 @@ const trendFilter = async (Robinhood, trend) => {
     console.log('running big-day-trend-up strategy');
 
     console.log('total trend stocks', trend.length);
-    const allUp = trend.filter(
-        stock => stock.trend_since_prev_close && stock.trend_since_prev_close > 3
+
+    let cheapBuys = trend.filter(stock => {
+        return Number(stock.quote_data.last_trade_price) < 6;
+    });
+
+    console.log('trading below $6', cheapBuys.length);
+    const withTrendSinceOpen = await addTrendSinceOpen(Robinhood, cheapBuys);
+    const allUp = withTrendSinceOpen.filter(
+        stock => stock.trendSinceOpen && stock.trendSinceOpen > 3
     );
     console.log('trendingUp', allUp.length);
-    let cheapBuys = allUp.filter(stock => {
-        return Number(stock.quote_data.last_trade_price) < 30;
-    });
-    console.log('trading below $30', cheapBuys.length);
+
 
     cheapBuys = await mapLimit(cheapBuys, 20, async buy => ({
         ...buy,
@@ -47,7 +51,7 @@ const trendFilter = async (Robinhood, trend) => {
 
     console.log(cheapBuys, cheapBuys.length);
     return cheapBuys
-        .sort((a, b) => b.trend_since_prev_close - a.trend_since_prev_close)
+        .sort((a, b) => b.trendSinceOpen - a.trendSinceOpen)
         .slice(0, 5)    // top five trending up
         .map(stock => stock.ticker);
 };
@@ -58,7 +62,7 @@ const bigDayTrendUp = {
         // runs at init
         regCronIncAfterSixThirty(Robinhood, {
             name: 'execute big-day-trend-up strategy',
-            run: [10, 30, 90], // 10:41am, 11:31am
+            run: [10, 30, 90, 806], // 10:41am, 11:31am
             // run: [],
             fn: async (Robinhood, min) => {
                 await executeStrategy(Robinhood, trendFilter, min, 0.3, 'big-day-trend-up', DISABLED);

@@ -62,7 +62,7 @@ const analyzeDay = async (day) => {
         withTrend.push({
             strategyName: stratMin,
             avgTrend: avgArray(picksWithTrend.map(pick => pick.trend)),
-            // picks: picksWithTrend
+            picks: picksWithTrend
         });
     });
 
