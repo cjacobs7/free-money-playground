@@ -1,0 +1,86 @@
+{
+  "862": [
+    {
+      "ticker": "NXTDW",
+      "price": 0.38
+    },
+    {
+      "ticker": "INFI",
+      "price": 1.8
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.36
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.3877
+    },
+    {
+      "ticker": "INPX",
+      "price": 3.52
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 3.66
+    },
+    {
+      "ticker": "ZDGE",
+      "price": 3.17
+    },
+    {
+      "ticker": "SMRT",
+      "price": 0.54
+    },
+    {
+      "ticker": "CPAH",
+      "price": 3.69
+    },
+    {
+      "ticker": "CODA",
+      "price": 4.79
+    }
+  ],
+  "872": [
+    {
+      "ticker": "NXTDW",
+      "price": 0.38
+    },
+    {
+      "ticker": "INFI",
+      "price": 1.8
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.36
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.3877
+    },
+    {
+      "ticker": "INPX",
+      "price": 3.52
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 3.66
+    },
+    {
+      "ticker": "ZDGE",
+      "price": 3.17
+    },
+    {
+      "ticker": "SMRT",
+      "price": 0.54
+    },
+    {
+      "ticker": "CPAH",
+      "price": 3.69
+    },
+    {
+      "ticker": "CODA",
+      "price": 4.79
+    }
+  ]
+}

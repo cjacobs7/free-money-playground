@@ -1,12 +1,12 @@
 const chunkApi = require('../utils/chunk-api');
 const getTrend = require('../utils/get-trend');
 
-module.exports = async (Robinhood, tickers) => {
+module.exports = async (Robinhood, tickers, qs = 'interval=day') => {
 
     const allHistoricals = await chunkApi(
         tickers,
         async (tickerStr) => {
-            const { results } = await Robinhood.url(`https://api.robinhood.com/quotes/historicals/?symbols=${tickerStr}&interval=day`);
+            const { results } = await Robinhood.url(`https://api.robinhood.com/quotes/historicals/?symbols=${tickerStr}&${qs}`);
             return results;
         },
         75

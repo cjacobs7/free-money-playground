@@ -5,6 +5,7 @@ const mapLimit = require('promise-map-limit');
 
 let Robinhood;
 
+const getMultipleHistoricals = require('../app-actions/get-multiple-historicals');
 const addOvernightJump = require('../app-actions/add-overnight-jump');
 const getUpStreak = require('../app-actions/get-up-streak');
 const avgArray = require('../utils/avg-array');
@@ -21,16 +22,14 @@ const getHistorical = async ticker => {
 
     Robinhood = await login();
 
-    let trend = require('/Users/johnmurphy/Development/my-stuff/robinhood-playground/stock-data/2018-1-23 13:04:23 (+391).json');
-    // let trend = await getTrendAndSave(Robinhood);
-
-    trend = await addOvernightJump(Robinhood, trend);
-
-
+    // let trend = require('/Users/johnmurphy/Development/my-stuff/robinhood-playground/stock-data/2018-1-23 13:04:23 (+391).json');
+    let trend = await getTrendAndSave(Robinhood);
     let cheapBuys = trend
-        // .filter(stock => {
-        //     return Number(stock.quote_data.last_trade_price) > 5 && Number(stock.quote_data.last_trade_price) < 6;
-        // });
+        .filter(stock => {
+            return Number(stock.quote_data.last_trade_price) > 5 && Number(stock.quote_data.last_trade_price) < 6;
+        });
+
+    cheapBuys = await addOvernightJump(Robinhood, cheapBuys);
 
     // var allTickers = require('../stock-data/allStocks');
     // allTickers = allTickers
@@ -38,20 +37,30 @@ const getHistorical = async ticker => {
     //     .map(stock => stock.symbol);
 
 
-    console.log('getting historicals')
+    console.log('getting historicals', cheapBuys);
+
+    let allHistoricals = await getMultipleHistoricals(
+        Robinhood,
+        cheapBuys.map(buy => buy.ticker)
+    );
+
+    let withHistoricals = cheapBuys.map((buy, i) => ({
+        ...buy,
+        historicals: allHistoricals[i]
+    }));
 
     let curIndex = 0;
-    cheapBuys = await mapLimit(cheapBuys, 20, async buy => {
+    withHistoricals = await mapLimit(withHistoricals, 20, async buy => {
 
-        if (curIndex % Math.floor(cheapBuys.length / 10) === 0) {
-            console.log('historical', curIndex, 'of', cheapBuys.length);
+        if (curIndex % Math.floor(withHistoricals.length / 10) === 0) {
+            console.log('historical', curIndex, 'of', withHistoricals.length);
         }
         curIndex++;
 
 
         var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
 
-        let prehistoricals = await getHistorical(buy.ticker) || [];
+        let prehistoricals = buy.historicals || [];
 
         let index = 0;
         let historicals = await mapLimit(prehistoricals, 1, async hist => {
@@ -77,6 +86,8 @@ const getHistorical = async ticker => {
             };
 
         });
+
+        console.log(historicals,'hist');
 
         return {
             ...buy,
@@ -105,7 +116,7 @@ const getHistorical = async ticker => {
 
     let onlyAggs = [].concat.apply(
         [],
-        cheapBuys.map(buy => buy.dowAgg)
+        withHistoricals.map(buy => buy.dowAgg)
     )
         .filter(agg => agg.percUp && agg.avgToday && agg.count > 5)
         .filter(agg => agg.day === 'Friday');
@@ -119,7 +130,7 @@ const getHistorical = async ticker => {
 
     const addWentUp = aggregate => {
         return aggregate.map(agg => {
-            const relBuy = cheapBuys.find(buy => agg.ticker === buy.ticker);
+            const relBuy = withHistoricals.find(buy => agg.ticker === buy.ticker);
             if (!relBuy.historicals) { return agg; }
             const todayHist = relBuy.historicals[relBuy.historicals.length - 1];
             return {

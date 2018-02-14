@@ -548,5 +548,165 @@
       "ticker": "NEPT",
       "price": 3.2101
     }
+  ],
+  "180": [
+    {
+      "ticker": "DARE",
+      "price": 1.67
+    },
+    {
+      "ticker": "AFMD",
+      "price": 2.075
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 4.1856
+    },
+    {
+      "ticker": "INPX",
+      "price": 3.35
+    },
+    {
+      "ticker": "EMAN",
+      "price": 1.545
+    },
+    {
+      "ticker": "BASI",
+      "price": 1.63
+    },
+    {
+      "ticker": "ICON",
+      "price": 1.57
+    },
+    {
+      "ticker": "USAU",
+      "price": 2.141
+    },
+    {
+      "ticker": "MCF",
+      "price": 3
+    },
+    {
+      "ticker": "AVGR",
+      "price": 3.1109
+    },
+    {
+      "ticker": "KDMN",
+      "price": 4.31
+    },
+    {
+      "ticker": "NWY",
+      "price": 2.72
+    },
+    {
+      "ticker": "CLD",
+      "price": 4.05
+    },
+    {
+      "ticker": "WFT",
+      "price": 2.65
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.5
+    },
+    {
+      "ticker": "PACB",
+      "price": 2.3701
+    },
+    {
+      "ticker": "RVLT",
+      "price": 3.86
+    },
+    {
+      "ticker": "MYSZ",
+      "price": 1.321
+    },
+    {
+      "ticker": "BPTH",
+      "price": 1.82
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.38
+    }
+  ],
+  "380": [
+    {
+      "ticker": "DARE",
+      "price": 1.67
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 3.6558
+    },
+    {
+      "ticker": "AVGR",
+      "price": 2.65
+    },
+    {
+      "ticker": "KDMN",
+      "price": 3.8
+    },
+    {
+      "ticker": "BASI",
+      "price": 1.61
+    },
+    {
+      "ticker": "AFMD",
+      "price": 2.075
+    },
+    {
+      "ticker": "USAU",
+      "price": 2.0199
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.05
+    },
+    {
+      "ticker": "MYND",
+      "price": 2.211
+    },
+    {
+      "ticker": "ICON",
+      "price": 1.555
+    },
+    {
+      "ticker": "INPX",
+      "price": 3.53
+    },
+    {
+      "ticker": "EMAN",
+      "price": 1.575
+    },
+    {
+      "ticker": "NWY",
+      "price": 2.71
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.7099
+    },
+    {
+      "ticker": "RVLT",
+      "price": 3.8402
+    },
+    {
+      "ticker": "BPTH",
+      "price": 1.8066
+    },
+    {
+      "ticker": "DEST",
+      "price": 2.14
+    },
+    {
+      "ticker": "MCF",
+      "price": 3.01
+    },
+    {
+      "ticker": "PES",
+      "price": 2.575
+    }
   ]
 }

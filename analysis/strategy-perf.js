@@ -7,6 +7,7 @@ const avgArray = require('../utils/avg-array');
 const jsonMgr = require('../utils/json-mgr');
 // const lookup = require('../utils/lookup');
 const chunkApi = require('../utils/chunk-api');
+const filterByTradeable = require('../utils/filter-by-tradeable');
 
 let Robinhood;
 
@@ -53,12 +54,15 @@ const analyzeDay = async (day) => {
     const withTrend = [];
     Object.keys(strategyPicks).forEach(stratMin => {
         const picks = strategyPicks[stratMin];
-        const picksWithTrend = picks.map(({ticker, price}) => ({
-            ticker,
-            thenPrice: price,
-            nowPrice: tickerLookups[ticker],
-            trend: getTrend(tickerLookups[ticker], price)
-        }));
+        const picksWithTrend = filterByTradeable(picks.map(({ticker}) => ticker))
+            .map(ticker => picks.find(pick => pick.ticker === ticker))
+            .map(({ticker, price}) => ({
+                ticker,
+                thenPrice: price,
+                nowPrice: tickerLookups[ticker],
+                trend: getTrend(tickerLookups[ticker], price)
+            }))
+            .filter(({nowPrice}) => nowPrice > 0.01);
         withTrend.push({
             strategyName: stratMin,
             avgTrend: avgArray(picksWithTrend.map(pick => pick.trend)),
@@ -74,9 +78,9 @@ const analyzeDay = async (day) => {
     console.log(JSON.stringify(sortedByAvgTrend, null, 2));
 
 
-  };
+};
 
-  (async () => {
+(async () => {
 
     Robinhood = await login();
 

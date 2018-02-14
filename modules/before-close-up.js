@@ -19,8 +19,8 @@ const trendFilter = async (Robinhood, trend) => {
 
     console.log('running beforeCloseUp strategy');
 
-    const trendingAbove4 = trend.filter(stock => stock.trend_since_prev_close > 2);
-    console.log('trending above 4', trendingAbove4.length);
+    const trendingAbove4 = trend.filter(stock => stock.trend_since_prev_close > 3);
+    console.log('trending above 3', trendingAbove4.length);
 
     let cheapBuys = trendingAbove4.filter(stock => {
         return Number(stock.quote_data.last_trade_price) < 5;
@@ -39,7 +39,10 @@ const trendFilter = async (Robinhood, trend) => {
 
     console.log(cheapBuys, cheapBuys.length);
 
-    return cheapBuys.map(stock => stock.ticker);
+    return cheapBuys
+        .sort((a, b) => b.trend_since_prev_close - a.trend_since_prev_close)
+        .slice(0, 10)
+        .map(stock => stock.ticker);
 
 };
 

@@ -1,5 +1,5 @@
 const config = {
-    RUN: [2, 12, 75, 120, 165, 180, 380],
+    RUN: [2, 12, 75, 120, 180, 380],
     QUERIES: {
         under5Target10Change2Vol200: 'https://finviz.com/screener.ashx?v=111&f=cap_smallover,sh_curvol_o200,sh_price_u5,ta_change_u2,ta_changeopen_u,targetprice_a10&ft=4&o=-change',
         under5TopLosers: 'https://finviz.com/screener.ashx?v=111&s=ta_toplosers&f=sh_price_u5'

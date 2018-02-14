@@ -49,7 +49,7 @@ const getHistorical = async ticker => {
         }
         curIndex++;
 
-        let prehistoricals = await getHistorical(buy.ticker) || [];
+        let prehistoricals = buy.historicals || [];
 
         let index = 0;
         let historicals = await mapLimit(prehistoricals, 1, async hist => {

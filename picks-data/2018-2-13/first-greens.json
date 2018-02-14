@@ -1,0 +1,86 @@
+{
+  "190": [
+    {
+      "ticker": "RHE",
+      "price": 0.2143
+    },
+    {
+      "ticker": "MNGA",
+      "price": 1.4898
+    },
+    {
+      "ticker": "ADXSW",
+      "price": 0.71
+    },
+    {
+      "ticker": "PED",
+      "price": 0.3
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.3496
+    },
+    {
+      "ticker": "MYND",
+      "price": 2.57
+    },
+    {
+      "ticker": "CELH",
+      "price": 5.13
+    },
+    {
+      "ticker": "FOMX",
+      "price": 6.21
+    },
+    {
+      "ticker": "BOIL",
+      "price": 5.265
+    },
+    {
+      "ticker": "CPSS",
+      "price": 4.01
+    }
+  ],
+  "250": [
+    {
+      "ticker": "XCOOQ",
+      "price": 0.37
+    },
+    {
+      "ticker": "ADXSW",
+      "price": 0.71
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.21
+    },
+    {
+      "ticker": "NXTDW",
+      "price": 0.4225
+    },
+    {
+      "ticker": "ITUS",
+      "price": 2.97
+    },
+    {
+      "ticker": "FOMX",
+      "price": 6.22
+    },
+    {
+      "ticker": "CPSS",
+      "price": 4.03
+    },
+    {
+      "ticker": "BOIL",
+      "price": 5.269
+    },
+    {
+      "ticker": "CELH",
+      "price": 5.1
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.385
+    }
+  ]
+}

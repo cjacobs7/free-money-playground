@@ -39,6 +39,7 @@ const upstreakStrategy = async (Robinhood, min) => {
 
     // get trend, filter < $15, add upstreak
     const trend = await getTrendAndSave(Robinhood, min + '*');
+
     const under5 = trend.filter(stock => {
         return Number(stock.quote_data.last_trade_price) < 5;
     });
@@ -69,8 +70,8 @@ const upstreakStrategy = async (Robinhood, min) => {
         // });
         await recordPicks(Robinhood, perm.name, min, meetsUpstreak.map(t => t.ticker));
 
-
-        const upOneOvernight = meetsUpstreak.filter(t => {
+        let withOvernightJump = await addOvernightJump(Robinhood, meetsUpstreak);
+        const upOneOvernight = withOvernightJump.filter(t => {
             return t.overnightJump > 1;
         });
 

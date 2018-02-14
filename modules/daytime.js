@@ -33,14 +33,13 @@ const trendFilter = async (Robinhood, trend) => {
     console.log('trendingUp', allUp.length);
 
 
-    const withTrendingUp = await mapLimit(allUp, 20, async buy => ({
+    let withTrendingUp = await mapLimit(allUp, 20, async buy => ({
         ...buy,
         ...(await getRisk(Robinhood, buy.ticker)),
         trendingUp: await trendingUp(Robinhood, buy.ticker, [
             // 50,
             30,
-            10,
-            6
+            10
         ])
     }));
 
@@ -70,7 +69,7 @@ const daytime = {
         // runs at init
         regCronIncAfterSixThirty(Robinhood, {
             name: 'execute daytime strategy',
-            run: [200, 260], // 10:41am, 11:31am
+            run: [200, 260, 829], // 10:41am, 11:31am
             // run: [],
             fn: async (Robinhood, min) => {
                 await executeStrategy(Robinhood, trendFilter, min, 0.3, 'daytime', DISABLED);

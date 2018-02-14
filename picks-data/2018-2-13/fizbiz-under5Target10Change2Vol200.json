@@ -145,5 +145,113 @@
       "ticker": "NSU",
       "price": 2.197
     }
+  ],
+  "180": [
+    {
+      "ticker": "MNKD",
+      "price": 2.9498
+    },
+    {
+      "ticker": "ONDK",
+      "price": 4.75
+    },
+    {
+      "ticker": "GLUU",
+      "price": 3.8051
+    },
+    {
+      "ticker": "JCP",
+      "price": 3.57
+    },
+    {
+      "ticker": "DHT",
+      "price": 3.82
+    },
+    {
+      "ticker": "TRQ",
+      "price": 2.86
+    },
+    {
+      "ticker": "NSU",
+      "price": 2.18
+    },
+    {
+      "ticker": "NMM",
+      "price": 2.1415
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.21
+    },
+    {
+      "ticker": "TOO",
+      "price": 2.52
+    }
+  ],
+  "380": [
+    {
+      "ticker": "MNKD",
+      "price": 3.0052
+    },
+    {
+      "ticker": "ONDK",
+      "price": 4.87
+    },
+    {
+      "ticker": "P",
+      "price": 4.81
+    },
+    {
+      "ticker": "I",
+      "price": 3.01
+    },
+    {
+      "ticker": "GLUU",
+      "price": 3.82
+    },
+    {
+      "ticker": "OBE",
+      "price": 0.9415
+    },
+    {
+      "ticker": "SGYP",
+      "price": 2.135
+    },
+    {
+      "ticker": "CERS",
+      "price": 3.98
+    },
+    {
+      "ticker": "HL",
+      "price": 3.885
+    },
+    {
+      "ticker": "SBGL",
+      "price": 4.475
+    },
+    {
+      "ticker": "ASNA",
+      "price": 2.0076
+    },
+    {
+      "ticker": "KERX",
+      "price": 4.635
+    },
+    {
+      "ticker": "JMEI",
+      "price": 2.82
+    },
+    {
+      "ticker": "TRQ",
+      "price": 2.84
+    },
+    {
+      "ticker": "BCRX",
+      "price": 4.94
+    },
+    {
+      "ticker": "PLUG",
+      "price": 1.779
+    }
   ]
 }

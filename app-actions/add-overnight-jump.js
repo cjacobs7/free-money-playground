@@ -5,10 +5,11 @@ const chunkApi = require('../utils/chunk-api');
 
 module.exports = async (Robinhood, trend) => {
 
+    console.log('adding ')
     let fundamentals = await chunkApi(
         trend.map(t => t.ticker),
         async tickerStr => {
-            // console.log('tickerstr', tickerStr);
+            console.log('tickerstr', tickerStr);
             const { results } = await Robinhood.url(`https://api.robinhood.com/fundamentals/?symbols=${tickerStr}`);
             return results;
         },
@@ -23,11 +24,11 @@ module.exports = async (Robinhood, trend) => {
         };
     });
 
-    console.log('with fundame', withFundamentals);
+    // console.log('with fundame', withFundamentals);
 
     return withFundamentals.map(stock => ({
         ...stock,
         overnightJump: getTrend(stock.fundamentals.open, stock.quote_data.previous_close)
-    })).filter(a => a.open).sort((a, b) => b.overnightJump - a.overnightJump);
+    })).filter(a => a.fundamentals.open).sort((a, b) => b.overnightJump - a.overnightJump);
 
 };
