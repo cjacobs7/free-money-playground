@@ -1,0 +1,82 @@
+{
+  "193": [
+    {
+      "ticker": "NXTDW",
+      "price": 0.4001
+    },
+    {
+      "ticker": "QUMU",
+      "price": 1.789
+    },
+    {
+      "ticker": "YGYI",
+      "price": 4.7548
+    },
+    {
+      "ticker": "AZRX",
+      "price": 3.0624
+    },
+    {
+      "ticker": "USAU",
+      "price": 2.11
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.2077
+    },
+    {
+      "ticker": "CPAH",
+      "price": 3.5961
+    },
+    {
+      "ticker": "ADXSW",
+      "price": 0.63
+    },
+    {
+      "ticker": "PIXY",
+      "price": 2.73
+    },
+    {
+      "ticker": "LABD",
+      "price": 3.449
+    }
+  ],
+  "253": [
+    {
+      "ticker": "QUMU",
+      "price": 1.789
+    },
+    {
+      "ticker": "YGYI",
+      "price": 4.7548
+    },
+    {
+      "ticker": "AZRX",
+      "price": 3.1299
+    },
+    {
+      "ticker": "USAU",
+      "price": 2.1435
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.2048
+    },
+    {
+      "ticker": "CPAH",
+      "price": 3.5598
+    },
+    {
+      "ticker": "ADXSW",
+      "price": 0.64
+    },
+    {
+      "ticker": "PIXY",
+      "price": 2.6463
+    },
+    {
+      "ticker": "LABD",
+      "price": 3.355
+    }
+  ]
+}

@@ -34,7 +34,7 @@ const scrapeStockInvest = async (browser, url) => {
             await page.close();
             results = results.concat(pageResults);
         } catch (e) {
-
+            console.log(e);
         }
 
     }

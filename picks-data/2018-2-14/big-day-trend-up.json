@@ -1,0 +1,90 @@
+{
+  "10": [
+    {
+      "ticker": "ZOM",
+      "price": 2
+    },
+    {
+      "ticker": "NOA",
+      "price": 4.6
+    },
+    {
+      "ticker": "HYSR",
+      "price": 0.0049
+    },
+    {
+      "ticker": "YOGA",
+      "price": 2.725
+    },
+    {
+      "ticker": "CODX",
+      "price": 2.59
+    }
+  ],
+  "35": [
+    {
+      "ticker": "ZOM",
+      "price": 2
+    },
+    {
+      "ticker": "NOA",
+      "price": 4.475
+    },
+    {
+      "ticker": "HYSR",
+      "price": 0.0046
+    },
+    {
+      "ticker": "YOGA",
+      "price": 2.725
+    },
+    {
+      "ticker": "CODX",
+      "price": 2.5
+    }
+  ],
+  "90": [
+    {
+      "ticker": "ZOM",
+      "price": 1.9904
+    },
+    {
+      "ticker": "NOA",
+      "price": 4.6
+    },
+    {
+      "ticker": "HYSR",
+      "price": 0.0045
+    },
+    {
+      "ticker": "YOGA",
+      "price": 2.79
+    },
+    {
+      "ticker": "CODX",
+      "price": 2.4501
+    }
+  ],
+  "223": [
+    {
+      "ticker": "ZOM",
+      "price": 2
+    },
+    {
+      "ticker": "NOA",
+      "price": 4.5
+    },
+    {
+      "ticker": "HYSR",
+      "price": 0.0046
+    },
+    {
+      "ticker": "YOGA",
+      "price": 2.83
+    },
+    {
+      "ticker": "CODX",
+      "price": 2.456
+    }
+  ]
+}

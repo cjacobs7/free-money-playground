@@ -1,5 +1,3 @@
-const DISABLED = true; // records picks but does not purchase
-
 // utils
 const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
 const getUpStreak = require('../app-actions/get-up-streak');
@@ -19,7 +17,7 @@ const trendFilter = async (Robinhood, trend) => {
 
     let cheapBuys = trend
         .filter(stock => {
-            return Number(stock.quote_data.last_trade_price) > 5 && Number(stock.quote_data.last_trade_price) < 6;
+            return Number(stock.quote_data.last_trade_price) > 1 && Number(stock.quote_data.last_trade_price) < 5;
         });
 
     cheapBuys = await addOvernightJump(Robinhood, cheapBuys);
@@ -133,9 +131,9 @@ const dowHistorical = {
         // runs at init
         regCronIncAfterSixThirty(Robinhood, {
             name: 'execute dow-historical strategy',
-            run: [13, 73, 196, 927], // 10:41am, 11:31am
+            run: [13, 73, 196], // 10:41am, 11:31am
             fn: async (Robinhood, min) => {
-                await executeStrategy(Robinhood, trendFilter, min, 0.3, 'dow-historical', DISABLED);
+                await executeStrategy(Robinhood, trendFilter, min, 0.3, 'dow-historical');
             }
         });
     }

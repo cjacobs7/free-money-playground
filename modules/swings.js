@@ -1,5 +1,3 @@
-const DISABLED = true; // records picks but does not purchase
-
 // utils
 const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
 const getMultipleHistoricals = require('../app-actions/get-multiple-historicals');
@@ -173,7 +171,7 @@ const swings = {
             run: [193, 253], // 10:41am, 11:31am
             // run: [],
             fn: async (Robinhood, min) => {
-                await executeStrategy(Robinhood, trendFilter, min, 0.3, 'swings', DISABLED);
+                await executeStrategy(Robinhood, trendFilter, min, 0.3, 'swings');
             }
         });
     }

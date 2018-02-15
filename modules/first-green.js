@@ -1,5 +1,3 @@
-const DISABLED = true; // records picks but does not purchase
-
 // utils
 const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
 const getTrend = require('../utils/get-trend');
@@ -98,7 +96,7 @@ const firstGreens = {
             run: [190, 250], // 10:41am, 11:31am
             // run: [],
             fn: async (Robinhood, min) => {
-                await executeStrategy(Robinhood, trendFilter, min, 0.3, 'first-greens', DISABLED);
+                await executeStrategy(Robinhood, trendFilter, min, 0.3, 'first-greens');
             }
         });
     }

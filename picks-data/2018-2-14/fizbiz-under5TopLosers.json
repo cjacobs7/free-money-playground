@@ -1,0 +1,312 @@
+{
+  "2": [
+    {
+      "ticker": "DARE",
+      "price": 1.65
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 4.45
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.7289
+    },
+    {
+      "ticker": "KDMN",
+      "price": 3.875
+    },
+    {
+      "ticker": "AFMD",
+      "price": 2.15
+    },
+    {
+      "ticker": "BASI",
+      "price": 1.58
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.095
+    },
+    {
+      "ticker": "USAU",
+      "price": 2
+    },
+    {
+      "ticker": "IVTY",
+      "price": 3.9637
+    },
+    {
+      "ticker": "ICON",
+      "price": 1.55
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.45
+    },
+    {
+      "ticker": "MYND",
+      "price": 2.25
+    },
+    {
+      "ticker": "INPX",
+      "price": 3.42
+    },
+    {
+      "ticker": "NSPR",
+      "price": 6.6701
+    },
+    {
+      "ticker": "PES",
+      "price": 2.6
+    }
+  ],
+  "12": [
+    {
+      "ticker": "DARE",
+      "price": 1.57
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 4.5
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.7299
+    },
+    {
+      "ticker": "KDMN",
+      "price": 4.0191
+    },
+    {
+      "ticker": "AFMD",
+      "price": 2.175
+    },
+    {
+      "ticker": "BASI",
+      "price": 1.58
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.1
+    },
+    {
+      "ticker": "USAU",
+      "price": 1.96
+    },
+    {
+      "ticker": "IVTY",
+      "price": 3.9
+    },
+    {
+      "ticker": "ICON",
+      "price": 1.56
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.45
+    },
+    {
+      "ticker": "MYND",
+      "price": 2.25
+    },
+    {
+      "ticker": "INPX",
+      "price": 3.441
+    },
+    {
+      "ticker": "NSPR",
+      "price": 6.65
+    },
+    {
+      "ticker": "PES",
+      "price": 2.75
+    }
+  ],
+  "75": [
+    {
+      "ticker": "TTPH",
+      "price": 2.22
+    },
+    {
+      "ticker": "GLMD",
+      "price": 4.9299
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.595
+    },
+    {
+      "ticker": "ZN",
+      "price": 3.6544
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.7
+    },
+    {
+      "ticker": "DYNT",
+      "price": 2.6501
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.53
+    },
+    {
+      "ticker": "NMM",
+      "price": 1.9599
+    },
+    {
+      "ticker": "SINO",
+      "price": 2.25
+    },
+    {
+      "ticker": "GNC",
+      "price": 4.545
+    },
+    {
+      "ticker": "CATB",
+      "price": 1.45
+    },
+    {
+      "ticker": "INPX",
+      "price": 3.2398
+    },
+    {
+      "ticker": "TIK",
+      "price": 2.45
+    },
+    {
+      "ticker": "AXON",
+      "price": 1.66
+    },
+    {
+      "ticker": "CCCL",
+      "price": 2.05
+    }
+  ],
+  "120": [
+    {
+      "ticker": "TTPH",
+      "price": 2.125
+    },
+    {
+      "ticker": "GLMD",
+      "price": 4.47
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.61
+    },
+    {
+      "ticker": "DYNT",
+      "price": 2.7
+    },
+    {
+      "ticker": "AXON",
+      "price": 1.6299
+    },
+    {
+      "ticker": "ZN",
+      "price": 3.86
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.7
+    },
+    {
+      "ticker": "GNC",
+      "price": 4.475
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.53
+    },
+    {
+      "ticker": "GNUS",
+      "price": 2.443
+    },
+    {
+      "ticker": "SINO",
+      "price": 2.18
+    },
+    {
+      "ticker": "NMM",
+      "price": 1.9593
+    },
+    {
+      "ticker": "CATB",
+      "price": 1.45
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.23
+    },
+    {
+      "ticker": "HSON",
+      "price": 2.06
+    }
+  ],
+  "180": [
+    {
+      "ticker": "TTPH",
+      "price": 2.175
+    },
+    {
+      "ticker": "GLMD",
+      "price": 4.49
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.61
+    },
+    {
+      "ticker": "DYNT",
+      "price": 2.5501
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.555
+    },
+    {
+      "ticker": "GNC",
+      "price": 4.405
+    },
+    {
+      "ticker": "AXON",
+      "price": 1.6
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.519
+    },
+    {
+      "ticker": "GNUS",
+      "price": 2.443
+    },
+    {
+      "ticker": "NMM",
+      "price": 1.9451
+    },
+    {
+      "ticker": "ZN",
+      "price": 3.96
+    },
+    {
+      "ticker": "SINO",
+      "price": 2.21
+    },
+    {
+      "ticker": "BPTH",
+      "price": 1.6507
+    },
+    {
+      "ticker": "LIFE",
+      "price": 3.249
+    },
+    {
+      "ticker": "LINU",
+      "price": 1.7248
+    }
+  ]
+}

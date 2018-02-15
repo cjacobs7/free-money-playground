@@ -1,5 +1,3 @@
-const DISABLED = true; // records picks but does not purchase
-
 // utils
 const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
 
@@ -51,12 +49,9 @@ const trendFilter = async (Robinhood, trend) => {
         'num not trending',
         withTrendingUp.filter(buy => !buy.trendingUp).length
     );
-    console.log(
-        '> 8% below max of year',
-        withTrendingUp.filter(buy => buy.percMax > -8).length
-    );
+
     withTrendingUp = withTrendingUp.filter(
-        buy => !buy.shouldWatchout && buy.trendingUp && buy.percMax < -8
+        buy => !buy.shouldWatchout && buy.trendingUp
     );
 
     console.log(withTrendingUp, withTrendingUp.length);
@@ -69,10 +64,10 @@ const daytime = {
         // runs at init
         regCronIncAfterSixThirty(Robinhood, {
             name: 'execute daytime strategy',
-            run: [200, 260, 829], // 10:41am, 11:31am
+            run: [200, 260], // 10:41am, 11:31am
             // run: [],
             fn: async (Robinhood, min) => {
-                await executeStrategy(Robinhood, trendFilter, min, 0.3, 'daytime', DISABLED);
+                await executeStrategy(Robinhood, trendFilter, min, 0.3, 'daytime');
             }
         });
     }

@@ -1,5 +1,3 @@
-const DISABLED = true; // records picks but does not purchase
-
 // utils
 const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
 
@@ -32,7 +30,7 @@ const trendFilter = async (Robinhood, trend) => {
     console.log('trendingUp', allUp.length);
 
 
-    cheapBuys = await mapLimit(cheapBuys, 20, async buy => ({
+    cheapBuys = await mapLimit(allUp, 20, async buy => ({
         ...buy,
         ...(await getRisk(Robinhood, buy.ticker)),
     }));
@@ -65,7 +63,7 @@ const bigDayTrendUp = {
             run: [10, 35, 90, 223], // 10:41am, 11:31am
             // run: [],
             fn: async (Robinhood, min) => {
-                await executeStrategy(Robinhood, trendFilter, min, 0.3, 'big-day-trend-up', DISABLED);
+                await executeStrategy(Robinhood, trendFilter, min, 0.3, 'big-day-trend-up');
             }
         });
     }

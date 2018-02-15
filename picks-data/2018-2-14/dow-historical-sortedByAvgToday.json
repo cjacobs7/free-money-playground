@@ -1,0 +1,188 @@
+{
+  "13": [
+    {
+      "ticker": "OPHC",
+      "price": 4.003
+    },
+    {
+      "ticker": "CNET",
+      "price": 2.58
+    },
+    {
+      "ticker": "ARLZ",
+      "price": 1.739
+    },
+    {
+      "ticker": "HTGM",
+      "price": 4.3
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.65
+    },
+    {
+      "ticker": "ANY",
+      "price": 2.2
+    },
+    {
+      "ticker": "MNKD",
+      "price": 3.04
+    },
+    {
+      "ticker": "NXTD",
+      "price": 2.129
+    },
+    {
+      "ticker": "CARV",
+      "price": 2.41
+    },
+    {
+      "ticker": "AMPE",
+      "price": 3.3001
+    },
+    {
+      "ticker": "NH",
+      "price": 2.993
+    },
+    {
+      "ticker": "CUR",
+      "price": 1.4804
+    },
+    {
+      "ticker": "PME",
+      "price": 2.9258
+    },
+    {
+      "ticker": "PES",
+      "price": 2.75
+    },
+    {
+      "ticker": "PTX",
+      "price": 2.3698
+    }
+  ],
+  "73": [
+    {
+      "ticker": "OPHC",
+      "price": 4.011
+    },
+    {
+      "ticker": "CNET",
+      "price": 2.6349
+    },
+    {
+      "ticker": "ARLZ",
+      "price": 1.74
+    },
+    {
+      "ticker": "HTGM",
+      "price": 4.79
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.6504
+    },
+    {
+      "ticker": "ANY",
+      "price": 2.1902
+    },
+    {
+      "ticker": "MNKD",
+      "price": 3.1334
+    },
+    {
+      "ticker": "NXTD",
+      "price": 2.2
+    },
+    {
+      "ticker": "CARV",
+      "price": 2.5001
+    },
+    {
+      "ticker": "CYAN",
+      "price": 4.8844
+    },
+    {
+      "ticker": "AMPE",
+      "price": 3.3501
+    },
+    {
+      "ticker": "NH",
+      "price": 3.09
+    },
+    {
+      "ticker": "CUR",
+      "price": 1.53
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.47
+    },
+    {
+      "ticker": "PME",
+      "price": 2.8501
+    }
+  ],
+  "196": [
+    {
+      "ticker": "OPHC",
+      "price": 4.1349
+    },
+    {
+      "ticker": "CNET",
+      "price": 2.891
+    },
+    {
+      "ticker": "ARLZ",
+      "price": 1.75
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.75
+    },
+    {
+      "ticker": "ANY",
+      "price": 2.235
+    },
+    {
+      "ticker": "MNKD",
+      "price": 3.229
+    },
+    {
+      "ticker": "NXTD",
+      "price": 2.18
+    },
+    {
+      "ticker": "CARV",
+      "price": 2.67
+    },
+    {
+      "ticker": "CYAN",
+      "price": 4.9
+    },
+    {
+      "ticker": "AMPE",
+      "price": 3.4495
+    },
+    {
+      "ticker": "NH",
+      "price": 2.97
+    },
+    {
+      "ticker": "CUR",
+      "price": 1.5299
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.5377
+    },
+    {
+      "ticker": "PME",
+      "price": 2.89
+    },
+    {
+      "ticker": "PES",
+      "price": 2.75
+    }
+  ]
+}

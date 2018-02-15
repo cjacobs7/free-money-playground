@@ -1,10 +1,9 @@
-const DISABLED = true; // records picks but does not purchase
-
 // utils
 const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
 
 // app-actions
 const executeStrategy = require('../app-actions/execute-strategy');
+const addTrendSinceOpen = require('../app-actions/add-trend-since-open');
 
 const mapLimit = require('promise-map-limit');
 
@@ -18,12 +17,13 @@ const trendFilter = async (Robinhood, trend) => {
     // dont buy stocks that have fluctuated a lot before today
 
     console.log('running beforeClose strategy');
+    const withTrendSinceOpen = await addTrendSinceOpen(Robinhood, trend);
 
-    const trendingBelow10 = trend.filter(stock => stock.trend_since_prev_close && stock.trend_since_prev_close < -8);
+    const trendingBelow10 = withTrendSinceOpen.filter(stock => stock.trendSinceOpen < -5);
     console.log('trending below 10', trendingBelow10.length);
 
     let cheapBuys = trendingBelow10.filter(stock => {
-        return Number(stock.quote_data.last_trade_price) < 30;
+        return Number(stock.quote_data.last_trade_price) < 6;
     });
     console.log('trading below $30', cheapBuys.length);
 
@@ -54,7 +54,7 @@ const beforeClose = {
                 run: [351, 381],  // 12:31, 12:50pm
                 // run: [],
                 fn: async (Robinhood, min) => {
-                    await executeStrategy(Robinhood, trendFilter, min, 0.55, 'before-close', DISABLED);
+                    await executeStrategy(Robinhood, trendFilter, min, 0.55, 'before-close');
                 }
             },
         );

@@ -2,6 +2,8 @@ const fs = require('mz/fs');
 const jsonMgr = require('../utils/json-mgr');
 const lookup = require('../utils/lookup');
 const mapLimit = require('promise-map-limit');
+const strategiesEnabled = require('../strategies-enabled');
+const purchaseStocks = require('./purchase-stocks');
 
 module.exports = async (Robinhood, strategy, min, picks) => {
 
@@ -24,5 +26,16 @@ module.exports = async (Robinhood, strategy, min, picks) => {
         [min]: withPrices
     };
     await jsonMgr.save(fileLocation, savedData);
+
+
+
+    if (strategiesEnabled.includes(`${strategy}-${min}`)) {
+        await purchaseStocks(Robinhood, {
+            stocksToBuy: picks,
+            ratioToSpend: 0.3,
+            strategy
+        });
+    }
+
 
 };

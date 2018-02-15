@@ -1,22 +1,16 @@
 const cancelAllOrders = require('../rh-actions/cancel-all-orders');
 const getTrendAndSave = require('./get-trend-and-save');
-const purchaseStocks = require('./purchase-stocks');
+// const purchaseStocks = require('./purchase-stocks');
 const recordPicks = require('./record-picks');
 
-const executeStrategy = async (Robinhood, strategyFn, min, ratioToSpend, strategy, skipPurchaseFlag) => {
+const executeStrategy = async (Robinhood, strategyFn, min, ratioToSpend, strategy) => {
     await cancelAllOrders(Robinhood);
     const trend = await getTrendAndSave(Robinhood, min + '*');
     const toPurchase = await strategyFn(Robinhood, trend);
     console.log(toPurchase, 'toPurchase');
 
-    const purchaseStocks = async (stocks, strategyName) => {
+    const record = async (stocks, strategyName) => {
         await recordPicks(Robinhood, strategyName, min, stocks);
-        if (skipPurchaseFlag) return;
-        await purchaseStocks(Robinhood, {
-            stocksToBuy: stocks,
-            ratioToSpend,
-            strategy: strategyName
-        });
     };
 
     // gives ability to return an object from a trendFilter with multiple "variations"
@@ -24,10 +18,10 @@ const executeStrategy = async (Robinhood, strategyFn, min, ratioToSpend, strateg
         // its an object
         Object.keys(toPurchase).forEach(async strategyName => {
             const subsetToPurchase = toPurchase[strategyName];
-            await purchaseStocks(subsetToPurchase, `${strategy}-${strategyName}`);
+            await record(subsetToPurchase, `${strategy}-${strategyName}`);
         });
     } else {
-        await purchaseStocks(toPurchase, strategy);
+        await record(toPurchase, strategy);
     }
 
 

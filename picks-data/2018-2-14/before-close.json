@@ -1,0 +1,34 @@
+{
+  "351": [
+    {
+      "ticker": "WTID",
+      "price": 14.1727
+    },
+    {
+      "ticker": "DWT",
+      "price": 13.04
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.635
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WTID",
+      "price": 14.1727
+    },
+    {
+      "ticker": "DWT",
+      "price": 13.08
+    },
+    {
+      "ticker": "CRNT",
+      "price": 2.43
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.67
+    }
+  ]
+}

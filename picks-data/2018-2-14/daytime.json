@@ -1,0 +1,22 @@
+{
+  "200": [
+    {
+      "ticker": "CKPT",
+      "price": 4.3741
+    },
+    {
+      "ticker": "YANG",
+      "price": 5.07
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CKPT",
+      "price": 4.31
+    },
+    {
+      "ticker": "YANG",
+      "price": 4.95
+    }
+  ]
+}

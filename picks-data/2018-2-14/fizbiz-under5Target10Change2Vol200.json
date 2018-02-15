@@ -1,0 +1,190 @@
+{
+  "2": [],
+  "12": [],
+  "75": [
+    {
+      "ticker": "BLDP",
+      "price": 3.605
+    },
+    {
+      "ticker": "KGC",
+      "price": 4.2
+    },
+    {
+      "ticker": "NGD",
+      "price": 2.8281
+    },
+    {
+      "ticker": "BTG",
+      "price": 3.0787
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.35
+    },
+    {
+      "ticker": "AUY",
+      "price": 3.475
+    },
+    {
+      "ticker": "AMRN",
+      "price": 3.67
+    },
+    {
+      "ticker": "XXII",
+      "price": 2.78
+    },
+    {
+      "ticker": "SBGL",
+      "price": 4.695
+    },
+    {
+      "ticker": "GSS",
+      "price": 0.75
+    },
+    {
+      "ticker": "KERX",
+      "price": 4.8
+    },
+    {
+      "ticker": "MNKD",
+      "price": 3.135
+    },
+    {
+      "ticker": "NG",
+      "price": 3.91
+    },
+    {
+      "ticker": "STNG",
+      "price": 2.4175
+    },
+    {
+      "ticker": "TAHO",
+      "price": 4.055
+    }
+  ],
+  "120": [
+    {
+      "ticker": "BLDP",
+      "price": 3.65
+    },
+    {
+      "ticker": "NGD",
+      "price": 2.825
+    },
+    {
+      "ticker": "NG",
+      "price": 3.955
+    },
+    {
+      "ticker": "KGC",
+      "price": 4.165
+    },
+    {
+      "ticker": "MNKD",
+      "price": 3.2335
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.34
+    },
+    {
+      "ticker": "BTG",
+      "price": 3.035
+    },
+    {
+      "ticker": "GSS",
+      "price": 0.7496
+    },
+    {
+      "ticker": "XXII",
+      "price": 2.81
+    },
+    {
+      "ticker": "TNK",
+      "price": 1.19
+    },
+    {
+      "ticker": "AMRN",
+      "price": 3.67
+    },
+    {
+      "ticker": "SBGL",
+      "price": 4.635
+    },
+    {
+      "ticker": "AUY",
+      "price": 3.405
+    },
+    {
+      "ticker": "FSM",
+      "price": 4.685
+    },
+    {
+      "ticker": "TAHO",
+      "price": 4.01
+    }
+  ],
+  "180": [
+    {
+      "ticker": "BLDP",
+      "price": 3.57
+    },
+    {
+      "ticker": "NG",
+      "price": 4.01
+    },
+    {
+      "ticker": "NGD",
+      "price": 2.87
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.3201
+    },
+    {
+      "ticker": "KGC",
+      "price": 4.175
+    },
+    {
+      "ticker": "MNKD",
+      "price": 3.185
+    },
+    {
+      "ticker": "GSS",
+      "price": 0.7561
+    },
+    {
+      "ticker": "BTG",
+      "price": 3.045
+    },
+    {
+      "ticker": "XXII",
+      "price": 2.8
+    },
+    {
+      "ticker": "TNK",
+      "price": 1.19
+    },
+    {
+      "ticker": "OBE",
+      "price": 0.971
+    },
+    {
+      "ticker": "DNR",
+      "price": 2.075
+    },
+    {
+      "ticker": "SBGL",
+      "price": 4.695
+    },
+    {
+      "ticker": "NSU",
+      "price": 2.245
+    },
+    {
+      "ticker": "CPLP",
+      "price": 3.2293
+    }
+  ]
+}

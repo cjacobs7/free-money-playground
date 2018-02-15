@@ -1,0 +1,306 @@
+{
+  "45": [
+    {
+      "ticker": "ARLZ",
+      "price": 1.74
+    },
+    {
+      "ticker": "WMIH",
+      "price": 1.23
+    },
+    {
+      "ticker": "AEMD",
+      "price": 1.64
+    },
+    {
+      "ticker": "PGLC",
+      "price": 2.3246
+    },
+    {
+      "ticker": "GULTU",
+      "price": 0.036
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.4614
+    },
+    {
+      "ticker": "NQ",
+      "price": 2.25
+    },
+    {
+      "ticker": "TOO",
+      "price": 2.511
+    },
+    {
+      "ticker": "JRJC",
+      "price": 2.4926
+    },
+    {
+      "ticker": "WIN",
+      "price": 1.5
+    },
+    {
+      "ticker": "ARC",
+      "price": 2.2
+    },
+    {
+      "ticker": "STRM",
+      "price": 1.68
+    },
+    {
+      "ticker": "TAIT",
+      "price": 1.54
+    },
+    {
+      "ticker": "ESNC",
+      "price": 0.3999
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.1
+    },
+    {
+      "ticker": "ENPH",
+      "price": 2.7999
+    },
+    {
+      "ticker": "ISNS",
+      "price": 2.8
+    },
+    {
+      "ticker": "FCEL",
+      "price": 1.815
+    },
+    {
+      "ticker": "CASM",
+      "price": 1.15
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.4839
+    },
+    {
+      "ticker": "TUES",
+      "price": 2.975
+    },
+    {
+      "ticker": "CRVP",
+      "price": 0.961
+    },
+    {
+      "ticker": "PME",
+      "price": 2.855
+    },
+    {
+      "ticker": "SGYP",
+      "price": 2.045
+    },
+    {
+      "ticker": "SYNC",
+      "price": 2.25
+    },
+    {
+      "ticker": "PKD",
+      "price": 1.0348
+    },
+    {
+      "ticker": "APRI",
+      "price": 2.6712
+    },
+    {
+      "ticker": "PDLI",
+      "price": 2.46
+    },
+    {
+      "ticker": "TST",
+      "price": 1.35
+    },
+    {
+      "ticker": "CTHR",
+      "price": 1.435
+    },
+    {
+      "ticker": "AKG",
+      "price": 0.9772
+    },
+    {
+      "ticker": "UONE",
+      "price": 1.8
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.4147
+    },
+    {
+      "ticker": "ACHN",
+      "price": 2.975
+    },
+    {
+      "ticker": "ACFN",
+      "price": 0.246
+    },
+    {
+      "ticker": "SCYX",
+      "price": 1.7783
+    },
+    {
+      "ticker": "I",
+      "price": 2.9241
+    }
+  ],
+  "189": [
+    {
+      "ticker": "ARLZ",
+      "price": 1.75
+    },
+    {
+      "ticker": "WMIH",
+      "price": 1.25
+    },
+    {
+      "ticker": "AQMS",
+      "price": 2.84
+    },
+    {
+      "ticker": "AEMD",
+      "price": 1.71
+    },
+    {
+      "ticker": "PGLC",
+      "price": 2.364
+    },
+    {
+      "ticker": "GULTU",
+      "price": 0.0356
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.4848
+    },
+    {
+      "ticker": "NQ",
+      "price": 2.16
+    },
+    {
+      "ticker": "TOO",
+      "price": 2.49
+    },
+    {
+      "ticker": "JRJC",
+      "price": 2.52
+    },
+    {
+      "ticker": "WIN",
+      "price": 1.51
+    },
+    {
+      "ticker": "ARC",
+      "price": 2.1799
+    },
+    {
+      "ticker": "STRM",
+      "price": 1.71
+    },
+    {
+      "ticker": "TAIT",
+      "price": 1.54
+    },
+    {
+      "ticker": "ESNC",
+      "price": 0.3991
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.15
+    },
+    {
+      "ticker": "WPRT",
+      "price": 2.985
+    },
+    {
+      "ticker": "ENPH",
+      "price": 2.8
+    },
+    {
+      "ticker": "ISNS",
+      "price": 2.9
+    },
+    {
+      "ticker": "FCEL",
+      "price": 1.78
+    },
+    {
+      "ticker": "CASM",
+      "price": 1.15
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.4946
+    },
+    {
+      "ticker": "CRVP",
+      "price": 0.9666
+    },
+    {
+      "ticker": "PME",
+      "price": 2.89
+    },
+    {
+      "ticker": "SGYP",
+      "price": 2.075
+    },
+    {
+      "ticker": "SYNC",
+      "price": 2.239
+    },
+    {
+      "ticker": "PKD",
+      "price": 1.06
+    },
+    {
+      "ticker": "APRI",
+      "price": 2.76
+    },
+    {
+      "ticker": "PDLI",
+      "price": 2.46
+    },
+    {
+      "ticker": "TST",
+      "price": 1.36
+    },
+    {
+      "ticker": "CTHR",
+      "price": 1.4694
+    },
+    {
+      "ticker": "AKG",
+      "price": 1.01
+    },
+    {
+      "ticker": "UONE",
+      "price": 1.8
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.4946
+    },
+    {
+      "ticker": "ACHN",
+      "price": 2.985
+    },
+    {
+      "ticker": "ACFN",
+      "price": 0.2599
+    },
+    {
+      "ticker": "SCYX",
+      "price": 1.8208
+    },
+    {
+      "ticker": "I",
+      "price": 2.9666
+    }
+  ]
+}

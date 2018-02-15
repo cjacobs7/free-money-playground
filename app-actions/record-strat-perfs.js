@@ -42,7 +42,9 @@ const analyzeDay = async (Robinhood, day) => {
         1630
     );
 
-    quotes.forEach(({symbol, last_trade_price}) => {
+    quotes.forEach(quote => {
+        if (!quote) return;
+        const {symbol, last_trade_price} = quote;
         tickerLookups[symbol] = Number(last_trade_price);
     });
 

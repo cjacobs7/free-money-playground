@@ -1,0 +1,86 @@
+{
+  "190": [
+    {
+      "ticker": "PRPO",
+      "price": 0.73
+    },
+    {
+      "ticker": "CASI",
+      "price": 3.58
+    },
+    {
+      "ticker": "NXTDW",
+      "price": 0.4001
+    },
+    {
+      "ticker": "HCHC",
+      "price": 5.19
+    },
+    {
+      "ticker": "LLNW",
+      "price": 3.91
+    },
+    {
+      "ticker": "TRCH",
+      "price": 1.08
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.4104
+    },
+    {
+      "ticker": "RLGT",
+      "price": 3.695
+    },
+    {
+      "ticker": "ARWR",
+      "price": 5.39
+    },
+    {
+      "ticker": "CDNA",
+      "price": 5.69
+    }
+  ],
+  "250": [
+    {
+      "ticker": "PRPO",
+      "price": 0.72
+    },
+    {
+      "ticker": "CASI",
+      "price": 3.5811
+    },
+    {
+      "ticker": "RLGT",
+      "price": 3.77
+    },
+    {
+      "ticker": "OHGI",
+      "price": 1.17
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.15
+    },
+    {
+      "ticker": "ALNA",
+      "price": 6.395
+    },
+    {
+      "ticker": "TRCH",
+      "price": 1.09
+    },
+    {
+      "ticker": "LLNW",
+      "price": 3.895
+    },
+    {
+      "ticker": "INFI",
+      "price": 1.875
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.93
+    }
+  ]
+}

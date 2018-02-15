@@ -3,6 +3,8 @@ const regCronIncAfterSixThirty = require('../../utils/reg-cron-after-630');
 const filterByTradeable = require('../../utils/filter-by-tradeable');
 
 const registerPicks = require('../../app-actions/record-picks');
+const purchaseStocks = require('../../app-actions/purchase-stocks');
+
 
 const FIZBIZ = require('./fizbiz');
 const STOCKINVEST = require('./stockinvest');
@@ -15,7 +17,7 @@ const scrapesToRun = {
 
 
 // based on jump
-const finbizScrapes = {
+const scrapes = {
     init: (Robinhood) => {
         // runs at init
         Object.keys(scrapesToRun).forEach(scrapeName => {
@@ -32,9 +34,10 @@ const finbizScrapes = {
                     for (let queryName of queries) {
                         console.log(queryName);
                         const queryPicks = await scrapeFn(browser, config.QUERIES[queryName]);
-                        const tradeablePicks = filterByTradeable(queryPicks);
+                        const tradeablePicks = filterByTradeable(queryPicks).slice(0, 15);
+                        const strategyName = `${scrapeName}-${queryName}`;
                         // console.log(queryName, queryPicks);
-                        await registerPicks(Robinhood, `${scrapeName}-${queryName}`, min, tradeablePicks);
+                        await registerPicks(Robinhood, strategyName, min, tradeablePicks);
                     }
                     await browser.close();
                 }
@@ -46,4 +49,4 @@ const finbizScrapes = {
     }
 };
 
-module.exports = finbizScrapes;
+module.exports = scrapes;

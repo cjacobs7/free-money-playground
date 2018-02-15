@@ -1,0 +1,86 @@
+{
+  "350": [
+    {
+      "ticker": "XTNT",
+      "price": 4.7952
+    },
+    {
+      "ticker": "PVCTW",
+      "price": 0.025
+    },
+    {
+      "ticker": "SRAX",
+      "price": 4.445
+    },
+    {
+      "ticker": "FNJN",
+      "price": 2.9
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.55
+    },
+    {
+      "ticker": "BBEPQ",
+      "price": 0.0465
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.3959
+    },
+    {
+      "ticker": "ICLD",
+      "price": 0.006
+    },
+    {
+      "ticker": "CERC",
+      "price": 3.8773
+    },
+    {
+      "ticker": "EDMC",
+      "price": 0.005
+    }
+  ],
+  "380": [
+    {
+      "ticker": "XTNT",
+      "price": 4.7452
+    },
+    {
+      "ticker": "PVCTW",
+      "price": 0.025
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.6295
+    },
+    {
+      "ticker": "SRAX",
+      "price": 4.4496
+    },
+    {
+      "ticker": "BBEPQ",
+      "price": 0.046
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.3996
+    },
+    {
+      "ticker": "CERC",
+      "price": 3.9405
+    },
+    {
+      "ticker": "FNJN",
+      "price": 2.7765
+    },
+    {
+      "ticker": "EDMC",
+      "price": 0.005
+    },
+    {
+      "ticker": "ATOS",
+      "price": 0.686
+    }
+  ]
+}

@@ -8,10 +8,11 @@ module.exports = async (Robinhood) => {
         const instrument = await Robinhood.url(pos.instrument);
         const lookupObj = await lookup(Robinhood, instrument.symbol);
         return {
+            ...pos,
             average_buy_price: Number(pos.average_buy_price),
             symbol: instrument.symbol,
             quantity: pos.quantity,
-            ...lookupObj
+            ...lookupObj,
         };
     });
     console.log('made it', withTicks);

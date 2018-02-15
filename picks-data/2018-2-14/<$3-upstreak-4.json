@@ -1,0 +1,54 @@
+{
+  "45": [
+    {
+      "ticker": "FENX",
+      "price": 0.49
+    },
+    {
+      "ticker": "LUNA",
+      "price": 2.29
+    },
+    {
+      "ticker": "RAVE",
+      "price": 1.729
+    },
+    {
+      "ticker": "VLTC",
+      "price": 0.97
+    },
+    {
+      "ticker": "SMSI",
+      "price": 2.449
+    },
+    {
+      "ticker": "ACTA",
+      "price": 0.835
+    }
+  ],
+  "189": [
+    {
+      "ticker": "FENX",
+      "price": 0.47
+    },
+    {
+      "ticker": "LUNA",
+      "price": 2.29
+    },
+    {
+      "ticker": "RAVE",
+      "price": 1.7011
+    },
+    {
+      "ticker": "VLTC",
+      "price": 0.97
+    },
+    {
+      "ticker": "SMSI",
+      "price": 2.3768
+    },
+    {
+      "ticker": "ACTA",
+      "price": 0.84
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "7": [
+    {
+      "ticker": "APPS",
+      "price": 2.3801
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.8
+    },
+    {
+      "ticker": "AMPE",
+      "price": 3.32
+    },
+    {
+      "ticker": "OCN",
+      "price": 3.56
+    },
+    {
+      "ticker": "HTGM",
+      "price": 4.32
+    },
+    {
+      "ticker": "NBEV",
+      "price": 3.42
+    },
+    {
+      "ticker": "NVAX",
+      "price": 1.9716
+    }
+  ],
+  "60": [
+    {
+      "ticker": "APPS",
+      "price": 2.41
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.8196
+    },
+    {
+      "ticker": "AMPE",
+      "price": 3.35
+    },
+    {
+      "ticker": "OCN",
+      "price": 3.64
+    },
+    {
+      "ticker": "HTGM",
+      "price": 4.84
+    },
+    {
+      "ticker": "NBEV",
+      "price": 3.46
+    },
+    {
+      "ticker": "NVAX",
+      "price": 2.0399
+    }
+  ],
+  "123": [
+    {
+      "ticker": "APPS",
+      "price": 2.4399
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.7706
+    },
+    {
+      "ticker": "AMPE",
+      "price": 3.475
+    },
+    {
+      "ticker": "OCN",
+      "price": 3.67
+    },
+    {
+      "ticker": "HTGM",
+      "price": 5.03
+    }
+  ],
+  "263": [
+    {
+      "ticker": "APPS",
+      "price": 2.44
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.73
+    }
+  ]
+}

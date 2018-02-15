@@ -1,0 +1,50 @@
+{
+  "169": [
+    {
+      "ticker": "BPTH",
+      "price": 1.66
+    },
+    {
+      "ticker": "NXTDW",
+      "price": 0.4001
+    },
+    {
+      "ticker": "MNGA",
+      "price": 1.3601
+    },
+    {
+      "ticker": "OPGN",
+      "price": 2.12
+    },
+    {
+      "ticker": "ADXSW",
+      "price": 0.63
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.2052
+    },
+    {
+      "ticker": "INFI",
+      "price": 1.85
+    }
+  ],
+  "273": [
+    {
+      "ticker": "BPTH",
+      "price": 1.72
+    },
+    {
+      "ticker": "MNGA",
+      "price": 1.36
+    },
+    {
+      "ticker": "OPGN",
+      "price": 2.04
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.2034
+    }
+  ]
+}

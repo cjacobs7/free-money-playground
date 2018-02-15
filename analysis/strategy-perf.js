@@ -46,7 +46,9 @@ const analyzeDay = async (day) => {
         1630
     );
 
-    quotes.forEach(({symbol, last_trade_price}) => {
+    quotes.forEach(quote => {
+        if (!quote) return;
+        const {symbol, last_trade_price} = quote;
         tickerLookups[symbol] = Number(last_trade_price);
     });
 
@@ -66,7 +68,8 @@ const analyzeDay = async (day) => {
         withTrend.push({
             strategyName: stratMin,
             avgTrend: avgArray(picksWithTrend.map(pick => pick.trend)),
-            picks: picksWithTrend
+            // picks: picksWithTrend,
+            count: picksWithTrend.length
         });
     });
 

@@ -3,7 +3,7 @@
 const getTrendAndSave = require('../app-actions/get-trend-and-save');
 const logPortfolioValue = require('../app-actions/log-portfolio-value');
 const recordStratPerfs = require('../app-actions/record-strat-perfs');
-
+const sellAllOlderThanOneDay = require('../app-actions/sell-all-older-than-one-day');
 
 // utils
 const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
@@ -35,11 +35,11 @@ const additionalCronConfig = [
         }
     },
     // sell all if went up
-    {
-        name: 'sellAllIfWentUp',
-        run: [145, 305],
-        fn: sellAllIfWentUp
-    },
+    // {
+    //     name: 'sellAllIfWentUp',
+    //     run: [145, 305],
+    //     fn: sellAllIfWentUp
+    // },
     // sell all if went up
     // {
     //     name: 'sellAllStocks',
@@ -61,8 +61,13 @@ const additionalCronConfig = [
     // record prev day strat performances,
     {
         name: 'record-strat-perfs',
-        run: [9, 85, 155, 230, 270, 330, 149],
+        run: [9, 85, 155, 230, 270, 330],
         fn: recordStratPerfs
+    },
+    {
+        name: 'sell all if older than a day',
+        run: [165],
+        fn: sellAllOlderThanOneDay
     }
 ];
 
