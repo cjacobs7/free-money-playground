@@ -3,7 +3,7 @@ const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
 const getMultipleHistoricals = require('../app-actions/get-multiple-historicals');
 const executeStrategy = require('../app-actions/execute-strategy');
 
-const mapLimit = require('promise-map-limit');
+// const mapLimit = require('promise-map-limit');
 
 const DEFAULT_OPTS = {
     BUFFERS: [ 10, 20, 30 ],
@@ -136,7 +136,7 @@ const weekSwings = {
         // runs at init
         regCronIncAfterSixThirty(Robinhood, {
             name: 'execute week-swings strategy',
-            run: [169, 273], // 10:41am, 11:31am
+            run: [2, 169, 273], // 10:41am, 11:31am
             // run: [],
             fn: async (Robinhood, min) => {
                 await executeStrategy(Robinhood, trendFilter, min, 0.3, 'week-swings');

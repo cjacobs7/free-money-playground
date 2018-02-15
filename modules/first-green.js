@@ -4,7 +4,7 @@ const getTrend = require('../utils/get-trend');
 const getMultipleHistoricals = require('../app-actions/get-multiple-historicals');
 const executeStrategy = require('../app-actions/execute-strategy');
 
-const mapLimit = require('promise-map-limit');
+// const mapLimit = require('promise-map-limit');
 
 const trendFilter = async (Robinhood, trend) => {
 
@@ -37,16 +37,18 @@ const trendFilter = async (Robinhood, trend) => {
             if (todaysDate.getHours() < 6) {
                 todaysDate.setDate(todaysDate.getDate() - 1);
             }
-            const todayInHistoricals = mostRecentHistDate.getDate() === todaysDate.getDate();
-            console.log(todayInHistoricals, 'today in')
-            let mostRecentTrend;
-            if (!todayInHistoricals) {
-                // daytime
-                mostRecentTrend = buy.trend_since_prev_close;
-            } else {
-                // evening
-                mostRecentTrend = historicals.shift().trend;
-            }
+            // const todayInHistoricals = mostRecentHistDate.getDate() === todaysDate.getDate();
+            // console.log(todayInHistoricals, 'today in')
+            // let mostRecentTrend;
+            // if (!todayInHistoricals) {
+            //     // daytime
+            //     mostRecentTrend = buy.trend_since_prev_close;
+            // } else {
+            //     // evening
+            //     mostRecentTrend = historicals.shift().trend;
+            // }
+
+            let mostRecentTrend = historicals.shift().trend;
 
             return {
                 ...buy,
