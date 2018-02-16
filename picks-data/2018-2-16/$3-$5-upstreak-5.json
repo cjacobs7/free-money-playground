@@ -1,0 +1,44 @@
+{
+  "45": [
+    {
+      "ticker": "OMNT",
+      "price": 3.4205
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.58
+    },
+    {
+      "ticker": "WPRT",
+      "price": 3.145
+    },
+    {
+      "ticker": "JCP",
+      "price": 3.88
+    },
+    {
+      "ticker": "DHT",
+      "price": 3.9038
+    },
+    {
+      "ticker": "DSX",
+      "price": 3.885
+    },
+    {
+      "ticker": "CPRX",
+      "price": 3.575
+    },
+    {
+      "ticker": "PME",
+      "price": 2.98
+    },
+    {
+      "ticker": "ACHN",
+      "price": 3.175
+    },
+    {
+      "ticker": "I",
+      "price": 3.445
+    }
+  ]
+}

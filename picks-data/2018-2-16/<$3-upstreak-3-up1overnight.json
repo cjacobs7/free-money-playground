@@ -1,0 +1,32 @@
+{
+  "45": [
+    {
+      "ticker": "AMMA",
+      "price": 0.6901
+    },
+    {
+      "ticker": "BUR",
+      "price": 0.51
+    },
+    {
+      "ticker": "TENX",
+      "price": 0.3575
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.099
+    },
+    {
+      "ticker": "RSLS",
+      "price": 1.4181
+    },
+    {
+      "ticker": "IMMY",
+      "price": 1.75
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2862
+    }
+  ]
+}

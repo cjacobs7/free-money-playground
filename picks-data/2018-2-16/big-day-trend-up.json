@@ -1,0 +1,68 @@
+{
+  "10": [
+    {
+      "ticker": "ICAD",
+      "price": 3.1003
+    },
+    {
+      "ticker": "LBCC",
+      "price": 3.6248
+    },
+    {
+      "ticker": "CLD",
+      "price": 3.8
+    },
+    {
+      "ticker": "SLS",
+      "price": 5.27
+    },
+    {
+      "ticker": "KNDI",
+      "price": 5.5
+    }
+  ],
+  "35": [
+    {
+      "ticker": "CLD",
+      "price": 3.71
+    },
+    {
+      "ticker": "KNDI",
+      "price": 5.475
+    },
+    {
+      "ticker": "AHPI",
+      "price": 1.85
+    },
+    {
+      "ticker": "FCRE",
+      "price": 0.95
+    },
+    {
+      "ticker": "ISSC",
+      "price": 3.18
+    }
+  ],
+  "90": [
+    {
+      "ticker": "CLD",
+      "price": 3.6756
+    },
+    {
+      "ticker": "LBCC",
+      "price": 3.487
+    },
+    {
+      "ticker": "SSNT",
+      "price": 3.75
+    },
+    {
+      "ticker": "AUMN",
+      "price": 0.41
+    },
+    {
+      "ticker": "ATXI",
+      "price": 4.01
+    }
+  ]
+}

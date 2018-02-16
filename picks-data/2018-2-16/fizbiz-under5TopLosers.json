@@ -1,0 +1,188 @@
+{
+  "2": [
+    {
+      "ticker": "ABAC",
+      "price": 2.1085
+    },
+    {
+      "ticker": "FPAY",
+      "price": 3.28
+    },
+    {
+      "ticker": "DMPI",
+      "price": 1.15
+    },
+    {
+      "ticker": "ADMP",
+      "price": 2.975
+    },
+    {
+      "ticker": "NHLD",
+      "price": 4.17
+    },
+    {
+      "ticker": "EVOK",
+      "price": 2.1
+    },
+    {
+      "ticker": "NSPR",
+      "price": 4.8001
+    },
+    {
+      "ticker": "INPX",
+      "price": 2.4711
+    },
+    {
+      "ticker": "BSPM",
+      "price": 4.0688
+    },
+    {
+      "ticker": "QUIK",
+      "price": 1.86
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.7899
+    },
+    {
+      "ticker": "OPGN",
+      "price": 1.89
+    },
+    {
+      "ticker": "ARDM",
+      "price": 1.28
+    },
+    {
+      "ticker": "AEMD",
+      "price": 1.5216
+    },
+    {
+      "ticker": "BLIN",
+      "price": 2.08
+    }
+  ],
+  "12": [
+    {
+      "ticker": "ABAC",
+      "price": 2.05
+    },
+    {
+      "ticker": "FPAY",
+      "price": 3.26
+    },
+    {
+      "ticker": "DMPI",
+      "price": 1.169
+    },
+    {
+      "ticker": "ADMP",
+      "price": 3.075
+    },
+    {
+      "ticker": "NHLD",
+      "price": 4.1576
+    },
+    {
+      "ticker": "EVOK",
+      "price": 2.1
+    },
+    {
+      "ticker": "NSPR",
+      "price": 4.82
+    },
+    {
+      "ticker": "INPX",
+      "price": 2.5388
+    },
+    {
+      "ticker": "BSPM",
+      "price": 3.91
+    },
+    {
+      "ticker": "QUIK",
+      "price": 1.8832
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.76
+    },
+    {
+      "ticker": "OPGN",
+      "price": 1.9194
+    },
+    {
+      "ticker": "ARDM",
+      "price": 1.2798
+    },
+    {
+      "ticker": "AEMD",
+      "price": 1.55
+    },
+    {
+      "ticker": "BLIN",
+      "price": 2.08
+    }
+  ],
+  "75": [
+    {
+      "ticker": "APRI",
+      "price": 1.1651
+    },
+    {
+      "ticker": "NNDM",
+      "price": 2.141
+    },
+    {
+      "ticker": "MBRX",
+      "price": 2.0898
+    },
+    {
+      "ticker": "PXLW",
+      "price": 4.37
+    },
+    {
+      "ticker": "CLD",
+      "price": 3.67
+    },
+    {
+      "ticker": "AMPE",
+      "price": 3.0299
+    },
+    {
+      "ticker": "SCKT",
+      "price": 3.76
+    },
+    {
+      "ticker": "HMNY",
+      "price": 4.7244
+    },
+    {
+      "ticker": "WPRT",
+      "price": 3.115
+    },
+    {
+      "ticker": "BSPM",
+      "price": 3.78
+    },
+    {
+      "ticker": "SRAX",
+      "price": 4.1275
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.31
+    },
+    {
+      "ticker": "ATXI",
+      "price": 4.01
+    },
+    {
+      "ticker": "CLIR",
+      "price": 2.7
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.4909
+    }
+  ]
+}

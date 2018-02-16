@@ -1,0 +1,38 @@
+{
+  "7": [
+    {
+      "ticker": "APRI",
+      "price": 0.9347
+    },
+    {
+      "ticker": "MOBL",
+      "price": 5.07
+    },
+    {
+      "ticker": "NVAX",
+      "price": 2.339
+    },
+    {
+      "ticker": "AGEN",
+      "price": 4.11
+    }
+  ],
+  "60": [
+    {
+      "ticker": "APRI",
+      "price": 1.1798
+    },
+    {
+      "ticker": "MOBL",
+      "price": 5.075
+    },
+    {
+      "ticker": "NVAX",
+      "price": 2.3698
+    },
+    {
+      "ticker": "AGEN",
+      "price": 4.1
+    }
+  ]
+}

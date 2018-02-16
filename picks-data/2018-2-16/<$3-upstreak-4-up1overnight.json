@@ -1,0 +1,36 @@
+{
+  "45": [
+    {
+      "ticker": "RVP",
+      "price": 0.957
+    },
+    {
+      "ticker": "HGT",
+      "price": 0.8595
+    },
+    {
+      "ticker": "IGC",
+      "price": 0.8096
+    },
+    {
+      "ticker": "AUMN",
+      "price": 0.438
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.3077
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.7199
+    },
+    {
+      "ticker": "KONA",
+      "price": 1.805
+    },
+    {
+      "ticker": "AAU",
+      "price": 0.955
+    }
+  ]
+}

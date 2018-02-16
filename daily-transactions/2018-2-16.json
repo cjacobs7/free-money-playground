@@ -1,0 +1,240 @@
+[
+  {
+    "type": "buy",
+    "ticker": "MOBL",
+    "bid_price": 5.07,
+    "quantity": 6,
+    "strategy": "stockinvest-top100"
+  },
+  {
+    "type": "buy",
+    "ticker": "APRI",
+    "bid_price": 0.9357,
+    "quantity": 33,
+    "strategy": "stockinvest-top100"
+  },
+  {
+    "type": "buy",
+    "ticker": "NVAX",
+    "bid_price": 2.335,
+    "quantity": 13,
+    "strategy": "stockinvest-top100"
+  },
+  {
+    "type": "buy",
+    "ticker": "AGEN",
+    "bid_price": 4.153422999999999,
+    "quantity": 7,
+    "strategy": "stockinvest-top100"
+  },
+  {
+    "type": "buy",
+    "ticker": "CLD",
+    "bid_price": 3.8,
+    "quantity": 4,
+    "strategy": "big-day-trend-up"
+  },
+  {
+    "type": "buy",
+    "ticker": "LBCC",
+    "bid_price": 3.6248,
+    "quantity": 5,
+    "strategy": "big-day-trend-up"
+  },
+  {
+    "type": "buy",
+    "ticker": "KNDI",
+    "bid_price": 5.5,
+    "quantity": 3,
+    "strategy": "big-day-trend-up"
+  },
+  {
+    "type": "buy",
+    "ticker": "ADMP",
+    "bid_price": 3.075,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "DMPI",
+    "bid_price": 1.1665,
+    "quantity": 3,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "FPAY",
+    "bid_price": 3.26,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "QUIK",
+    "bid_price": 1.8832,
+    "quantity": 2,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "INPX",
+    "bid_price": 2.5388,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "AEMD",
+    "bid_price": 1.55,
+    "quantity": 2,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "OPGN",
+    "bid_price": 1.9251581999999998,
+    "quantity": 2,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "FORD",
+    "bid_price": 1.7838354999999997,
+    "quantity": 2,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "EVOK",
+    "bid_price": 2.123944999999999,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "BSPM",
+    "bid_price": 3.9810094999999985,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "GLBR",
+    "bid_price": 0.3301,
+    "quantity": 11,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "CETXW",
+    "bid_price": 0.3939,
+    "quantity": 9,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "FENX",
+    "bid_price": 0.48,
+    "quantity": 8,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "GLCH",
+    "bid_price": 0.515,
+    "quantity": 7,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "RWLK",
+    "bid_price": 1.15,
+    "quantity": 3,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "AQMS",
+    "bid_price": 2.765,
+    "quantity": 1,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "OXBR",
+    "bid_price": 2.4,
+    "quantity": 1,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "DRYS",
+    "bid_price": 3.86,
+    "quantity": 1,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "IMMY",
+    "bid_price": 1.7661,
+    "quantity": 2,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "APHB",
+    "bid_price": 1.2398,
+    "quantity": 3,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "ANTH",
+    "bid_price": 1.7038963999999999,
+    "quantity": 2,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "KONA",
+    "bid_price": 1.8555499999999998,
+    "quantity": 2,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "GEN",
+    "bid_price": 1.2625299999999997,
+    "quantity": 3,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "PULM",
+    "bid_price": 1.5190599999999996,
+    "quantity": 2,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "CRMD",
+    "bid_price": 0.5724883999999998,
+    "quantity": 6,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "BKS",
+    "bid_price": 4.775,
+    "quantity": 7,
+    "strategy": "fizbiz-under5Target10Change2Vol200Within10of52Low"
+  },
+  {
+    "type": "buy",
+    "ticker": "CLDX",
+    "bid_price": 2.3670799999999996,
+    "quantity": 14,
+    "strategy": "fizbiz-under5Target10Change2Vol200Within10of52Low"
+  }
+]

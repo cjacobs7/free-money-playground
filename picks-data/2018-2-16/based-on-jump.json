@@ -1,0 +1,188 @@
+{
+  "5": [
+    {
+      "ticker": "DRYS",
+      "price": 3.82
+    },
+    {
+      "ticker": "GLBR",
+      "price": 0.35
+    },
+    {
+      "ticker": "AQMS",
+      "price": 2.7252
+    },
+    {
+      "ticker": "FENX",
+      "price": 0.48
+    },
+    {
+      "ticker": "KONA",
+      "price": 1.9
+    },
+    {
+      "ticker": "CETXW",
+      "price": 0.3939
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.2413
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.5718
+    },
+    {
+      "ticker": "RKDA",
+      "price": 4.79
+    },
+    {
+      "ticker": "ANTH",
+      "price": 1.7072
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.27
+    },
+    {
+      "ticker": "GLCH",
+      "price": 0.515
+    },
+    {
+      "ticker": "PULM",
+      "price": 1.5
+    },
+    {
+      "ticker": "RWLK",
+      "price": 1.1478
+    },
+    {
+      "ticker": "OXBR",
+      "price": 2.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DRYS",
+      "price": 3.88
+    },
+    {
+      "ticker": "GLBR",
+      "price": 0.3301
+    },
+    {
+      "ticker": "AQMS",
+      "price": 2.765
+    },
+    {
+      "ticker": "FENX",
+      "price": 0.48
+    },
+    {
+      "ticker": "KONA",
+      "price": 1.85
+    },
+    {
+      "ticker": "CETXW",
+      "price": 0.3939
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.2398
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.5601
+    },
+    {
+      "ticker": "ANTH",
+      "price": 1.67
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.2304
+    },
+    {
+      "ticker": "GLCH",
+      "price": 0.515
+    },
+    {
+      "ticker": "PULM",
+      "price": 1.51
+    },
+    {
+      "ticker": "RWLK",
+      "price": 1.15
+    },
+    {
+      "ticker": "OXBR",
+      "price": 2.4
+    },
+    {
+      "ticker": "IMMY",
+      "price": 1.7661
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DRYS",
+      "price": 3.87
+    },
+    {
+      "ticker": "GLBR",
+      "price": 0.33
+    },
+    {
+      "ticker": "AQMS",
+      "price": 2.87
+    },
+    {
+      "ticker": "ICLDW",
+      "price": 0.6
+    },
+    {
+      "ticker": "FENX",
+      "price": 0.48
+    },
+    {
+      "ticker": "KONA",
+      "price": 1.85
+    },
+    {
+      "ticker": "CETXW",
+      "price": 0.3939
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.24
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.5749
+    },
+    {
+      "ticker": "ANTH",
+      "price": 1.7
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.28
+    },
+    {
+      "ticker": "GLCH",
+      "price": 0.515
+    },
+    {
+      "ticker": "PULM",
+      "price": 1.471
+    },
+    {
+      "ticker": "RWLK",
+      "price": 1.125
+    },
+    {
+      "ticker": "OXBR",
+      "price": 2.4
+    }
+  ]
+}

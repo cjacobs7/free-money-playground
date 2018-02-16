@@ -1,0 +1,446 @@
+{
+  "next-day-9": [
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-75",
+      "avgTrend": 7.63
+    },
+    {
+      "strategyName": "stockinvest-undervalued-7",
+      "avgTrend": 6.51
+    },
+    {
+      "strategyName": "before-close-up-380",
+      "avgTrend": 3.303
+    },
+    {
+      "strategyName": "first-greens-250",
+      "avgTrend": 2.785
+    },
+    {
+      "strategyName": "first-greens-190",
+      "avgTrend": 2.628
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-75",
+      "avgTrend": 2.542857142857143
+    },
+    {
+      "strategyName": "before-close-up-350",
+      "avgTrend": 2.505
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-196",
+      "avgTrend": 2.301333333333333
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-196",
+      "avgTrend": 1.9953333333333334
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-180",
+      "avgTrend": 1.6239999999999999
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-189",
+      "avgTrend": 1.6066666666666665
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-189",
+      "avgTrend": 1.59
+    },
+    {
+      "strategyName": "week-swings-273",
+      "avgTrend": 1.53
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-45",
+      "avgTrend": 1.51
+    },
+    {
+      "strategyName": "big-day-trend-up-35",
+      "avgTrend": 1.466
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-45",
+      "avgTrend": 1.3975862068965514
+    },
+    {
+      "strategyName": "<$3-upstreak-3-45",
+      "avgTrend": 1.3894594594594594
+    },
+    {
+      "strategyName": "daytime-200",
+      "avgTrend": 1.3175000000000001
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-13",
+      "avgTrend": 1.2286666666666666
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-73",
+      "avgTrend": 1.1580000000000001
+    },
+    {
+      "strategyName": "big-day-trend-up-10",
+      "avgTrend": 1.11
+    },
+    {
+      "strategyName": "stockinvest-undervalued-60",
+      "avgTrend": 1.0966666666666667
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-73",
+      "avgTrend": 1.07
+    },
+    {
+      "strategyName": "<$3-upstreak-3-189",
+      "avgTrend": 0.9446666666666665
+    },
+    {
+      "strategyName": "big-day-trend-up-90",
+      "avgTrend": 0.8959999999999997
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-180",
+      "avgTrend": 0.8839999999999999
+    },
+    {
+      "strategyName": "big-day-trend-up-223",
+      "avgTrend": 0.808
+    },
+    {
+      "strategyName": "swings-253",
+      "avgTrend": 0.7315384615384615
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-189",
+      "avgTrend": 0.6900000000000001
+    },
+    {
+      "strategyName": "<$3-upstreak-4-189",
+      "avgTrend": 0.6776470588235296
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-45",
+      "avgTrend": 0.65
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-380",
+      "avgTrend": 0.6373333333333335
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-380",
+      "avgTrend": 0.6313333333333333
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-45",
+      "avgTrend": 0.6079999999999999
+    },
+    {
+      "strategyName": "swings-193",
+      "avgTrend": 0.546153846153846
+    },
+    {
+      "strategyName": "week-swings-169",
+      "avgTrend": 0.492
+    },
+    {
+      "strategyName": "before-close-381",
+      "avgTrend": 0.40857142857142853
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-180",
+      "avgTrend": 0.36333333333333345
+    },
+    {
+      "strategyName": "before-close-351",
+      "avgTrend": 0.04111111111111107
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-380",
+      "avgTrend": 0.013333333333333308
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-189",
+      "avgTrend": -0.014999999999999873
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-12",
+      "avgTrend": -0.2366666666666667
+    },
+    {
+      "strategyName": "<$3-upstreak-4-45",
+      "avgTrend": -0.389375
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-13",
+      "avgTrend": -0.39133333333333326
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-75",
+      "avgTrend": -0.4126666666666665
+    },
+    {
+      "strategyName": "daytime-260",
+      "avgTrend": -0.4149999999999999
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-2",
+      "avgTrend": -0.5139999999999999
+    },
+    {
+      "strategyName": "based-on-jump-30",
+      "avgTrend": -0.534269662921348
+    },
+    {
+      "strategyName": "based-on-jump-5",
+      "avgTrend": -0.836179775280899
+    },
+    {
+      "strategyName": "based-on-jump-16",
+      "avgTrend": -0.8467045454545453
+    },
+    {
+      "strategyName": "week-swings-1",
+      "avgTrend": -2.32
+    },
+    {
+      "strategyName": "stockinvest-top100-123",
+      "avgTrend": -7.6175000000000015
+    },
+    {
+      "strategyName": "stockinvest-top100-60",
+      "avgTrend": -8.725000000000001
+    },
+    {
+      "strategyName": "stockinvest-top100-7",
+      "avgTrend": -9.58625
+    },
+    {
+      "strategyName": "stockinvest-top100-263",
+      "avgTrend": -17.9225
+    }
+  ],
+  "next-day-85": [
+    {
+      "strategyName": "week-swings-169",
+      "avgTrend": 8.693999999999999
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-75",
+      "avgTrend": 7.38
+    },
+    {
+      "strategyName": "stockinvest-undervalued-7",
+      "avgTrend": 5.33
+    },
+    {
+      "strategyName": "big-day-trend-up-10",
+      "avgTrend": 4.0600000000000005
+    },
+    {
+      "strategyName": "week-swings-1",
+      "avgTrend": 2.945
+    },
+    {
+      "strategyName": "week-swings-273",
+      "avgTrend": 2.7350000000000003
+    },
+    {
+      "strategyName": "big-day-trend-up-35",
+      "avgTrend": 2.5540000000000007
+    },
+    {
+      "strategyName": "first-greens-250",
+      "avgTrend": 2.403
+    },
+    {
+      "strategyName": "swings-193",
+      "avgTrend": 2.329230769230769
+    },
+    {
+      "strategyName": "first-greens-190",
+      "avgTrend": 2.248
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-75",
+      "avgTrend": 2.1028571428571428
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-196",
+      "avgTrend": 2.086666666666667
+    },
+    {
+      "strategyName": "daytime-200",
+      "avgTrend": 1.9633333333333332
+    },
+    {
+      "strategyName": "<$3-upstreak-3-45",
+      "avgTrend": 1.8863513513513515
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-196",
+      "avgTrend": 1.8846666666666665
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-180",
+      "avgTrend": 1.5980000000000003
+    },
+    {
+      "strategyName": "before-close-381",
+      "avgTrend": 1.497142857142857
+    },
+    {
+      "strategyName": "before-close-up-350",
+      "avgTrend": 1.4310000000000003
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-180",
+      "avgTrend": 1.34
+    },
+    {
+      "strategyName": "<$3-upstreak-3-189",
+      "avgTrend": 1.3372
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-73",
+      "avgTrend": 1.288
+    },
+    {
+      "strategyName": "before-close-up-380",
+      "avgTrend": 1.2020000000000004
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-45",
+      "avgTrend": 1.1458620689655175
+    },
+    {
+      "strategyName": "big-day-trend-up-90",
+      "avgTrend": 1.1440000000000001
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-13",
+      "avgTrend": 1.126
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-189",
+      "avgTrend": 1.0366666666666666
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-73",
+      "avgTrend": 0.958666666666667
+    },
+    {
+      "strategyName": "<$3-upstreak-4-189",
+      "avgTrend": 0.8976470588235294
+    },
+    {
+      "strategyName": "big-day-trend-up-223",
+      "avgTrend": 0.89
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-12",
+      "avgTrend": 0.6953333333333334
+    },
+    {
+      "strategyName": "stockinvest-undervalued-60",
+      "avgTrend": 0.4299999999999999
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-2",
+      "avgTrend": 0.37266666666666676
+    },
+    {
+      "strategyName": "swings-253",
+      "avgTrend": 0.05923076923076923
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-45",
+      "avgTrend": 0.05800000000000002
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-380",
+      "avgTrend": 0.03200000000000009
+    },
+    {
+      "strategyName": "daytime-260",
+      "avgTrend": 0.028999999999999915
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-380",
+      "avgTrend": 0.027333333333333282
+    },
+    {
+      "strategyName": "before-close-351",
+      "avgTrend": -0.08444444444444461
+    },
+    {
+      "strategyName": "<$3-upstreak-4-45",
+      "avgTrend": -0.125625
+    },
+    {
+      "strategyName": "based-on-jump-30",
+      "avgTrend": -0.1258426966292135
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-180",
+      "avgTrend": -0.20066666666666666
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-189",
+      "avgTrend": -0.3950000000000001
+    },
+    {
+      "strategyName": "based-on-jump-16",
+      "avgTrend": -0.40193181818181817
+    },
+    {
+      "strategyName": "based-on-jump-5",
+      "avgTrend": -0.4082022471910112
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-75",
+      "avgTrend": -0.5393333333333336
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-189",
+      "avgTrend": -0.7050000000000001
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-45",
+      "avgTrend": -0.745
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-13",
+      "avgTrend": -0.8446666666666667
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-380",
+      "avgTrend": -1.1933333333333334
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-189",
+      "avgTrend": -1.31
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-45",
+      "avgTrend": -1.39
+    },
+    {
+      "strategyName": "stockinvest-top100-123",
+      "avgTrend": -6.791250000000001
+    },
+    {
+      "strategyName": "stockinvest-top100-60",
+      "avgTrend": -7.856250000000001
+    },
+    {
+      "strategyName": "stockinvest-top100-7",
+      "avgTrend": -8.727500000000001
+    },
+    {
+      "strategyName": "stockinvest-top100-263",
+      "avgTrend": -17.55
+    }
+  ]
+}

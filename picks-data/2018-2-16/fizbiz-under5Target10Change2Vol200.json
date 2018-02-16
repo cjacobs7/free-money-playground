@@ -1,0 +1,66 @@
+{
+  "2": [],
+  "12": [],
+  "75": [
+    {
+      "ticker": "NVAX",
+      "price": 2.3802
+    },
+    {
+      "ticker": "APRN",
+      "price": 3.659
+    },
+    {
+      "ticker": "OZM",
+      "price": 2.5639
+    },
+    {
+      "ticker": "IDRA",
+      "price": 2.01
+    },
+    {
+      "ticker": "GERN",
+      "price": 2.485
+    },
+    {
+      "ticker": "INO",
+      "price": 4.24
+    },
+    {
+      "ticker": "MNKD",
+      "price": 3.013
+    },
+    {
+      "ticker": "ACHN",
+      "price": 3.15
+    },
+    {
+      "ticker": "PLUG",
+      "price": 1.865
+    },
+    {
+      "ticker": "BKS",
+      "price": 4.75
+    },
+    {
+      "ticker": "CLDX",
+      "price": 2.36
+    },
+    {
+      "ticker": "GNC",
+      "price": 4.56
+    },
+    {
+      "ticker": "ODP",
+      "price": 3.19
+    },
+    {
+      "ticker": "NE",
+      "price": 4.095
+    },
+    {
+      "ticker": "DNR",
+      "price": 2.225
+    }
+  ]
+}

@@ -14,7 +14,9 @@ const sumArray = arr => arr.reduce((acc, val) => acc + val, 0);
 (async () => {
     let Robinhood = await login();
 
-    const curDate = (new Date()).toLocaleDateString();
+    const date = new Date();
+    // date.setDate(date.getDate() - 1);
+    const curDate = (date).toLocaleDateString();
     const todayFile = `./daily-transactions/${curDate}.json`;
     const todayTransactions = await jsonMgr.get(todayFile) || [];
 
