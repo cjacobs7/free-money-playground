@@ -1,21 +1,13 @@
 const getTrendSinceOpen = require('../rh-actions/get-trend-since-open');
 const jsonMgr = require('../utils/json-mgr');
+const getMinutesFrom630 = require('../utils/get-minutes-from-630');
+
 
 const getAllTickers = require('../rh-actions/get-all-tickers');
 
 const getTrendAndSave = async (Robinhood, min) => {
 
-    min = min || (() => {
-
-        var sixthirty = new Date();
-        sixthirty.setHours(6);
-        sixthirty.setMinutes(30);
-        var now = new Date();
-        var diffMs = now - sixthirty;
-        var diffMins = diffMs / 60000;
-        return Math.round(diffMins);
-
-    })();
+    min = min || getMinutesFrom630();
 
     // step 1 - get all tickers
     try {
