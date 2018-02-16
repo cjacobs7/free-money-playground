@@ -1,0 +1,242 @@
+{
+  "45": [
+    {
+      "ticker": "AVP",
+      "price": 2.43
+    },
+    {
+      "ticker": "PRAN",
+      "price": 2.8
+    },
+    {
+      "ticker": "IGC",
+      "price": 0.8078
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.6705
+    },
+    {
+      "ticker": "DCIX",
+      "price": 2.8901
+    },
+    {
+      "ticker": "SDPI",
+      "price": 1.6
+    },
+    {
+      "ticker": "YECO",
+      "price": 2.7423
+    },
+    {
+      "ticker": "HGT",
+      "price": 0.8107
+    },
+    {
+      "ticker": "CAPR",
+      "price": 2.0752
+    },
+    {
+      "ticker": "TEUM",
+      "price": 2.099
+    },
+    {
+      "ticker": "RTTR",
+      "price": 0.3252
+    },
+    {
+      "ticker": "VTGN",
+      "price": 1.2401
+    },
+    {
+      "ticker": "EFOI",
+      "price": 2.56
+    },
+    {
+      "ticker": "GBR",
+      "price": 1.4001
+    },
+    {
+      "ticker": "SPRT",
+      "price": 2.8
+    },
+    {
+      "ticker": "SIFY",
+      "price": 1.9576
+    },
+    {
+      "ticker": "SOL",
+      "price": 2.5295
+    },
+    {
+      "ticker": "AMRH",
+      "price": 2.22
+    },
+    {
+      "ticker": "ANTH",
+      "price": 1.751
+    },
+    {
+      "ticker": "AUMN",
+      "price": 0.4273
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.55
+    },
+    {
+      "ticker": "ONCS",
+      "price": 1.99
+    },
+    {
+      "ticker": "KONA",
+      "price": 1.755
+    },
+    {
+      "ticker": "CHEK",
+      "price": 0.76
+    },
+    {
+      "ticker": "PTX",
+      "price": 2.39
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.6098
+    },
+    {
+      "ticker": "VGZ",
+      "price": 0.8524
+    },
+    {
+      "ticker": "PFMT",
+      "price": 2.9
+    },
+    {
+      "ticker": "JMEI",
+      "price": 2.9375
+    }
+  ],
+  "189": [
+    {
+      "ticker": "MBRX",
+      "price": 2.98
+    },
+    {
+      "ticker": "AVP",
+      "price": 2.47
+    },
+    {
+      "ticker": "PRAN",
+      "price": 2.88
+    },
+    {
+      "ticker": "IGC",
+      "price": 0.8117
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.7075
+    },
+    {
+      "ticker": "DCIX",
+      "price": 2.87
+    },
+    {
+      "ticker": "SDPI",
+      "price": 1.55
+    },
+    {
+      "ticker": "YECO",
+      "price": 2.66
+    },
+    {
+      "ticker": "HGT",
+      "price": 0.8202
+    },
+    {
+      "ticker": "CAPR",
+      "price": 2
+    },
+    {
+      "ticker": "TEUM",
+      "price": 2.0995
+    },
+    {
+      "ticker": "RTTR",
+      "price": 0.3273
+    },
+    {
+      "ticker": "VTGN",
+      "price": 1.2299
+    },
+    {
+      "ticker": "EFOI",
+      "price": 2.59
+    },
+    {
+      "ticker": "GBR",
+      "price": 1.499
+    },
+    {
+      "ticker": "SPRT",
+      "price": 2.8093
+    },
+    {
+      "ticker": "SIFY",
+      "price": 1.93
+    },
+    {
+      "ticker": "SOL",
+      "price": 2.46
+    },
+    {
+      "ticker": "AMRH",
+      "price": 2.7035
+    },
+    {
+      "ticker": "ANTH",
+      "price": 1.739
+    },
+    {
+      "ticker": "AUMN",
+      "price": 0.4261
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.511
+    },
+    {
+      "ticker": "ONCS",
+      "price": 1.905
+    },
+    {
+      "ticker": "KONA",
+      "price": 1.8
+    },
+    {
+      "ticker": "CHEK",
+      "price": 0.7644
+    },
+    {
+      "ticker": "PTX",
+      "price": 2.39
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.5889
+    },
+    {
+      "ticker": "VGZ",
+      "price": 0.84
+    },
+    {
+      "ticker": "PFMT",
+      "price": 2.83
+    },
+    {
+      "ticker": "JMEI",
+      "price": 2.89
+    }
+  ]
+}

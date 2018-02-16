@@ -1,0 +1,68 @@
+{
+  "1": [
+    {
+      "ticker": "NXTDW",
+      "price": 0.405
+    },
+    {
+      "ticker": "BPTH",
+      "price": 1.6507
+    },
+    {
+      "ticker": "WLB",
+      "price": 0.588
+    },
+    {
+      "ticker": "AXON",
+      "price": 1.66
+    },
+    {
+      "ticker": "OPGN",
+      "price": 2.06
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.2049
+    }
+  ],
+  "169": [
+    {
+      "ticker": "NXTDW",
+      "price": 0.4001
+    },
+    {
+      "ticker": "WLB",
+      "price": 0.5432
+    },
+    {
+      "ticker": "EMAN",
+      "price": 1.575
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.9606
+    },
+    {
+      "ticker": "OPGN",
+      "price": 1.97
+    }
+  ],
+  "273": [
+    {
+      "ticker": "WLB",
+      "price": 0.5344
+    },
+    {
+      "ticker": "EMAN",
+      "price": 1.55
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.9504
+    },
+    {
+      "ticker": "OPGN",
+      "price": 1.96
+    }
+  ]
+}

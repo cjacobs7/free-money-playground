@@ -11,21 +11,27 @@ const daysBetween = (firstDate, secondDate) => {
 
 module.exports = async Robinhood => {
     const nonzero = await detailedNonZero(Robinhood);
-    const olderThanADay = nonzero.filter(pos => {
-        return pos && pos.created_at && daysBetween(new Date(), new Date(pos.created_at)) > 0;
-    });
+    const withAge = nonzero.map(pos => ({
+        ...pos,
+        dayAge: daysBetween(new Date(), new Date(pos.created_at))
+    }));
+
+    const olderThanADay = withAge.filter(pos => pos.dayAge > 0);
+
     console.log(nonzero.length, 'total', olderThanADay.length, 'olderThanADay');
     for (let pos of olderThanADay) {
-        console.log('selling', pos);
+        const sellRatio = (pos.dayAge === 1) ? 0.5 : 1;
+        console.log('selling', sellRatio * 100, '% of', pos.symbol, 'age=', pos.dayAge);
+        const numSharesToSell = pos.quantity * sellRatio;
         try {
             const response = await activeSell(
                 Robinhood,
                 {
                     ticker: pos.symbol,
-                    quantity: pos.quantity
+                    quantity: numSharesToSell
                 }
             );
-            console.log('sold because olderThanADay', response);
+            console.log('sold because olderThanADay', pos.symbol);
         } catch (e) {
             console.log('more err', e);
         }

@@ -1,0 +1,312 @@
+{
+  "2": [
+    {
+      "ticker": "TTPH",
+      "price": 2.15
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.5518
+    },
+    {
+      "ticker": "DYNT",
+      "price": 2.9
+    },
+    {
+      "ticker": "GNC",
+      "price": 4.29
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.47
+    },
+    {
+      "ticker": "ATHX",
+      "price": 1.4329
+    },
+    {
+      "ticker": "HMNY",
+      "price": 4.7701
+    },
+    {
+      "ticker": "CATB",
+      "price": 1.41
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.88
+    },
+    {
+      "ticker": "LINU",
+      "price": 1.72
+    },
+    {
+      "ticker": "AXON",
+      "price": 1.6568
+    },
+    {
+      "ticker": "INPX",
+      "price": 2.36
+    },
+    {
+      "ticker": "TIK",
+      "price": 2.4489
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.575
+    },
+    {
+      "ticker": "BDSI",
+      "price": 2.175
+    }
+  ],
+  "12": [
+    {
+      "ticker": "TTPH",
+      "price": 2.2038
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.5
+    },
+    {
+      "ticker": "DYNT",
+      "price": 2.7944
+    },
+    {
+      "ticker": "GNC",
+      "price": 4.385
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.4601
+    },
+    {
+      "ticker": "ATHX",
+      "price": 1.37
+    },
+    {
+      "ticker": "HMNY",
+      "price": 4.7862
+    },
+    {
+      "ticker": "CATB",
+      "price": 1.3616
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.9111
+    },
+    {
+      "ticker": "LINU",
+      "price": 1.6966
+    },
+    {
+      "ticker": "AXON",
+      "price": 1.64
+    },
+    {
+      "ticker": "INPX",
+      "price": 2.5
+    },
+    {
+      "ticker": "TIK",
+      "price": 2.4489
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.635
+    },
+    {
+      "ticker": "BDSI",
+      "price": 2.175
+    }
+  ],
+  "75": [
+    {
+      "ticker": "INPX",
+      "price": 2.3807
+    },
+    {
+      "ticker": "DMPI",
+      "price": 1.0701
+    },
+    {
+      "ticker": "NHLD",
+      "price": 4
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.4738
+    },
+    {
+      "ticker": "FPAY",
+      "price": 3.15
+    },
+    {
+      "ticker": "ADMP",
+      "price": 2.995
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.8111
+    },
+    {
+      "ticker": "QUIK",
+      "price": 1.915
+    },
+    {
+      "ticker": "ZN",
+      "price": 3.98
+    },
+    {
+      "ticker": "BLIN",
+      "price": 2.1245
+    },
+    {
+      "ticker": "EVOK",
+      "price": 2.22
+    },
+    {
+      "ticker": "BSPM",
+      "price": 4.02
+    },
+    {
+      "ticker": "KGC",
+      "price": 3.905
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.9444
+    },
+    {
+      "ticker": "TYHT",
+      "price": 2.0349
+    }
+  ],
+  "180": [
+    {
+      "ticker": "INPX",
+      "price": 2.36
+    },
+    {
+      "ticker": "FPAY",
+      "price": 2.9384
+    },
+    {
+      "ticker": "DMPI",
+      "price": 1.1445
+    },
+    {
+      "ticker": "ADMP",
+      "price": 2.975
+    },
+    {
+      "ticker": "NHLD",
+      "price": 4.04
+    },
+    {
+      "ticker": "QUIK",
+      "price": 1.84
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.75
+    },
+    {
+      "ticker": "EVOK",
+      "price": 2.17
+    },
+    {
+      "ticker": "BSPM",
+      "price": 4.08
+    },
+    {
+      "ticker": "ARDM",
+      "price": 1.26
+    },
+    {
+      "ticker": "BLIN",
+      "price": 2.0801
+    },
+    {
+      "ticker": "TYHT",
+      "price": 2.05
+    },
+    {
+      "ticker": "TCON",
+      "price": 2.125
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.975
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.2832
+    }
+  ],
+  "380": [
+    {
+      "ticker": "DMPI",
+      "price": 1.1316
+    },
+    {
+      "ticker": "FPAY",
+      "price": 2.98
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2
+    },
+    {
+      "ticker": "ADMP",
+      "price": 2.95
+    },
+    {
+      "ticker": "EVOK",
+      "price": 2.0998
+    },
+    {
+      "ticker": "NHLD",
+      "price": 4.0001
+    },
+    {
+      "ticker": "INPX",
+      "price": 2.8699
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.7595
+    },
+    {
+      "ticker": "QUIK",
+      "price": 1.85
+    },
+    {
+      "ticker": "NSPR",
+      "price": 4.8594
+    },
+    {
+      "ticker": "ARDM",
+      "price": 1.2568
+    },
+    {
+      "ticker": "BSPM",
+      "price": 4.1
+    },
+    {
+      "ticker": "TYHT",
+      "price": 2.0501
+    },
+    {
+      "ticker": "COGT",
+      "price": 3.025
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.925
+    }
+  ]
+}

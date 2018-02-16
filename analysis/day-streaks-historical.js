@@ -1,4 +1,4 @@
-const getTrendAndSave = require('../app-actions/get-trend-and-save');
+// const getTrendAndSave = require('../app-actions/get-trend-and-save');
 const login = require('../rh-actions/login');
 
 const mapLimit = require('promise-map-limit');

@@ -1,0 +1,110 @@
+{
+  "193": [
+    {
+      "ticker": "PRTO",
+      "price": 2.15
+    },
+    {
+      "ticker": "NXTDW",
+      "price": 0.4001
+    },
+    {
+      "ticker": "CPAH",
+      "price": 3.6311
+    },
+    {
+      "ticker": "WLB",
+      "price": 0.5408
+    },
+    {
+      "ticker": "YGYI",
+      "price": 4.74
+    },
+    {
+      "ticker": "AZRX",
+      "price": 3.05
+    },
+    {
+      "ticker": "LABD",
+      "price": 3.2813
+    },
+    {
+      "ticker": "RMGN",
+      "price": 0.828
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.355
+    },
+    {
+      "ticker": "GNC",
+      "price": 4.3999
+    },
+    {
+      "ticker": "DYNT",
+      "price": 2.75
+    },
+    {
+      "ticker": "SKYS",
+      "price": 0.8852
+    },
+    {
+      "ticker": "QUMU",
+      "price": 1.8
+    }
+  ],
+  "253": [
+    {
+      "ticker": "PRTO",
+      "price": 2.125
+    },
+    {
+      "ticker": "CPAH",
+      "price": 3.51
+    },
+    {
+      "ticker": "WLB",
+      "price": 0.539
+    },
+    {
+      "ticker": "YGYI",
+      "price": 4.74
+    },
+    {
+      "ticker": "AZRX",
+      "price": 3.03
+    },
+    {
+      "ticker": "ACFN",
+      "price": 0.24
+    },
+    {
+      "ticker": "LABD",
+      "price": 3.24
+    },
+    {
+      "ticker": "RMGN",
+      "price": 0.8301
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.37
+    },
+    {
+      "ticker": "GNC",
+      "price": 4.35
+    },
+    {
+      "ticker": "DYNT",
+      "price": 2.7852
+    },
+    {
+      "ticker": "SKYS",
+      "price": 0.89
+    },
+    {
+      "ticker": "QUMU",
+      "price": 1.8309
+    }
+  ]
+}

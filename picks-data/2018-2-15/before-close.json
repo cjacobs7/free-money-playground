@@ -1,0 +1,70 @@
+{
+  "351": [
+    {
+      "ticker": "ISSC",
+      "price": 3.322
+    },
+    {
+      "ticker": "ATXI",
+      "price": 4.2566
+    },
+    {
+      "ticker": "AAME",
+      "price": 3.35
+    },
+    {
+      "ticker": "CAGDF",
+      "price": 5.299
+    },
+    {
+      "ticker": "BYFC",
+      "price": 2.49
+    },
+    {
+      "ticker": "NTN",
+      "price": 5.84
+    },
+    {
+      "ticker": "FPPP",
+      "price": 0.175
+    },
+    {
+      "ticker": "AWX",
+      "price": 2.1
+    },
+    {
+      "ticker": "CTIB",
+      "price": 4.7094
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AAME",
+      "price": 3.35
+    },
+    {
+      "ticker": "CAGDF",
+      "price": 5.299
+    },
+    {
+      "ticker": "FPPP",
+      "price": 0.175
+    },
+    {
+      "ticker": "AWX",
+      "price": 2.1
+    },
+    {
+      "ticker": "BYFC",
+      "price": 2.49
+    },
+    {
+      "ticker": "NTN",
+      "price": 5.84
+    },
+    {
+      "ticker": "CTIB",
+      "price": 4.7094
+    }
+  ]
+}

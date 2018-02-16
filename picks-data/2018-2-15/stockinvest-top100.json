@@ -1,0 +1,122 @@
+{
+  "7": [
+    {
+      "ticker": "CERC",
+      "price": 3.9145
+    },
+    {
+      "ticker": "AMPE",
+      "price": 3.3972
+    },
+    {
+      "ticker": "APRI",
+      "price": 2.856
+    },
+    {
+      "ticker": "HMY",
+      "price": 2.12
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.72
+    },
+    {
+      "ticker": "HTGM",
+      "price": 5.1
+    },
+    {
+      "ticker": "ZN",
+      "price": 4.1748
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.635
+    }
+  ],
+  "60": [
+    {
+      "ticker": "CERC",
+      "price": 3.8231
+    },
+    {
+      "ticker": "AMPE",
+      "price": 3.46
+    },
+    {
+      "ticker": "APRI",
+      "price": 3
+    },
+    {
+      "ticker": "HMY",
+      "price": 2.08
+    },
+    {
+      "ticker": "HTGM",
+      "price": 5
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.715
+    },
+    {
+      "ticker": "ZN",
+      "price": 3.9905
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.655
+    }
+  ],
+  "123": [
+    {
+      "ticker": "CERC",
+      "price": 3.6996
+    },
+    {
+      "ticker": "AMPE",
+      "price": 3.3789
+    },
+    {
+      "ticker": "APRI",
+      "price": 3.1394
+    },
+    {
+      "ticker": "HMY",
+      "price": 2.055
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.6949
+    },
+    {
+      "ticker": "HTGM",
+      "price": 5.0062
+    },
+    {
+      "ticker": "ZN",
+      "price": 3.9101
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.6
+    }
+  ],
+  "263": [
+    {
+      "ticker": "CERC",
+      "price": 3.7599
+    },
+    {
+      "ticker": "AMPE",
+      "price": 3.429
+    },
+    {
+      "ticker": "APRI",
+      "price": 3.1999
+    },
+    {
+      "ticker": "HMY",
+      "price": 2.085
+    }
+  ]
+}

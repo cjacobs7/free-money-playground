@@ -1,0 +1,138 @@
+{
+  "45": [
+    {
+      "ticker": "WMIH",
+      "price": 1.2667
+    },
+    {
+      "ticker": "AEMD",
+      "price": 1.5601
+    },
+    {
+      "ticker": "PGLC",
+      "price": 2.27
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.4711
+    },
+    {
+      "ticker": "STRM",
+      "price": 1.71
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.155
+    },
+    {
+      "ticker": "ISNS",
+      "price": 2.9499
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.4999
+    },
+    {
+      "ticker": "CRVP",
+      "price": 0.961
+    },
+    {
+      "ticker": "PME",
+      "price": 2.9
+    },
+    {
+      "ticker": "PKD",
+      "price": 1.05
+    },
+    {
+      "ticker": "PDLI",
+      "price": 2.49
+    },
+    {
+      "ticker": "TST",
+      "price": 1.4
+    },
+    {
+      "ticker": "CTHR",
+      "price": 1.4801
+    },
+    {
+      "ticker": "AKG",
+      "price": 0.9789
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.3851
+    }
+  ],
+  "189": [
+    {
+      "ticker": "WMIH",
+      "price": 1.25
+    },
+    {
+      "ticker": "AEMD",
+      "price": 1.56
+    },
+    {
+      "ticker": "PGLC",
+      "price": 2.25
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.4584
+    },
+    {
+      "ticker": "STRM",
+      "price": 1.7
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.14
+    },
+    {
+      "ticker": "ISNS",
+      "price": 2.95
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.4885
+    },
+    {
+      "ticker": "CRVP",
+      "price": 0.9644
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.99
+    },
+    {
+      "ticker": "PME",
+      "price": 2.88
+    },
+    {
+      "ticker": "PKD",
+      "price": 1.03
+    },
+    {
+      "ticker": "PDLI",
+      "price": 2.485
+    },
+    {
+      "ticker": "TST",
+      "price": 1.42
+    },
+    {
+      "ticker": "CTHR",
+      "price": 1.43
+    },
+    {
+      "ticker": "AKG",
+      "price": 0.9508
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.355
+    }
+  ]
+}

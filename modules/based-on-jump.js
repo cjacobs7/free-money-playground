@@ -43,7 +43,10 @@ const trendFilter = async (Robinhood, trend) => {
     upOvernight = upOvernight.filter(buy => buy.trendingUp && buy.percMax < -8);
 
     console.log(cheapBuys, upOvernight.length);
-    return upOvernight.map(stock => stock.ticker);
+    return upOvernight
+        .sort((a, b) => a.percMax - b.percMax)
+        .slice(0, 15)
+        .map(stock => stock.ticker);
 };
 
 // based on jump

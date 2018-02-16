@@ -1,0 +1,188 @@
+{
+  "13": [
+    {
+      "ticker": "AKTX",
+      "price": 2.4437
+    },
+    {
+      "ticker": "EKSO",
+      "price": 1.481
+    },
+    {
+      "ticker": "SNMX",
+      "price": 1.2537
+    },
+    {
+      "ticker": "WMIH",
+      "price": 1.26
+    },
+    {
+      "ticker": "TCON",
+      "price": 2.35
+    },
+    {
+      "ticker": "XXII",
+      "price": 2.9993
+    },
+    {
+      "ticker": "MBII",
+      "price": 1.1408
+    },
+    {
+      "ticker": "BURG",
+      "price": 3.93
+    },
+    {
+      "ticker": "EAST",
+      "price": 4.995
+    },
+    {
+      "ticker": "RVEN",
+      "price": 4.4
+    },
+    {
+      "ticker": "LITB",
+      "price": 2.2949
+    },
+    {
+      "ticker": "GALT",
+      "price": 3.89
+    },
+    {
+      "ticker": "XELB",
+      "price": 3.15
+    },
+    {
+      "ticker": "BDSI",
+      "price": 2.175
+    },
+    {
+      "ticker": "CGI",
+      "price": 4.7
+    }
+  ],
+  "73": [
+    {
+      "ticker": "AKTX",
+      "price": 2.46
+    },
+    {
+      "ticker": "EKSO",
+      "price": 1.46
+    },
+    {
+      "ticker": "SNMX",
+      "price": 1.23
+    },
+    {
+      "ticker": "WMIH",
+      "price": 1.255
+    },
+    {
+      "ticker": "TCON",
+      "price": 2.3
+    },
+    {
+      "ticker": "NM",
+      "price": 1.2852
+    },
+    {
+      "ticker": "XXII",
+      "price": 3.205
+    },
+    {
+      "ticker": "MBII",
+      "price": 1.1639
+    },
+    {
+      "ticker": "BURG",
+      "price": 3.8234
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4.1489
+    },
+    {
+      "ticker": "JASN",
+      "price": 2.36
+    },
+    {
+      "ticker": "RVEN",
+      "price": 4.4
+    },
+    {
+      "ticker": "LITB",
+      "price": 2.44
+    },
+    {
+      "ticker": "GALT",
+      "price": 3.91
+    },
+    {
+      "ticker": "XELB",
+      "price": 3
+    }
+  ],
+  "196": [
+    {
+      "ticker": "AKTX",
+      "price": 2.43
+    },
+    {
+      "ticker": "EKSO",
+      "price": 1.47
+    },
+    {
+      "ticker": "SNMX",
+      "price": 1.2462
+    },
+    {
+      "ticker": "HTGM",
+      "price": 4.9501
+    },
+    {
+      "ticker": "WMIH",
+      "price": 1.25
+    },
+    {
+      "ticker": "TCON",
+      "price": 2.1935
+    },
+    {
+      "ticker": "NM",
+      "price": 1.275
+    },
+    {
+      "ticker": "XXII",
+      "price": 3.0564
+    },
+    {
+      "ticker": "MBII",
+      "price": 1.17
+    },
+    {
+      "ticker": "BURG",
+      "price": 3.7838
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4.07
+    },
+    {
+      "ticker": "JASN",
+      "price": 2.24
+    },
+    {
+      "ticker": "EAST",
+      "price": 4.9108
+    },
+    {
+      "ticker": "RVEN",
+      "price": 4.4
+    },
+    {
+      "ticker": "LITB",
+      "price": 2.44
+    }
+  ]
+}

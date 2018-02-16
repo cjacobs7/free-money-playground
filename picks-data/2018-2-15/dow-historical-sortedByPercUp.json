@@ -1,0 +1,188 @@
+{
+  "13": [
+    {
+      "ticker": "AKTX",
+      "price": 2.4437
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.44
+    },
+    {
+      "ticker": "RLGT",
+      "price": 3.75
+    },
+    {
+      "ticker": "OAKS",
+      "price": 3.249
+    },
+    {
+      "ticker": "SNMX",
+      "price": 1.2537
+    },
+    {
+      "ticker": "WMIH",
+      "price": 1.26
+    },
+    {
+      "ticker": "SXE",
+      "price": 1.921
+    },
+    {
+      "ticker": "BIOS",
+      "price": 2.96
+    },
+    {
+      "ticker": "TA",
+      "price": 4.0252
+    },
+    {
+      "ticker": "GTE",
+      "price": 2.565
+    },
+    {
+      "ticker": "SOL",
+      "price": 2.56
+    },
+    {
+      "ticker": "TTPH",
+      "price": 2.2366
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.645
+    },
+    {
+      "ticker": "TNXP",
+      "price": 3.55
+    },
+    {
+      "ticker": "BURG",
+      "price": 3.93
+    }
+  ],
+  "73": [
+    {
+      "ticker": "AKTX",
+      "price": 2.46
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.39
+    },
+    {
+      "ticker": "RLGT",
+      "price": 3.74
+    },
+    {
+      "ticker": "SNMX",
+      "price": 1.23
+    },
+    {
+      "ticker": "OAKS",
+      "price": 3.259
+    },
+    {
+      "ticker": "RNWK",
+      "price": 2.88
+    },
+    {
+      "ticker": "NM",
+      "price": 1.2852
+    },
+    {
+      "ticker": "CYAN",
+      "price": 4.755
+    },
+    {
+      "ticker": "JASN",
+      "price": 2.36
+    },
+    {
+      "ticker": "SXE",
+      "price": 1.9095
+    },
+    {
+      "ticker": "WMIH",
+      "price": 1.25
+    },
+    {
+      "ticker": "BIOS",
+      "price": 2.93
+    },
+    {
+      "ticker": "SOL",
+      "price": 2.53
+    },
+    {
+      "ticker": "GTE",
+      "price": 2.55
+    },
+    {
+      "ticker": "TA",
+      "price": 4.05
+    }
+  ],
+  "196": [
+    {
+      "ticker": "AKTX",
+      "price": 2.43
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.39
+    },
+    {
+      "ticker": "RLGT",
+      "price": 3.69
+    },
+    {
+      "ticker": "SNMX",
+      "price": 1.2462
+    },
+    {
+      "ticker": "OAKS",
+      "price": 3.219
+    },
+    {
+      "ticker": "RNWK",
+      "price": 2.93
+    },
+    {
+      "ticker": "CYAN",
+      "price": 4.755
+    },
+    {
+      "ticker": "NM",
+      "price": 1.275
+    },
+    {
+      "ticker": "JASN",
+      "price": 2.24
+    },
+    {
+      "ticker": "WMIH",
+      "price": 1.25
+    },
+    {
+      "ticker": "SXE",
+      "price": 1.8456
+    },
+    {
+      "ticker": "BIOS",
+      "price": 2.895
+    },
+    {
+      "ticker": "SOL",
+      "price": 2.46
+    },
+    {
+      "ticker": "GTE",
+      "price": 2.555
+    },
+    {
+      "ticker": "TA",
+      "price": 4.05
+    }
+  ]
+}

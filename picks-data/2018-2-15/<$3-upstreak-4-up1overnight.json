@@ -1,0 +1,50 @@
+{
+  "45": [
+    {
+      "ticker": "AKG",
+      "price": 0.9789
+    },
+    {
+      "ticker": "PGLC",
+      "price": 2.27
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.3851
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.155
+    },
+    {
+      "ticker": "PDLI",
+      "price": 2.49
+    }
+  ],
+  "189": [
+    {
+      "ticker": "AKG",
+      "price": 0.9508
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.99
+    },
+    {
+      "ticker": "PGLC",
+      "price": 2.25
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.355
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.14
+    },
+    {
+      "ticker": "PDLI",
+      "price": 2.485
+    }
+  ]
+}

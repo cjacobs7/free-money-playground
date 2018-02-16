@@ -1,0 +1,602 @@
+{
+  "45": [
+    {
+      "ticker": "MCIG",
+      "price": 0.243
+    },
+    {
+      "ticker": "AMRH",
+      "price": 2.22
+    },
+    {
+      "ticker": "YOGA",
+      "price": 2.8436
+    },
+    {
+      "ticker": "TYHT",
+      "price": 2.1
+    },
+    {
+      "ticker": "DMPI",
+      "price": 1.21
+    },
+    {
+      "ticker": "VTGN",
+      "price": 1.2401
+    },
+    {
+      "ticker": "LMFA",
+      "price": 1.5338
+    },
+    {
+      "ticker": "NIHD",
+      "price": 0.61
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.6705
+    },
+    {
+      "ticker": "YECO",
+      "price": 2.6852
+    },
+    {
+      "ticker": "RTTR",
+      "price": 0.3252
+    },
+    {
+      "ticker": "ONCS",
+      "price": 1.98
+    },
+    {
+      "ticker": "STKS",
+      "price": 2.31
+    },
+    {
+      "ticker": "CHEK",
+      "price": 0.76
+    },
+    {
+      "ticker": "CAPR",
+      "price": 2.0752
+    },
+    {
+      "ticker": "HGT",
+      "price": 0.8107
+    },
+    {
+      "ticker": "ROYT",
+      "price": 2.15
+    },
+    {
+      "ticker": "WHZT",
+      "price": 1.36
+    },
+    {
+      "ticker": "SDR",
+      "price": 0.944
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.55
+    },
+    {
+      "ticker": "EFOI",
+      "price": 2.56
+    },
+    {
+      "ticker": "JMEI",
+      "price": 2.9375
+    },
+    {
+      "ticker": "SXE",
+      "price": 1.9102
+    },
+    {
+      "ticker": "SOL",
+      "price": 2.5295
+    },
+    {
+      "ticker": "SIFY",
+      "price": 1.9576
+    },
+    {
+      "ticker": "HMY",
+      "price": 2.08
+    },
+    {
+      "ticker": "NCTY",
+      "price": 0.7794
+    },
+    {
+      "ticker": "PRAN",
+      "price": 2.8
+    },
+    {
+      "ticker": "ARDM",
+      "price": 1.3994
+    },
+    {
+      "ticker": "SDPI",
+      "price": 1.6
+    },
+    {
+      "ticker": "TGEN",
+      "price": 2.33
+    },
+    {
+      "ticker": "QRHC",
+      "price": 2.35
+    },
+    {
+      "ticker": "TNDM",
+      "price": 2.43
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.2952
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.2322
+    },
+    {
+      "ticker": "GPL",
+      "price": 1.23
+    },
+    {
+      "ticker": "IGC",
+      "price": 0.8078
+    },
+    {
+      "ticker": "PPPMF",
+      "price": 0.185
+    },
+    {
+      "ticker": "TRQ",
+      "price": 2.9138
+    },
+    {
+      "ticker": "PFMT",
+      "price": 2.9
+    },
+    {
+      "ticker": "KONA",
+      "price": 1.755
+    },
+    {
+      "ticker": "IDRA",
+      "price": 1.99
+    },
+    {
+      "ticker": "GBR",
+      "price": 1.4001
+    },
+    {
+      "ticker": "TEUM",
+      "price": 2.099
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.21
+    },
+    {
+      "ticker": "ICLD",
+      "price": 0.0059
+    },
+    {
+      "ticker": "RVP",
+      "price": 0.8499
+    },
+    {
+      "ticker": "ASTC",
+      "price": 2.93
+    },
+    {
+      "ticker": "ANTH",
+      "price": 1.751
+    },
+    {
+      "ticker": "DCIX",
+      "price": 2.901
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.375
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.6098
+    },
+    {
+      "ticker": "ARQL",
+      "price": 1.62
+    },
+    {
+      "ticker": "FAC",
+      "price": 1.17
+    },
+    {
+      "ticker": "OMED",
+      "price": 2.11
+    },
+    {
+      "ticker": "XGTI",
+      "price": 1.391
+    },
+    {
+      "ticker": "LTRX",
+      "price": 2.18
+    },
+    {
+      "ticker": "LPTH",
+      "price": 2.28
+    },
+    {
+      "ticker": "RGLS",
+      "price": 1.2651
+    },
+    {
+      "ticker": "PTX",
+      "price": 2.39
+    },
+    {
+      "ticker": "KOOL",
+      "price": 2.811
+    },
+    {
+      "ticker": "EVLV",
+      "price": 1.1601
+    },
+    {
+      "ticker": "SPRT",
+      "price": 2.8
+    },
+    {
+      "ticker": "SEED",
+      "price": 1.0101
+    },
+    {
+      "ticker": "AAU",
+      "price": 0.9159
+    },
+    {
+      "ticker": "FCSC",
+      "price": 0.6663
+    },
+    {
+      "ticker": "CHNR",
+      "price": 2.24
+    },
+    {
+      "ticker": "URG",
+      "price": 0.7041
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.4503
+    },
+    {
+      "ticker": "OBE",
+      "price": 1.005
+    },
+    {
+      "ticker": "AUMN",
+      "price": 0.4273
+    },
+    {
+      "ticker": "VGZ",
+      "price": 0.8524
+    },
+    {
+      "ticker": "AVP",
+      "price": 2.43
+    },
+    {
+      "ticker": "FTFT",
+      "price": 2.65
+    }
+  ],
+  "189": [
+    {
+      "ticker": "MCIG",
+      "price": 0.242
+    },
+    {
+      "ticker": "AMRH",
+      "price": 2.7152
+    },
+    {
+      "ticker": "YOGA",
+      "price": 2.83
+    },
+    {
+      "ticker": "TYHT",
+      "price": 2.05
+    },
+    {
+      "ticker": "DMPI",
+      "price": 1.189
+    },
+    {
+      "ticker": "MBRX",
+      "price": 2.9896
+    },
+    {
+      "ticker": "VTGN",
+      "price": 1.2299
+    },
+    {
+      "ticker": "LMFA",
+      "price": 1.5302
+    },
+    {
+      "ticker": "NIHD",
+      "price": 0.6149
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.7075
+    },
+    {
+      "ticker": "YECO",
+      "price": 2.6658
+    },
+    {
+      "ticker": "RTTR",
+      "price": 0.3273
+    },
+    {
+      "ticker": "ONCS",
+      "price": 1.9066
+    },
+    {
+      "ticker": "STKS",
+      "price": 2.32
+    },
+    {
+      "ticker": "CHEK",
+      "price": 0.7644
+    },
+    {
+      "ticker": "CAPR",
+      "price": 2
+    },
+    {
+      "ticker": "HGT",
+      "price": 0.8202
+    },
+    {
+      "ticker": "ROYT",
+      "price": 2.16
+    },
+    {
+      "ticker": "WHZT",
+      "price": 1.33
+    },
+    {
+      "ticker": "SDR",
+      "price": 0.9452
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.511
+    },
+    {
+      "ticker": "EFOI",
+      "price": 2.59
+    },
+    {
+      "ticker": "JMEI",
+      "price": 2.8899
+    },
+    {
+      "ticker": "SXE",
+      "price": 1.8456
+    },
+    {
+      "ticker": "SOL",
+      "price": 2.46
+    },
+    {
+      "ticker": "SIFY",
+      "price": 1.9
+    },
+    {
+      "ticker": "HMY",
+      "price": 2.065
+    },
+    {
+      "ticker": "NCTY",
+      "price": 0.7505
+    },
+    {
+      "ticker": "PRAN",
+      "price": 2.88
+    },
+    {
+      "ticker": "ARDM",
+      "price": 1.25
+    },
+    {
+      "ticker": "SDPI",
+      "price": 1.55
+    },
+    {
+      "ticker": "TGEN",
+      "price": 2.34
+    },
+    {
+      "ticker": "QRHC",
+      "price": 2.35
+    },
+    {
+      "ticker": "TNDM",
+      "price": 2.37
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.3002
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.25
+    },
+    {
+      "ticker": "GPL",
+      "price": 1.22
+    },
+    {
+      "ticker": "IGC",
+      "price": 0.8117
+    },
+    {
+      "ticker": "PPPMF",
+      "price": 0.1837
+    },
+    {
+      "ticker": "TRQ",
+      "price": 2.845
+    },
+    {
+      "ticker": "PFMT",
+      "price": 2.83
+    },
+    {
+      "ticker": "KONA",
+      "price": 1.8
+    },
+    {
+      "ticker": "IDRA",
+      "price": 1.94
+    },
+    {
+      "ticker": "GBR",
+      "price": 1.499
+    },
+    {
+      "ticker": "TEUM",
+      "price": 2.09
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.21
+    },
+    {
+      "ticker": "ICLD",
+      "price": 0.0073
+    },
+    {
+      "ticker": "RVP",
+      "price": 0.8544
+    },
+    {
+      "ticker": "ASTC",
+      "price": 2.94
+    },
+    {
+      "ticker": "ANTH",
+      "price": 1.739
+    },
+    {
+      "ticker": "DCIX",
+      "price": 2.88
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.361
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.5889
+    },
+    {
+      "ticker": "ARQL",
+      "price": 1.62
+    },
+    {
+      "ticker": "FAC",
+      "price": 1.17
+    },
+    {
+      "ticker": "OMED",
+      "price": 2.04
+    },
+    {
+      "ticker": "XGTI",
+      "price": 1.3804
+    },
+    {
+      "ticker": "LTRX",
+      "price": 2.177
+    },
+    {
+      "ticker": "LPTH",
+      "price": 2.29
+    },
+    {
+      "ticker": "RGLS",
+      "price": 1.2199
+    },
+    {
+      "ticker": "PTX",
+      "price": 2.39
+    },
+    {
+      "ticker": "KOOL",
+      "price": 2.8334
+    },
+    {
+      "ticker": "EVLV",
+      "price": 1.18
+    },
+    {
+      "ticker": "SPRT",
+      "price": 2.8093
+    },
+    {
+      "ticker": "SEED",
+      "price": 1.0299
+    },
+    {
+      "ticker": "AAU",
+      "price": 0.9393
+    },
+    {
+      "ticker": "FCSC",
+      "price": 0.6599
+    },
+    {
+      "ticker": "CHNR",
+      "price": 2.24
+    },
+    {
+      "ticker": "URG",
+      "price": 0.7115
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.4505
+    },
+    {
+      "ticker": "OBE",
+      "price": 0.9887
+    },
+    {
+      "ticker": "AUMN",
+      "price": 0.4261
+    },
+    {
+      "ticker": "VGZ",
+      "price": 0.84
+    },
+    {
+      "ticker": "AVP",
+      "price": 2.47
+    },
+    {
+      "ticker": "FTFT",
+      "price": 2.5601
+    }
+  ]
+}

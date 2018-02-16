@@ -1,0 +1,86 @@
+{
+  "190": [
+    {
+      "ticker": "CASI",
+      "price": 3.7428
+    },
+    {
+      "ticker": "TOPS",
+      "price": 0.225
+    },
+    {
+      "ticker": "ONVO",
+      "price": 1.095
+    },
+    {
+      "ticker": "GLBS",
+      "price": 0.9889
+    },
+    {
+      "ticker": "RLGT",
+      "price": 3.685
+    },
+    {
+      "ticker": "NWY",
+      "price": 2.84
+    },
+    {
+      "ticker": "ALNA",
+      "price": 6.5658
+    },
+    {
+      "ticker": "CRK",
+      "price": 6.75
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.9699
+    },
+    {
+      "ticker": "INFI",
+      "price": 1.85
+    }
+  ],
+  "250": [
+    {
+      "ticker": "CASI",
+      "price": 3.71
+    },
+    {
+      "ticker": "TOPS",
+      "price": 0.2163
+    },
+    {
+      "ticker": "ONVO",
+      "price": 1.09
+    },
+    {
+      "ticker": "GLBS",
+      "price": 0.9999
+    },
+    {
+      "ticker": "RLGT",
+      "price": 3.685
+    },
+    {
+      "ticker": "NWY",
+      "price": 2.84
+    },
+    {
+      "ticker": "ALNA",
+      "price": 6.56
+    },
+    {
+      "ticker": "CRK",
+      "price": 6.92
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.9699
+    },
+    {
+      "ticker": "INFI",
+      "price": 1.85
+    }
+  ]
+}

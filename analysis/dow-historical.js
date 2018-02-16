@@ -11,11 +11,11 @@ const getUpStreak = require('../app-actions/get-up-streak');
 const avgArray = require('../utils/avg-array');
 const getTrend = require('../utils/get-trend');
 
-const getHistorical = async ticker => {
-    const historicalDailyUrl = `https://api.robinhood.com/quotes/historicals/${ticker}/?interval=day`;
-    let { historicals } = await Robinhood.url(historicalDailyUrl);
-    return (historicals.length) ? historicals : [];
-};
+// const getHistorical = async ticker => {
+//     const historicalDailyUrl = `https://api.robinhood.com/quotes/historicals/${ticker}/?interval=day`;
+//     let { historicals } = await Robinhood.url(historicalDailyUrl);
+//     return (historicals.length) ? historicals : [];
+// };
 
 
 (async () => {

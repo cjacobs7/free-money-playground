@@ -4,7 +4,7 @@ const lookup = require('../utils/lookup');
 const mapLimit = require('promise-map-limit');
 const strategiesEnabled = require('../strategies-enabled');
 const purchaseStocks = require('./purchase-stocks');
-
+console.log(strategiesEnabled, 'strategies enabled ')
 module.exports = async (Robinhood, strategy, min, picks) => {
 
     const dateStr = (new Date()).toLocaleDateString();
@@ -32,7 +32,7 @@ module.exports = async (Robinhood, strategy, min, picks) => {
     if (strategiesEnabled.includes(`${strategy}-${min}`)) {
         await purchaseStocks(Robinhood, {
             stocksToBuy: picks,
-            ratioToSpend: 0.3,
+            ratioToSpend: 0.37,
             strategy
         });
     }

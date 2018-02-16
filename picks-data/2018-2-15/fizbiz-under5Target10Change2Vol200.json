@@ -1,0 +1,138 @@
+{
+  "2": [],
+  "12": [],
+  "75": [
+    {
+      "ticker": "XXII",
+      "price": 3.205
+    },
+    {
+      "ticker": "ELGX",
+      "price": 3.93
+    },
+    {
+      "ticker": "TAHO",
+      "price": 4.18
+    },
+    {
+      "ticker": "GERN",
+      "price": 2.345
+    },
+    {
+      "ticker": "CIG",
+      "price": 2.4
+    },
+    {
+      "ticker": "SGYP",
+      "price": 2.0875
+    },
+    {
+      "ticker": "GLUU",
+      "price": 3.825
+    }
+  ],
+  "180": [
+    {
+      "ticker": "ELGX",
+      "price": 4.04
+    },
+    {
+      "ticker": "XXII",
+      "price": 3.0638
+    },
+    {
+      "ticker": "AGEN",
+      "price": 4.015
+    },
+    {
+      "ticker": "SREV",
+      "price": 3.58
+    },
+    {
+      "ticker": "TAHO",
+      "price": 4.16
+    },
+    {
+      "ticker": "GERN",
+      "price": 2.35
+    },
+    {
+      "ticker": "GLUU",
+      "price": 3.895
+    },
+    {
+      "ticker": "SGYP",
+      "price": 2.095
+    },
+    {
+      "ticker": "UAN",
+      "price": 2.935
+    },
+    {
+      "ticker": "STNG",
+      "price": 2.45
+    }
+  ],
+  "380": [
+    {
+      "ticker": "ELGX",
+      "price": 4.22
+    },
+    {
+      "ticker": "AGEN",
+      "price": 4.19
+    },
+    {
+      "ticker": "XXII",
+      "price": 3.095
+    },
+    {
+      "ticker": "NVAX",
+      "price": 2.15
+    },
+    {
+      "ticker": "GLUU",
+      "price": 4
+    },
+    {
+      "ticker": "TAHO",
+      "price": 4.2
+    },
+    {
+      "ticker": "CIG",
+      "price": 2.46
+    },
+    {
+      "ticker": "EPE",
+      "price": 1.85
+    },
+    {
+      "ticker": "RIGL",
+      "price": 3.945
+    },
+    {
+      "ticker": "WPRT",
+      "price": 3.2398
+    },
+    {
+      "ticker": "AAV",
+      "price": 2.975
+    },
+    {
+      "ticker": "GERN",
+      "price": 2.37
+    },
+    {
+      "ticker": "SGYP",
+      "price": 2.1036
+    },
+    {
+      "ticker": "STNG",
+      "price": 2.48
+    },
+    {
+      "ticker": "SREV",
+      "price": 3.545
+    }
+  ]
+}

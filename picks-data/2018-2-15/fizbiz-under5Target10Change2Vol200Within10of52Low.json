@@ -1,0 +1,38 @@
+{
+  "2": [],
+  "12": [],
+  "75": [
+    {
+      "ticker": "ELGX",
+      "price": 3.93
+    }
+  ],
+  "180": [
+    {
+      "ticker": "ELGX",
+      "price": 4.04
+    },
+    {
+      "ticker": "UAN",
+      "price": 2.935
+    },
+    {
+      "ticker": "STNG",
+      "price": 2.45
+    }
+  ],
+  "380": [
+    {
+      "ticker": "AAV",
+      "price": 2.975
+    },
+    {
+      "ticker": "ANH",
+      "price": 4.91
+    },
+    {
+      "ticker": "SWN",
+      "price": 3.745
+    }
+  ]
+}

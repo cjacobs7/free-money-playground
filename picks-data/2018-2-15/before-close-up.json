@@ -1,0 +1,86 @@
+{
+  "350": [
+    {
+      "ticker": "WHLRW",
+      "price": 0.0279
+    },
+    {
+      "ticker": "MARA",
+      "price": 2.8
+    },
+    {
+      "ticker": "IDSA",
+      "price": 2.01
+    },
+    {
+      "ticker": "BUR",
+      "price": 0.5194
+    },
+    {
+      "ticker": "CYHHZ",
+      "price": 0.0061
+    },
+    {
+      "ticker": "OSN",
+      "price": 2.93
+    },
+    {
+      "ticker": "AETI",
+      "price": 1.3542
+    },
+    {
+      "ticker": "SEII",
+      "price": 4.25
+    },
+    {
+      "ticker": "DYSL",
+      "price": 1.221
+    },
+    {
+      "ticker": "SMRT",
+      "price": 0.5499
+    }
+  ],
+  "380": [
+    {
+      "ticker": "IDSA",
+      "price": 2.01
+    },
+    {
+      "ticker": "CYHHZ",
+      "price": 0.0061
+    },
+    {
+      "ticker": "SEII",
+      "price": 4.26
+    },
+    {
+      "ticker": "BUR",
+      "price": 0.512
+    },
+    {
+      "ticker": "AETI",
+      "price": 1.3542
+    },
+    {
+      "ticker": "DYSL",
+      "price": 1.221
+    },
+    {
+      "ticker": "WG",
+      "price": 0.9915
+    },
+    {
+      "ticker": "JRJC",
+      "price": 2.47
+    },
+    {
+      "ticker": "WHLRW",
+      "price": 0.0251
+    },
+    {
+      "ticker": "NOG",
+      "price": 1.8099
+    }
+  ]
+}

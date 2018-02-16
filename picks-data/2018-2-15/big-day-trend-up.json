@@ -1,0 +1,90 @@
+{
+  "10": [
+    {
+      "ticker": "SSNT",
+      "price": 2.9
+    },
+    {
+      "ticker": "ALJJ",
+      "price": 2.81
+    },
+    {
+      "ticker": "PRAN",
+      "price": 2.7135
+    },
+    {
+      "ticker": "SHLD",
+      "price": 2.35
+    },
+    {
+      "ticker": "NNDM",
+      "price": 2.8744
+    }
+  ],
+  "35": [
+    {
+      "ticker": "ALJJ",
+      "price": 2.74
+    },
+    {
+      "ticker": "SHLD",
+      "price": 2.285
+    },
+    {
+      "ticker": "ADMP",
+      "price": 3.1592
+    },
+    {
+      "ticker": "WTI",
+      "price": 3.7399
+    },
+    {
+      "ticker": "KGC",
+      "price": 3.9299
+    }
+  ],
+  "90": [
+    {
+      "ticker": "ALJJ",
+      "price": 2.55
+    },
+    {
+      "ticker": "ADMP",
+      "price": 2.975
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.1824
+    },
+    {
+      "ticker": "EVOK",
+      "price": 2.22
+    },
+    {
+      "ticker": "KGC",
+      "price": 3.894
+    }
+  ],
+  "223": [
+    {
+      "ticker": "ALJJ",
+      "price": 2.5254
+    },
+    {
+      "ticker": "ADMP",
+      "price": 2.95
+    },
+    {
+      "ticker": "EVOK",
+      "price": 2.165
+    },
+    {
+      "ticker": "CNFR",
+      "price": 5.6
+    },
+    {
+      "ticker": "QUIK",
+      "price": 1.84
+    }
+  ]
+}
