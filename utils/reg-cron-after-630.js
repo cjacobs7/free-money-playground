@@ -8,7 +8,7 @@ const regCronIncAfterSixThirty = (Robinhood, { name, run, fn }) => {
     run.forEach((min, index) => {
         const newDateObj = new Date(d.getTime() + min * 60000);
         newDateObj.setSeconds(0);
-        const cronStr = `${newDateObj.getMinutes()} ${newDateObj.getHours()} * * *`;
+        const cronStr = `${newDateObj.getMinutes()} ${newDateObj.getHours()} * * 1-5`;
 
         allCrons.push({
             date: newDateObj,

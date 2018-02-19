@@ -1,0 +1,94 @@
+{
+  "351": [
+    {
+      "ticker": "CFRX",
+      "price": 1.605
+    },
+    {
+      "ticker": "NNVC",
+      "price": 1.01
+    },
+    {
+      "ticker": "RCM",
+      "price": 5.25
+    },
+    {
+      "ticker": "CTG",
+      "price": 5.9
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.382
+    },
+    {
+      "ticker": "CAGDF",
+      "price": 5.1108
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.77
+    },
+    {
+      "ticker": "BYFC",
+      "price": 2.54
+    },
+    {
+      "ticker": "BNSO",
+      "price": 3.517
+    },
+    {
+      "ticker": "MJCO",
+      "price": 5.43
+    },
+    {
+      "ticker": "CTIB",
+      "price": 4.7094
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CFRX",
+      "price": 1.67
+    },
+    {
+      "ticker": "STKS",
+      "price": 2.505
+    },
+    {
+      "ticker": "MJCO",
+      "price": 5.43
+    },
+    {
+      "ticker": "CTIB",
+      "price": 4.7094
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.77
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.39
+    },
+    {
+      "ticker": "BYFC",
+      "price": 2.54
+    },
+    {
+      "ticker": "NNVC",
+      "price": 1.0196
+    },
+    {
+      "ticker": "CAGDF",
+      "price": 5.1973
+    },
+    {
+      "ticker": "CTG",
+      "price": 5.895
+    },
+    {
+      "ticker": "RCM",
+      "price": 5.27
+    }
+  ]
+}

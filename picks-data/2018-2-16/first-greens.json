@@ -1,0 +1,86 @@
+{
+  "190": [
+    {
+      "ticker": "MNGA",
+      "price": 1.32
+    },
+    {
+      "ticker": "TYME",
+      "price": 3.42
+    },
+    {
+      "ticker": "HMNY",
+      "price": 4.71
+    },
+    {
+      "ticker": "PRXIQ",
+      "price": 4.7
+    },
+    {
+      "ticker": "TTPH",
+      "price": 2.16
+    },
+    {
+      "ticker": "QHC",
+      "price": 6.44
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.2752
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.2514
+    },
+    {
+      "ticker": "ASCMA",
+      "price": 6.48
+    },
+    {
+      "ticker": "HGEN",
+      "price": 0.62
+    }
+  ],
+  "250": [
+    {
+      "ticker": "MNGA",
+      "price": 1.3
+    },
+    {
+      "ticker": "TYME",
+      "price": 3.41
+    },
+    {
+      "ticker": "HMNY",
+      "price": 4.7
+    },
+    {
+      "ticker": "PRXIQ",
+      "price": 4.7
+    },
+    {
+      "ticker": "TTPH",
+      "price": 2.15
+    },
+    {
+      "ticker": "QHC",
+      "price": 6.3048
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.276
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.4728
+    },
+    {
+      "ticker": "ASCMA",
+      "price": 6.495
+    },
+    {
+      "ticker": "HGEN",
+      "price": 0.62
+    }
+  ]
+}

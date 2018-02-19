@@ -12,7 +12,7 @@ const mapLimit = require('promise-map-limit');
 const trendFilter = async (Robinhood, trend) => {
 
     var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
-    const todaysDay = days[(new Date()).getDay() + 1];
+    const todaysDay = days[(new Date()).getDay()];
     console.log('todays day', todaysDay);
 
     let cheapBuys = trend

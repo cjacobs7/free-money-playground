@@ -64,5 +64,27 @@
       "ticker": "ATXI",
       "price": 4.01
     }
+  ],
+  "223": [
+    {
+      "ticker": "LBCC",
+      "price": 3.2475
+    },
+    {
+      "ticker": "CLD",
+      "price": 3.525
+    },
+    {
+      "ticker": "KZIA",
+      "price": 4.35
+    },
+    {
+      "ticker": "SSNT",
+      "price": 3.8
+    },
+    {
+      "ticker": "EYES",
+      "price": 1.719
+    }
   ]
 }

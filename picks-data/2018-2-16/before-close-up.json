@@ -1,0 +1,86 @@
+{
+  "350": [
+    {
+      "ticker": "VII",
+      "price": 0.4103
+    },
+    {
+      "ticker": "TWMC",
+      "price": 1.695
+    },
+    {
+      "ticker": "CARV",
+      "price": 2.75
+    },
+    {
+      "ticker": "RVP",
+      "price": 0.9151
+    },
+    {
+      "ticker": "BUR",
+      "price": 0.5128
+    },
+    {
+      "ticker": "JRJC",
+      "price": 2.4624
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.6816
+    },
+    {
+      "ticker": "HPJ",
+      "price": 3.7862
+    },
+    {
+      "ticker": "TENX",
+      "price": 0.3473
+    },
+    {
+      "ticker": "YGE",
+      "price": 1.61
+    }
+  ],
+  "380": [
+    {
+      "ticker": "VII",
+      "price": 0.4189
+    },
+    {
+      "ticker": "TWMC",
+      "price": 1.695
+    },
+    {
+      "ticker": "CARV",
+      "price": 2.75
+    },
+    {
+      "ticker": "FLKS",
+      "price": 4.32
+    },
+    {
+      "ticker": "SLNO",
+      "price": 1.63
+    },
+    {
+      "ticker": "BUR",
+      "price": 0.5125
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.681
+    },
+    {
+      "ticker": "HPJ",
+      "price": 3.7862
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.5612
+    },
+    {
+      "ticker": "YGE",
+      "price": 1.61
+    }
+  ]
+}

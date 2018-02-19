@@ -1,8 +1,11 @@
+// looks at daily transactions
+// determines how your purchases have trended since you bought them
+
 const mapLimit = require('promise-map-limit');
 
 const login = require('../rh-actions/login');
 
-
+const fs = require('mz/fs');
 const jsonMgr = require('../utils/json-mgr');
 const getTrend = require('../utils/get-trend');
 // const lookup = require('../utils/lookup');
@@ -14,10 +17,14 @@ const sumArray = arr => arr.reduce((acc, val) => acc + val, 0);
 (async () => {
     let Robinhood = await login();
 
-    const date = new Date();
-    // date.setDate(date.getDate() - 1);
-    const curDate = (date).toLocaleDateString();
-    const todayFile = `./daily-transactions/${curDate}.json`;
+    let files = await fs.readdir('./daily-transactions');
+
+    let sortedFiles = files.sort((a, b) => {
+        return new Date(a.split('.')[0]) - new Date(b.split('.')[0]);
+    });
+    console.log(sortedFiles);
+    const mostRecentDay = sortedFiles[sortedFiles.length - 1];
+    const todayFile = `./daily-transactions/${mostRecentDay}`;
     const todayTransactions = await jsonMgr.get(todayFile) || [];
 
     const tickerLookups = {};
@@ -73,7 +80,7 @@ const sumArray = arr => arr.reduce((acc, val) => acc + val, 0);
     });
     console.log(JSON.stringify(stratTrans, null, 2));
 
-    console.log('\nCurrent report for ', curDate);
+    console.log('\nCurrent report for ', mostRecentDay);
     console.log('Strategies')
     Object.keys(stratTrans).forEach(strategyName => {
         const { totalInvested, dollarChange, avgTrend } = stratTrans[strategyName];

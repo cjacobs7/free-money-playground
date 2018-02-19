@@ -184,5 +184,129 @@
       "ticker": "CCIH",
       "price": 1.4909
     }
+  ],
+  "120": [
+    {
+      "ticker": "APRI",
+      "price": 1.1677
+    },
+    {
+      "ticker": "NNDM",
+      "price": 2.33
+    },
+    {
+      "ticker": "MBRX",
+      "price": 2.08
+    },
+    {
+      "ticker": "PXLW",
+      "price": 4.3901
+    },
+    {
+      "ticker": "CLD",
+      "price": 3.66
+    },
+    {
+      "ticker": "AMPE",
+      "price": 2.96
+    },
+    {
+      "ticker": "INPX",
+      "price": 2.4178
+    },
+    {
+      "ticker": "REXX",
+      "price": 0.99
+    },
+    {
+      "ticker": "SCKT",
+      "price": 3.7648
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.4486
+    },
+    {
+      "ticker": "BSPM",
+      "price": 3.81
+    },
+    {
+      "ticker": "AUY",
+      "price": 3.25
+    },
+    {
+      "ticker": "HMNY",
+      "price": 4.71
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.31
+    },
+    {
+      "ticker": "CNET",
+      "price": 2.95
+    }
+  ],
+  "180": [
+    {
+      "ticker": "APRI",
+      "price": 1.05
+    },
+    {
+      "ticker": "NNDM",
+      "price": 2.25
+    },
+    {
+      "ticker": "MBRX",
+      "price": 2.07
+    },
+    {
+      "ticker": "PXLW",
+      "price": 4.2
+    },
+    {
+      "ticker": "AMPE",
+      "price": 2.9401
+    },
+    {
+      "ticker": "CLD",
+      "price": 3.654
+    },
+    {
+      "ticker": "INPX",
+      "price": 2.41
+    },
+    {
+      "ticker": "REXX",
+      "price": 0.99
+    },
+    {
+      "ticker": "LBCC",
+      "price": 3.3366
+    },
+    {
+      "ticker": "AUY",
+      "price": 3.125
+    },
+    {
+      "ticker": "AMDA",
+      "price": 2.3801
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.439
+    },
+    {
+      "ticker": "ENT",
+      "price": 1.685
+    },
+    {
+      "ticker": "SCKT",
+      "price": 3.792
+    },
+    {
+      "ticker": "CNET",
+      "price": 2.9749
+    }
   ]
 }
