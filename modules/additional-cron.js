@@ -2,7 +2,7 @@
 // app actions
 const getTrendAndSave = require('../app-actions/get-trend-and-save');
 const logPortfolioValue = require('../app-actions/log-portfolio-value');
-const recordStratPerfs = require('../app-actions/record-strat-perfs');
+const { default: recordStratPerfs } = require('../app-actions/record-strat-perfs');
 const sellAllOlderThanOneDay = require('../app-actions/sell-all-older-than-one-day');
 
 // utils
