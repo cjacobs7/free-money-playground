@@ -7,6 +7,7 @@ const purchaseStocks = require('./purchase-stocks');
 console.log(strategiesEnabled, 'strategies enabled ')
 module.exports = async (Robinhood, strategy, min, picks) => {
 
+    console.log('recording', strategy, 'strategy');
     const dateStr = (new Date()).toLocaleDateString();
     const fileLocation = `./picks-data/${dateStr}/${strategy}.json`;
     // create day directory if needed
@@ -15,10 +16,18 @@ module.exports = async (Robinhood, strategy, min, picks) => {
     }
 
     console.log('getting prices', picks);
-    const withPrices = await mapLimit(picks, 1, async ticker => ({
-        ticker,
-        price: (await lookup(Robinhood, ticker)).currentPrice
-    }));
+    let withPrices = await mapLimit(picks, 1, async ticker => {
+        try {
+            return {
+                ticker,
+                price: (await lookup(Robinhood, ticker)).currentPrice
+            };
+        } catch (e) {
+            return null;
+        }
+    });
+    withPrices = withPrices.filter(tickerPrice => !!tickerPrice);
+
     console.log('saving', strategy, 'picks', withPrices);
     const curData = await jsonMgr.get(fileLocation);
     const savedData = {
@@ -26,8 +35,6 @@ module.exports = async (Robinhood, strategy, min, picks) => {
         [min]: withPrices
     };
     await jsonMgr.save(fileLocation, savedData);
-
-
 
     if (strategiesEnabled.includes(`${strategy}-${min}`)) {
         await purchaseStocks(Robinhood, {
