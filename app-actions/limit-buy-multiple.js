@@ -14,25 +14,23 @@ module.exports = async (Robinhood, {stocksToBuy, totalAmtToSpend, strategy, maxN
     let failedStocks = [];
     for (let stock of stocksToBuy) {
         const perStock = amtToSpendLeft / (maxNumStocksToPurchase - numPurchased);
-        const response = await activeBuy(Robinhood, {
-            ticker: stock,
-            maxPrice: perStock,
-            strategy
-        });
-        console.log('response for limitorder');
-        console.log(response);
-
-        if (!response || response.detail) {
-            // failed
-            failedStocks.push(stock);
-            console.log('failed purchase for ', stock);
-        } else {
-            console.log('success,', stock);
+        try {
+            const response = await activeBuy(Robinhood, {
+                ticker: stock,
+                maxPrice: perStock,
+                strategy
+            });
+            console.log('success active buy', stock);
+            console.log('response from limit buy multiple', response);
             amtToSpendLeft -= perStock;
             numPurchased++;
             if (numPurchased === maxNumStocksToPurchase) {
                 break;
             }
+        } catch (e) {
+            // failed
+            failedStocks.push(stock);
+            console.log('failed purchase for ', stock);
         }
     }
 
