@@ -1,0 +1,86 @@
+{
+  "190": [
+    {
+      "ticker": "FMCC",
+      "price": 1.64
+    },
+    {
+      "ticker": "FNMA",
+      "price": 1.72
+    },
+    {
+      "ticker": "ATAI",
+      "price": 5.34
+    },
+    {
+      "ticker": "WYY",
+      "price": 0.4789
+    },
+    {
+      "ticker": "CDMO",
+      "price": 2.4
+    },
+    {
+      "ticker": "WLB",
+      "price": 0.5647
+    },
+    {
+      "ticker": "RVLT",
+      "price": 3.64
+    },
+    {
+      "ticker": "CFMS",
+      "price": 1.42
+    },
+    {
+      "ticker": "REEMF",
+      "price": 0.202
+    },
+    {
+      "ticker": "SGBX",
+      "price": 4.72
+    }
+  ],
+  "250": [
+    {
+      "ticker": "FMCC",
+      "price": 1.63
+    },
+    {
+      "ticker": "FNMA",
+      "price": 1.72
+    },
+    {
+      "ticker": "ATAI",
+      "price": 5.34
+    },
+    {
+      "ticker": "WYY",
+      "price": 0.48
+    },
+    {
+      "ticker": "CDMO",
+      "price": 2.45
+    },
+    {
+      "ticker": "WLB",
+      "price": 0.5585
+    },
+    {
+      "ticker": "RVLT",
+      "price": 3.53
+    },
+    {
+      "ticker": "CFMS",
+      "price": 1.405
+    },
+    {
+      "ticker": "REEMF",
+      "price": 0.22
+    },
+    {
+      "ticker": "SGBX",
+      "price": 4.69
+    }
+  ]
+}

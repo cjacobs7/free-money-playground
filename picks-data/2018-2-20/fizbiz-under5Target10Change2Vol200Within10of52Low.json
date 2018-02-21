@@ -1,0 +1,23 @@
+{
+  "2": [
+    {
+      "ticker": "SWN",
+      "price": 3.78
+    },
+    {
+      "ticker": "WFT",
+      "price": 2.805
+    }
+  ],
+  "75": [
+    {
+      "ticker": "SWN",
+      "price": 3.7388
+    },
+    {
+      "ticker": "WFT",
+      "price": 2.795
+    }
+  ],
+  "380": []
+}

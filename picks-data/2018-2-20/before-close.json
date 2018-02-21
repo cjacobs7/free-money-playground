@@ -1,0 +1,46 @@
+{
+  "351": [
+    {
+      "ticker": "GEN",
+      "price": 1.5581
+    },
+    {
+      "ticker": "LGCY",
+      "price": 2.47
+    },
+    {
+      "ticker": "VVPR",
+      "price": 2.35
+    },
+    {
+      "ticker": "AWX",
+      "price": 2.111
+    },
+    {
+      "ticker": "TOFB",
+      "price": 2.24
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GEN",
+      "price": 1.5697
+    },
+    {
+      "ticker": "LGCY",
+      "price": 2.5499
+    },
+    {
+      "ticker": "TOFB",
+      "price": 2.24
+    },
+    {
+      "ticker": "VVPR",
+      "price": 2.35
+    },
+    {
+      "ticker": "AWX",
+      "price": 2.111
+    }
+  ]
+}

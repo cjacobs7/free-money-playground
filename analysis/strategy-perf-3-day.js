@@ -83,6 +83,7 @@ class HashTable {
     });
     // stratResults.print();
 
+    console.log('all', allPerfs)
 
     const sortedFiltered = allPerfs
         .filter(perf => perf.count === 3)

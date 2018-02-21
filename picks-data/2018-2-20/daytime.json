@@ -1,0 +1,90 @@
+{
+  "200": [
+    {
+      "ticker": "ATXI",
+      "price": 3.9999
+    },
+    {
+      "ticker": "THM",
+      "price": 0.4803
+    },
+    {
+      "ticker": "OXBR",
+      "price": 2.2054
+    },
+    {
+      "ticker": "APWC",
+      "price": 2.55
+    },
+    {
+      "ticker": "ENPH",
+      "price": 2.62
+    },
+    {
+      "ticker": "AAU",
+      "price": 0.9118
+    },
+    {
+      "ticker": "MBII",
+      "price": 1.2
+    },
+    {
+      "ticker": "CTHR",
+      "price": 1.41
+    },
+    {
+      "ticker": "PULM",
+      "price": 1.46
+    },
+    {
+      "ticker": "ALIM",
+      "price": 1.251
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATXI",
+      "price": 4.1583
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.3706
+    },
+    {
+      "ticker": "OXBR",
+      "price": 2.2054
+    },
+    {
+      "ticker": "THM",
+      "price": 0.481
+    },
+    {
+      "ticker": "AAU",
+      "price": 0.9016
+    },
+    {
+      "ticker": "APWC",
+      "price": 2.55
+    },
+    {
+      "ticker": "ENPH",
+      "price": 2.627
+    },
+    {
+      "ticker": "MBII",
+      "price": 1.19
+    },
+    {
+      "ticker": "IDSA",
+      "price": 2.22
+    },
+    {
+      "ticker": "CTHR",
+      "price": 1.4
+    },
+    {
+      "ticker": "RCM",
+      "price": 5.07
+    }
+  ]
+}

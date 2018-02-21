@@ -1,0 +1,64 @@
+{
+  "5": [
+    {
+      "ticker": "DRYS",
+      "price": 3.68
+    },
+    {
+      "ticker": "AQMS",
+      "price": 3.01
+    },
+    {
+      "ticker": "GNCA",
+      "price": 1
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.4003
+    },
+    {
+      "ticker": "FENX",
+      "price": 0.48
+    },
+    {
+      "ticker": "SBSAA",
+      "price": 0.3408
+    },
+    {
+      "ticker": "KONA",
+      "price": 1.945
+    },
+    {
+      "ticker": "HGEN",
+      "price": 0.65
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.5201
+    },
+    {
+      "ticker": "BUR",
+      "price": 0.51
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.4894
+    },
+    {
+      "ticker": "APRN",
+      "price": 3.5202
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.41
+    },
+    {
+      "ticker": "RWLK",
+      "price": 1.15
+    },
+    {
+      "ticker": "IMMY",
+      "price": 1.735
+    }
+  ]
+}

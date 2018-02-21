@@ -1,0 +1,52 @@
+{
+  "3": [
+    {
+      "ticker": "SBUX",
+      "price": 56.07
+    },
+    {
+      "ticker": "MULE",
+      "price": 31.4
+    },
+    {
+      "ticker": "IAC",
+      "price": 148.72
+    },
+    {
+      "ticker": "GPRO",
+      "price": 5.565
+    },
+    {
+      "ticker": "UGAZ",
+      "price": 55.52
+    },
+    {
+      "ticker": "AABA",
+      "price": 73.85
+    },
+    {
+      "ticker": "CPG",
+      "price": 7.07
+    },
+    {
+      "ticker": "GWPH",
+      "price": 131.985
+    },
+    {
+      "ticker": "IGT",
+      "price": 27.28
+    },
+    {
+      "ticker": "GE",
+      "price": 14.8458
+    },
+    {
+      "ticker": "PFSI",
+      "price": 25
+    },
+    {
+      "ticker": "SID",
+      "price": 3.2037
+    }
+  ]
+}

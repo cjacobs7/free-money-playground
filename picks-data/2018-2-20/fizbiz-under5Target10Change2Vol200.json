@@ -1,0 +1,80 @@
+{
+  "2": [
+    {
+      "ticker": "NVAX",
+      "price": 2.5233
+    },
+    {
+      "ticker": "SWN",
+      "price": 3.775
+    },
+    {
+      "ticker": "WFT",
+      "price": 2.81
+    },
+    {
+      "ticker": "CHK",
+      "price": 2.74
+    }
+  ],
+  "75": [
+    {
+      "ticker": "AGEN",
+      "price": 4.68
+    },
+    {
+      "ticker": "NVAX",
+      "price": 2.485
+    },
+    {
+      "ticker": "SWN",
+      "price": 3.735
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.185
+    },
+    {
+      "ticker": "IDRA",
+      "price": 1.975
+    },
+    {
+      "ticker": "WPRT",
+      "price": 3.04
+    },
+    {
+      "ticker": "WFT",
+      "price": 2.795
+    },
+    {
+      "ticker": "NE",
+      "price": 4.175
+    },
+    {
+      "ticker": "OBE",
+      "price": 1.0008
+    }
+  ],
+  "380": [
+    {
+      "ticker": "AGEN",
+      "price": 4.705
+    },
+    {
+      "ticker": "LC",
+      "price": 4.07
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.515
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.19
+    },
+    {
+      "ticker": "OBE",
+      "price": 1
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "350": [
+    {
+      "ticker": "CVRS",
+      "price": 1.1458
+    },
+    {
+      "ticker": "DPW",
+      "price": 1.9402
+    },
+    {
+      "ticker": "RAD",
+      "price": 2.18
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.477
+    },
+    {
+      "ticker": "OZM",
+      "price": 2.58
+    },
+    {
+      "ticker": "FTFT",
+      "price": 3
+    },
+    {
+      "ticker": "STLY",
+      "price": 0.6999
+    },
+    {
+      "ticker": "RWLK",
+      "price": 1.1032
+    },
+    {
+      "ticker": "PULM",
+      "price": 1.4504
+    },
+    {
+      "ticker": "DGSE",
+      "price": 0.93
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CVRS",
+      "price": 1.1301
+    },
+    {
+      "ticker": "RAD",
+      "price": 2.195
+    },
+    {
+      "ticker": "NVAX",
+      "price": 2.39
+    },
+    {
+      "ticker": "DGSE",
+      "price": 0.9495
+    },
+    {
+      "ticker": "FTFT",
+      "price": 3.03
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.2961
+    },
+    {
+      "ticker": "TOPS",
+      "price": 0.1974
+    },
+    {
+      "ticker": "PULM",
+      "price": 1.45
+    },
+    {
+      "ticker": "IDSA",
+      "price": 2.205
+    },
+    {
+      "ticker": "TGC",
+      "price": 0.6618
+    }
+  ]
+}

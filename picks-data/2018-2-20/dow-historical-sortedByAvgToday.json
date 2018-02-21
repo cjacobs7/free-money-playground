@@ -1,0 +1,126 @@
+{
+  "73": [
+    {
+      "ticker": "AQB",
+      "price": 2.68
+    },
+    {
+      "ticker": "MYO",
+      "price": 3.8596
+    },
+    {
+      "ticker": "LENS",
+      "price": 3.016
+    },
+    {
+      "ticker": "ZN",
+      "price": 4.15
+    },
+    {
+      "ticker": "VLRX",
+      "price": 3.1428
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.925
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.3847
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.301
+    },
+    {
+      "ticker": "CHKE",
+      "price": 1.425
+    },
+    {
+      "ticker": "BPTH",
+      "price": 1.5904
+    },
+    {
+      "ticker": "CERC",
+      "price": 4.1501
+    },
+    {
+      "ticker": "ERN",
+      "price": 3.9
+    },
+    {
+      "ticker": "OMNT",
+      "price": 3.09
+    },
+    {
+      "ticker": "LTBR",
+      "price": 1.49
+    },
+    {
+      "ticker": "OBE",
+      "price": 1.0008
+    }
+  ],
+  "196": [
+    {
+      "ticker": "AQB",
+      "price": 2.66
+    },
+    {
+      "ticker": "MYO",
+      "price": 3.9209
+    },
+    {
+      "ticker": "LENS",
+      "price": 3.05
+    },
+    {
+      "ticker": "ZN",
+      "price": 4.15
+    },
+    {
+      "ticker": "VLRX",
+      "price": 3.1428
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.9301
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.3701
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.2999
+    },
+    {
+      "ticker": "CHKE",
+      "price": 1.425
+    },
+    {
+      "ticker": "BPTH",
+      "price": 1.6106
+    },
+    {
+      "ticker": "CERC",
+      "price": 3.9996
+    },
+    {
+      "ticker": "ERN",
+      "price": 3.8
+    },
+    {
+      "ticker": "OMNT",
+      "price": 3.2
+    },
+    {
+      "ticker": "LTBR",
+      "price": 1.53
+    },
+    {
+      "ticker": "OBE",
+      "price": 1.0035
+    }
+  ]
+}

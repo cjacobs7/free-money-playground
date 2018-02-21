@@ -1,0 +1,76 @@
+{
+  "7": [
+    {
+      "ticker": "AGEN",
+      "price": 4.5308
+    },
+    {
+      "ticker": "CERC",
+      "price": 4.3515
+    },
+    {
+      "ticker": "NVAX",
+      "price": 2.511
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.73
+    },
+    {
+      "ticker": "AUO",
+      "price": 4.775
+    },
+    {
+      "ticker": "CMRX",
+      "price": 5.04
+    }
+  ],
+  "123": [
+    {
+      "ticker": "AGEN",
+      "price": 4.66
+    },
+    {
+      "ticker": "CERC",
+      "price": 4.1194
+    },
+    {
+      "ticker": "NVAX",
+      "price": 2.465
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.7599
+    },
+    {
+      "ticker": "CMRX",
+      "price": 5.0201
+    },
+    {
+      "ticker": "CIG",
+      "price": 2.5
+    }
+  ],
+  "263": [
+    {
+      "ticker": "AGEN",
+      "price": 4.765
+    },
+    {
+      "ticker": "CERC",
+      "price": 3.98
+    },
+    {
+      "ticker": "NVAX",
+      "price": 2.4859
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.74
+    },
+    {
+      "ticker": "AUO",
+      "price": 4.79
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "189": [
+    {
+      "ticker": "NVAX",
+      "price": 2.4863
+    },
+    {
+      "ticker": "IDSA",
+      "price": 2.3
+    },
+    {
+      "ticker": "OZM",
+      "price": 2.56
+    },
+    {
+      "ticker": "SMRT",
+      "price": 0.6036
+    },
+    {
+      "ticker": "UQM",
+      "price": 1.325
+    },
+    {
+      "ticker": "SGLB",
+      "price": 1.5004
+    },
+    {
+      "ticker": "MBII",
+      "price": 1.2
+    }
+  ]
+}

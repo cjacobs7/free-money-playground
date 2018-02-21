@@ -1,0 +1,136 @@
+{
+  "2": [
+    {
+      "ticker": "UUU",
+      "price": 1.2375
+    },
+    {
+      "ticker": "APRI",
+      "price": 1.0128
+    },
+    {
+      "ticker": "CAPR",
+      "price": 1.73
+    },
+    {
+      "ticker": "INSG",
+      "price": 1.925
+    },
+    {
+      "ticker": "VJET",
+      "price": 4.251
+    }
+  ],
+  "75": [
+    {
+      "ticker": "LBCC",
+      "price": 3.0001
+    },
+    {
+      "ticker": "UUU",
+      "price": 1.25
+    },
+    {
+      "ticker": "VJET",
+      "price": 4.12
+    },
+    {
+      "ticker": "INPX",
+      "price": 2.1586
+    },
+    {
+      "ticker": "AMPE",
+      "price": 2.73
+    },
+    {
+      "ticker": "ENPH",
+      "price": 2.6
+    },
+    {
+      "ticker": "CAPR",
+      "price": 1.7399
+    },
+    {
+      "ticker": "MFIN",
+      "price": 4.4998
+    },
+    {
+      "ticker": "ISNS",
+      "price": 2.75
+    },
+    {
+      "ticker": "CASM",
+      "price": 1.1
+    },
+    {
+      "ticker": "QUIK",
+      "price": 1.7593
+    },
+    {
+      "ticker": "ARDM",
+      "price": 1.24
+    }
+  ],
+  "380": [
+    {
+      "ticker": "BSPM",
+      "price": 3.4088
+    },
+    {
+      "ticker": "SHLD",
+      "price": 2.32
+    },
+    {
+      "ticker": "VJET",
+      "price": 3.95
+    },
+    {
+      "ticker": "DCIX",
+      "price": 2.42
+    },
+    {
+      "ticker": "RVLT",
+      "price": 3.435
+    },
+    {
+      "ticker": "AMPE",
+      "price": 2.5701
+    },
+    {
+      "ticker": "XXII",
+      "price": 2.715
+    },
+    {
+      "ticker": "SMSI",
+      "price": 2.21
+    },
+    {
+      "ticker": "ENPH",
+      "price": 2.56
+    },
+    {
+      "ticker": "BLPH",
+      "price": 2.02
+    },
+    {
+      "ticker": "INPX",
+      "price": 2.1799
+    },
+    {
+      "ticker": "FWP",
+      "price": 2.87
+    },
+    {
+      "ticker": "DMPI",
+      "price": 0.9698
+    },
+    {
+      "ticker": "IVTY",
+      "price": 3.75
+    },
+    {
+      "ticker": "MFIN",
+      "price": 4.4
+    }
+  ]
+}

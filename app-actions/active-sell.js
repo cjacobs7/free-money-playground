@@ -54,7 +54,7 @@ module.exports = async (Robinhood, { ticker, quantity }) => {
                 }
             );
 
-            if (!res || res.detail)  {
+            if (res.detail)  {
                 // dont log transaction if failed
                 console.log('failed purchasing', ticker);
                 return;

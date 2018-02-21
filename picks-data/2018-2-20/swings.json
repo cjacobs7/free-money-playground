@@ -1,0 +1,154 @@
+{
+  "193": [
+    {
+      "ticker": "RMGN",
+      "price": 0.8954
+    },
+    {
+      "ticker": "PRTO",
+      "price": 2.25
+    },
+    {
+      "ticker": "YGYI",
+      "price": 4.6722
+    },
+    {
+      "ticker": "AZRX",
+      "price": 2.9778
+    },
+    {
+      "ticker": "PARNF",
+      "price": 0.4017
+    },
+    {
+      "ticker": "NNDM",
+      "price": 2.27
+    },
+    {
+      "ticker": "ACFN",
+      "price": 0.2404
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.34
+    },
+    {
+      "ticker": "SBSAA",
+      "price": 0.31
+    },
+    {
+      "ticker": "CAPR",
+      "price": 1.78
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.285
+    },
+    {
+      "ticker": "BLIN",
+      "price": 2.0404
+    },
+    {
+      "ticker": "GNC",
+      "price": 4.31
+    },
+    {
+      "ticker": "QUMU",
+      "price": 1.79
+    },
+    {
+      "ticker": "HAIR",
+      "price": 4.67
+    },
+    {
+      "ticker": "BZQ",
+      "price": 6.7144
+    },
+    {
+      "ticker": "LABD",
+      "price": 3.28
+    },
+    {
+      "ticker": "TNTR",
+      "price": 5.31
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.8724
+    }
+  ],
+  "253": [
+    {
+      "ticker": "RMGN",
+      "price": 0.8955
+    },
+    {
+      "ticker": "YGYI",
+      "price": 4.64
+    },
+    {
+      "ticker": "PARNF",
+      "price": 0.4017
+    },
+    {
+      "ticker": "AZRX",
+      "price": 2.9778
+    },
+    {
+      "ticker": "NNDM",
+      "price": 2.221
+    },
+    {
+      "ticker": "ACFN",
+      "price": 0.2401
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.33
+    },
+    {
+      "ticker": "SBSAA",
+      "price": 0.31
+    },
+    {
+      "ticker": "CAPR",
+      "price": 1.779
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2824
+    },
+    {
+      "ticker": "BLIN",
+      "price": 2.027
+    },
+    {
+      "ticker": "GNC",
+      "price": 4.265
+    },
+    {
+      "ticker": "QUMU",
+      "price": 1.73
+    },
+    {
+      "ticker": "HAIR",
+      "price": 4.68
+    },
+    {
+      "ticker": "BZQ",
+      "price": 6.82
+    },
+    {
+      "ticker": "LABD",
+      "price": 3.2869
+    },
+    {
+      "ticker": "TNTR",
+      "price": 5.36
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.8822
+    }
+  ]
+}

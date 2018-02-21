@@ -1,0 +1,46 @@
+{
+  "90": [
+    {
+      "ticker": "CODX",
+      "price": 2.26
+    },
+    {
+      "ticker": "ENPH",
+      "price": 2.565
+    },
+    {
+      "ticker": "APWC",
+      "price": 2.5
+    },
+    {
+      "ticker": "QUIK",
+      "price": 1.7641
+    },
+    {
+      "ticker": "ATXI",
+      "price": 4.25
+    }
+  ],
+  "223": [
+    {
+      "ticker": "ATXI",
+      "price": 4.15
+    },
+    {
+      "ticker": "SHLD",
+      "price": 2.3601
+    },
+    {
+      "ticker": "CODX",
+      "price": 2.3376
+    },
+    {
+      "ticker": "XXII",
+      "price": 2.7353
+    },
+    {
+      "ticker": "QUIK",
+      "price": 1.753
+    }
+  ]
+}

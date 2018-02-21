@@ -1,0 +1,64 @@
+{
+  "3": [
+    {
+      "ticker": "NSPR",
+      "price": 4.77
+    },
+    {
+      "ticker": "AAPL",
+      "price": 172.7752
+    },
+    {
+      "ticker": "BABA",
+      "price": 184.94
+    },
+    {
+      "ticker": "VLRX",
+      "price": 3.15
+    },
+    {
+      "ticker": "DXJ",
+      "price": 57.61
+    },
+    {
+      "ticker": "SIRI",
+      "price": 6.085
+    },
+    {
+      "ticker": "MSFT",
+      "price": 92.19
+    },
+    {
+      "ticker": "CIG",
+      "price": 2.4599
+    },
+    {
+      "ticker": "AMC",
+      "price": 14.9849
+    },
+    {
+      "ticker": "LUK",
+      "price": 25.1485
+    },
+    {
+      "ticker": "DIS",
+      "price": 106.49
+    },
+    {
+      "ticker": "NMM",
+      "price": 1.95
+    },
+    {
+      "ticker": "TWTR",
+      "price": 33.33
+    },
+    {
+      "ticker": "OPNT",
+      "price": 24.9853
+    },
+    {
+      "ticker": "NRG",
+      "price": 25.41
+    }
+  ]
+}

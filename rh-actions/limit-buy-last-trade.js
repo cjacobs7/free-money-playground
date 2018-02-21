@@ -65,7 +65,7 @@ const limitBuyLastTrade = async (Robinhood, { ticker, maxPrice, quantity, bidPri
             // type: String     // Defaults to "market"
         };
         const res = await Robinhood.place_buy_order(options);
-        console.log('res', res);
+        console.log('limit buy response', res);
         return res;
 
     } catch (e) {

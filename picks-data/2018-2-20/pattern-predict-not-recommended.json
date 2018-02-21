@@ -1,0 +1,132 @@
+{
+  "3": [
+    {
+      "ticker": "TM",
+      "price": 136.0049
+    },
+    {
+      "ticker": "BBG",
+      "price": 5.44
+    },
+    {
+      "ticker": "VRX",
+      "price": 18.9559
+    },
+    {
+      "ticker": "TSN",
+      "price": 76.09
+    },
+    {
+      "ticker": "BAC",
+      "price": 32.125
+    },
+    {
+      "ticker": "AET",
+      "price": 177.59
+    },
+    {
+      "ticker": "ORCL",
+      "price": 50.18
+    },
+    {
+      "ticker": "AA",
+      "price": 47.5
+    },
+    {
+      "ticker": "CHK",
+      "price": 2.74
+    },
+    {
+      "ticker": "HALO",
+      "price": 18.74
+    },
+    {
+      "ticker": "UNFI",
+      "price": 43.94
+    },
+    {
+      "ticker": "INSY",
+      "price": 7.92
+    },
+    {
+      "ticker": "DE",
+      "price": 167.61
+    },
+    {
+      "ticker": "XPO",
+      "price": 91.4
+    },
+    {
+      "ticker": "SAGE",
+      "price": 166.37
+    },
+    {
+      "ticker": "OSUR",
+      "price": 18.19
+    },
+    {
+      "ticker": "NFLX",
+      "price": 281.71
+    },
+    {
+      "ticker": "ERF",
+      "price": 10.5
+    },
+    {
+      "ticker": "FB",
+      "price": 176.65
+    },
+    {
+      "ticker": "UONE",
+      "price": 1.8
+    },
+    {
+      "ticker": "SWN",
+      "price": 3.7899
+    },
+    {
+      "ticker": "SWN",
+      "price": 3.7866
+    },
+    {
+      "ticker": "DRYS",
+      "price": 3.69
+    },
+    {
+      "ticker": "NEOS",
+      "price": 9.4
+    },
+    {
+      "ticker": "CATB",
+      "price": 1.6205
+    },
+    {
+      "ticker": "INAP",
+      "price": 13.11
+    },
+    {
+      "ticker": "LINU",
+      "price": 1.6983
+    },
+    {
+      "ticker": "GM",
+      "price": 41.06
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.206
+    },
+    {
+      "ticker": "ACH",
+      "price": 15.78
+    },
+    {
+      "ticker": "SNAP",
+      "price": 19.24
+    },
+    {
+      "ticker": "CBIS",
+      "price": 0.078
+    }
+  ]
+}

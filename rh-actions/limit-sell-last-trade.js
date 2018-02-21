@@ -46,6 +46,6 @@ module.exports = async (Robinhood, {
 
     console.log(options);
     const res = await Robinhood.place_sell_order(options);
-    // console.log(res, 'res')
+    console.log('limit sell response', res);
     return res;
 };
