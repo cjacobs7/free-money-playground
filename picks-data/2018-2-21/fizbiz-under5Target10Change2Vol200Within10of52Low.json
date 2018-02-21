@@ -1,0 +1,32 @@
+{
+  "2": [
+    {
+      "ticker": "ODP",
+      "price": 3.115
+    }
+  ],
+  "12": [
+    {
+      "ticker": "ODP",
+      "price": 3.135
+    }
+  ],
+  "75": [
+    {
+      "ticker": "ODP",
+      "price": 3.135
+    },
+    {
+      "ticker": "TAHO",
+      "price": 4.15
+    },
+    {
+      "ticker": "UPL",
+      "price": 4.3999
+    },
+    {
+      "ticker": "EGO",
+      "price": 1.11
+    }
+  ]
+}

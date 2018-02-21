@@ -1,0 +1,188 @@
+{
+  "5": [
+    {
+      "ticker": "AQMS",
+      "price": 2.75
+    },
+    {
+      "ticker": "GLBR",
+      "price": 0.38
+    },
+    {
+      "ticker": "GNCA",
+      "price": 1.001
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.4351
+    },
+    {
+      "ticker": "KONA",
+      "price": 2.0748
+    },
+    {
+      "ticker": "HGEN",
+      "price": 0.64
+    },
+    {
+      "ticker": "APRN",
+      "price": 3.385
+    },
+    {
+      "ticker": "YANG",
+      "price": 4.4248
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.4722
+    },
+    {
+      "ticker": "XENE",
+      "price": 3.73
+    },
+    {
+      "ticker": "RWLK",
+      "price": 1.1
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.725
+    },
+    {
+      "ticker": "CUI",
+      "price": 2.85
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.4826
+    },
+    {
+      "ticker": "SQBG",
+      "price": 1.851
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AQMS",
+      "price": 2.7445
+    },
+    {
+      "ticker": "GLBR",
+      "price": 0.38
+    },
+    {
+      "ticker": "GNCA",
+      "price": 1.01
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.445
+    },
+    {
+      "ticker": "KONA",
+      "price": 2.0748
+    },
+    {
+      "ticker": "HGEN",
+      "price": 0.64
+    },
+    {
+      "ticker": "APRN",
+      "price": 3.37
+    },
+    {
+      "ticker": "YANG",
+      "price": 4.43
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.477
+    },
+    {
+      "ticker": "XENE",
+      "price": 3.73
+    },
+    {
+      "ticker": "RWLK",
+      "price": 1.1
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.69
+    },
+    {
+      "ticker": "CUI",
+      "price": 2.85
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.4802
+    },
+    {
+      "ticker": "SQBG",
+      "price": 1.875
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AQMS",
+      "price": 2.8
+    },
+    {
+      "ticker": "GLBR",
+      "price": 0.38
+    },
+    {
+      "ticker": "GNCA",
+      "price": 1.02
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.4602
+    },
+    {
+      "ticker": "KONA",
+      "price": 2.0748
+    },
+    {
+      "ticker": "HGEN",
+      "price": 0.64
+    },
+    {
+      "ticker": "APRN",
+      "price": 3.41
+    },
+    {
+      "ticker": "YANG",
+      "price": 4.429
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.4893
+    },
+    {
+      "ticker": "XENE",
+      "price": 3.73
+    },
+    {
+      "ticker": "RWLK",
+      "price": 1.125
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.665
+    },
+    {
+      "ticker": "CUI",
+      "price": 2.85
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.4899
+    },
+    {
+      "ticker": "SQBG",
+      "price": 1.87
+    }
+  ]
+}

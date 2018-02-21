@@ -87,6 +87,7 @@ class HashTable {
 
     const sortedFiltered = allPerfs
         .filter(perf => perf.count === 3)
+        .filter(perf => perf.trends.length === 3)
         .filter(perf => !perf.trends.some(t => t < 0))
         .sort((a, b) => b.avgTrend - a.avgTrend);
 

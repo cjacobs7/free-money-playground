@@ -1,0 +1,68 @@
+{
+  "10": [
+    {
+      "ticker": "SUMR",
+      "price": 1.1601
+    },
+    {
+      "ticker": "BSQR",
+      "price": 3.7805
+    },
+    {
+      "ticker": "RXII",
+      "price": 3.3027
+    },
+    {
+      "ticker": "ESEA",
+      "price": 1.75
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.6675
+    }
+  ],
+  "35": [
+    {
+      "ticker": "SUMR",
+      "price": 1.1234
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.8001
+    },
+    {
+      "ticker": "THST",
+      "price": 1.8628
+    },
+    {
+      "ticker": "VTNR",
+      "price": 0.9
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.65
+    }
+  ],
+  "90": [
+    {
+      "ticker": "SUMR",
+      "price": 1.0701
+    },
+    {
+      "ticker": "BSQR",
+      "price": 3.7021
+    },
+    {
+      "ticker": "THST",
+      "price": 1.8628
+    },
+    {
+      "ticker": "IVTY",
+      "price": 3.6
+    },
+    {
+      "ticker": "KMPH",
+      "price": 5.45
+    }
+  ]
+}

@@ -40,10 +40,10 @@ module.exports = async (Robinhood, { ticker, strategy, maxPrice }) => {
                 const quantity = Math.floor(maxPrice / bidPrice);
                 if (!quantity) {
                     console.log('maxPrice below bidPrice', maxPrice, bidPrice, ticker);
-                    return;
+                    return reject('maxPrice below bidPrice');
                 }
 
-                await limitBuyLastTrade(
+                const res = await limitBuyLastTrade(
                     Robinhood,
                     {
                         ticker,
@@ -52,6 +52,10 @@ module.exports = async (Robinhood, { ticker, strategy, maxPrice }) => {
                         strategy
                     }
                 );
+
+                if (!res || res.detail) {
+                    return reject(res.detail || 'unable to purchase' + ticker);
+                }
 
                 setTimeout(async () => {
 

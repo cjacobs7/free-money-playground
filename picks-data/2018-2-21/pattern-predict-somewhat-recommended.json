@@ -1,0 +1,60 @@
+{
+  "3": [
+    {
+      "ticker": "IAC",
+      "price": 152.56
+    },
+    {
+      "ticker": "NEOS",
+      "price": 9.1
+    },
+    {
+      "ticker": "HALO",
+      "price": 18.7945
+    },
+    {
+      "ticker": "DXJ",
+      "price": 57.53
+    },
+    {
+      "ticker": "UGAZ",
+      "price": 57.3
+    },
+    {
+      "ticker": "AMC",
+      "price": 14.575
+    },
+    {
+      "ticker": "BBG",
+      "price": 5.31
+    },
+    {
+      "ticker": "GE",
+      "price": 14.665
+    },
+    {
+      "ticker": "DE",
+      "price": 165.915
+    },
+    {
+      "ticker": "AAPL",
+      "price": 172.9942
+    },
+    {
+      "ticker": "DIS",
+      "price": 106.13
+    },
+    {
+      "ticker": "ERF",
+      "price": 10.4
+    },
+    {
+      "ticker": "TWTR",
+      "price": 32.875
+    },
+    {
+      "ticker": "NMM",
+      "price": 1.9336
+    }
+  ]
+}

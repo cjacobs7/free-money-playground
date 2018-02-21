@@ -32,7 +32,7 @@ module.exports = (Robinhood, { ticker, quantity }) => {
         try {
             if (keepers.includes(ticker)) {
                 console.log('ticker on keeper list', ticker);
-                return;
+                return reject('ticker on keeper list');
             }
 
             let curSellRatio = 1.0;

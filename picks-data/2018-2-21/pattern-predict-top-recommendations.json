@@ -1,0 +1,40 @@
+{
+  "3": [
+    {
+      "ticker": "GWPH",
+      "price": 130.685
+    },
+    {
+      "ticker": "MULE",
+      "price": 30.4
+    },
+    {
+      "ticker": "GM",
+      "price": 40.725
+    },
+    {
+      "ticker": "NRG",
+      "price": 25.49
+    },
+    {
+      "ticker": "LINU",
+      "price": 1.69
+    },
+    {
+      "ticker": "AET",
+      "price": 177.61
+    },
+    {
+      "ticker": "SAGE",
+      "price": 167.15
+    },
+    {
+      "ticker": "BABA",
+      "price": 191.1534
+    },
+    {
+      "ticker": "AABA",
+      "price": 75.88
+    }
+  ]
+}

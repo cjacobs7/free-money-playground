@@ -1,0 +1,126 @@
+{
+  "13": [
+    {
+      "ticker": "XENE",
+      "price": 3.73
+    },
+    {
+      "ticker": "JVA",
+      "price": 4.4197
+    },
+    {
+      "ticker": "CGNT",
+      "price": 2.7246
+    },
+    {
+      "ticker": "LLEX",
+      "price": 3.45
+    },
+    {
+      "ticker": "KONA",
+      "price": 2.0748
+    },
+    {
+      "ticker": "SSI",
+      "price": 1.87
+    },
+    {
+      "ticker": "CHNR",
+      "price": 2.1334
+    },
+    {
+      "ticker": "SBGL",
+      "price": 4.675
+    },
+    {
+      "ticker": "EVOK",
+      "price": 2.0748
+    },
+    {
+      "ticker": "SHLD",
+      "price": 2.3701
+    },
+    {
+      "ticker": "AMRN",
+      "price": 3.725
+    },
+    {
+      "ticker": "MLNK",
+      "price": 2.33
+    },
+    {
+      "ticker": "LLIT",
+      "price": 3.06
+    },
+    {
+      "ticker": "GSL",
+      "price": 1.1407
+    },
+    {
+      "ticker": "CGI",
+      "price": 4.175
+    }
+  ],
+  "73": [
+    {
+      "ticker": "XENE",
+      "price": 3.75
+    },
+    {
+      "ticker": "JVA",
+      "price": 4.42
+    },
+    {
+      "ticker": "CGNT",
+      "price": 2.97
+    },
+    {
+      "ticker": "LLEX",
+      "price": 3.55
+    },
+    {
+      "ticker": "KONA",
+      "price": 2.05
+    },
+    {
+      "ticker": "USAS",
+      "price": 3.801
+    },
+    {
+      "ticker": "SSI",
+      "price": 1.85
+    },
+    {
+      "ticker": "CHNR",
+      "price": 2.1334
+    },
+    {
+      "ticker": "EVOK",
+      "price": 2.04
+    },
+    {
+      "ticker": "SBGL",
+      "price": 4.595
+    },
+    {
+      "ticker": "SHLD",
+      "price": 2.3525
+    },
+    {
+      "ticker": "AMRN",
+      "price": 3.71
+    },
+    {
+      "ticker": "LLIT",
+      "price": 3.05
+    },
+    {
+      "ticker": "MLNK",
+      "price": 2.3472
+    },
+    {
+      "ticker": "CGI",
+      "price": 4.1
+    }
+  ]
+}

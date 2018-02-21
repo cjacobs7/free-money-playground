@@ -1,6 +1,8 @@
 const detailedNonZero = require('./detailed-non-zero');
 const activeSell = require('./active-sell');
 
+const mapLimit = require('promise-map-limit');
+
 const MIN_PERC_UP = 6.5; // sell if stock rose 18% since yesterdays close
 
 const daysBetween = (firstDate, secondDate) => {
@@ -19,7 +21,8 @@ module.exports = async Robinhood => {
     const olderThanADay = withAge.filter(pos => pos.dayAge > 0);
 
     console.log(nonzero.length, 'total', olderThanADay.length, 'olderThanADay');
-    for (let pos of olderThanADay) {
+
+    const results = mapLimit(olderThanADay, 3, async pos => {
         const sellRatio = (pos.dayAge === 1) ? 0.5 : 1;
         console.log('selling', sellRatio * 100, '% of', pos.symbol, 'age=', pos.dayAge);
         const numSharesToSell = pos.quantity * sellRatio;
@@ -35,6 +38,7 @@ module.exports = async Robinhood => {
         } catch (e) {
             console.log('more err', e);
         }
-    }
+    });
 
+    console.log('DONE selling older than a day')
 };

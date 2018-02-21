@@ -1,0 +1,80 @@
+{
+  "45": [
+    {
+      "ticker": "ECT",
+      "price": 2.075
+    },
+    {
+      "ticker": "ICLDW",
+      "price": 0.2002
+    },
+    {
+      "ticker": "RWLK",
+      "price": 1.125
+    },
+    {
+      "ticker": "CRNT",
+      "price": 2.68
+    },
+    {
+      "ticker": "CLDX",
+      "price": 2.444
+    },
+    {
+      "ticker": "GNCA",
+      "price": 1.02
+    },
+    {
+      "ticker": "HGEN",
+      "price": 0.64
+    },
+    {
+      "ticker": "REFR",
+      "price": 0.98
+    },
+    {
+      "ticker": "DYSL",
+      "price": 1.26
+    },
+    {
+      "ticker": "ARCI",
+      "price": 0.9652
+    },
+    {
+      "ticker": "CGNT",
+      "price": 2.96
+    },
+    {
+      "ticker": "RAVE",
+      "price": 1.67
+    },
+    {
+      "ticker": "ONTX",
+      "price": 1.19
+    },
+    {
+      "ticker": "CHCI",
+      "price": 1.72
+    },
+    {
+      "ticker": "IDN",
+      "price": 2.83
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.944
+    },
+    {
+      "ticker": "LINU",
+      "price": 1.72
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.275
+    },
+    {
+      "ticker": "MATN",
+      "price": 0.2294
+    }
+  ]
+}

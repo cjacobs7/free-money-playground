@@ -1,0 +1,126 @@
+{
+  "13": [
+    {
+      "ticker": "LEDS",
+      "price": 4.15
+    },
+    {
+      "ticker": "STRM",
+      "price": 1.7
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.7234
+    },
+    {
+      "ticker": "MBRX",
+      "price": 1.8994
+    },
+    {
+      "ticker": "VHC",
+      "price": 3.5125
+    },
+    {
+      "ticker": "NHLD",
+      "price": 4.23
+    },
+    {
+      "ticker": "KONA",
+      "price": 2.0748
+    },
+    {
+      "ticker": "FTFT",
+      "price": 2.89
+    },
+    {
+      "ticker": "KTOV",
+      "price": 2.58
+    },
+    {
+      "ticker": "KONE",
+      "price": 4.3001
+    },
+    {
+      "ticker": "OHGI",
+      "price": 1.12
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.8151
+    },
+    {
+      "ticker": "RNN",
+      "price": 1.7499
+    },
+    {
+      "ticker": "LLEX",
+      "price": 3.45
+    },
+    {
+      "ticker": "AEMD",
+      "price": 1.47
+    }
+  ],
+  "73": [
+    {
+      "ticker": "LEDS",
+      "price": 4.1616
+    },
+    {
+      "ticker": "STRM",
+      "price": 1.7
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.75
+    },
+    {
+      "ticker": "MBRX",
+      "price": 1.99
+    },
+    {
+      "ticker": "VHC",
+      "price": 3.475
+    },
+    {
+      "ticker": "NHLD",
+      "price": 4.2602
+    },
+    {
+      "ticker": "KONA",
+      "price": 2.05
+    },
+    {
+      "ticker": "FTFT",
+      "price": 2.84
+    },
+    {
+      "ticker": "KTOV",
+      "price": 2.62
+    },
+    {
+      "ticker": "KONE",
+      "price": 4.15
+    },
+    {
+      "ticker": "OHGI",
+      "price": 1.0948
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.82
+    },
+    {
+      "ticker": "RNN",
+      "price": 1.74
+    },
+    {
+      "ticker": "LLEX",
+      "price": 3.55
+    },
+    {
+      "ticker": "AEMD",
+      "price": 1.5
+    }
+  ]
+}
