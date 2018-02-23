@@ -1,0 +1,82 @@
+{
+  "200": [
+    {
+      "ticker": "GEN",
+      "price": 1.215
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.2588
+    },
+    {
+      "ticker": "SALM",
+      "price": 4.475
+    },
+    {
+      "ticker": "OZM",
+      "price": 2.55
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.61
+    },
+    {
+      "ticker": "FCRE",
+      "price": 0.89
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.82
+    },
+    {
+      "ticker": "TNAV",
+      "price": 5.675
+    },
+    {
+      "ticker": "PULM",
+      "price": 1.4505
+    },
+    {
+      "ticker": "JVA",
+      "price": 4.29
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GEN",
+      "price": 1.26
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.26
+    },
+    {
+      "ticker": "OZM",
+      "price": 2.53
+    },
+    {
+      "ticker": "SALM",
+      "price": 4.5
+    },
+    {
+      "ticker": "IDSA",
+      "price": 2.14
+    },
+    {
+      "ticker": "FCRE",
+      "price": 0.89
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.63
+    },
+    {
+      "ticker": "TNAV",
+      "price": 5.65
+    },
+    {
+      "ticker": "PULM",
+      "price": 1.45
+    }
+  ]
+}

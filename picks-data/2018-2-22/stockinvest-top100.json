@@ -1,0 +1,94 @@
+{
+  "7": [
+    {
+      "ticker": "AMRS",
+      "price": 5.64
+    },
+    {
+      "ticker": "LGCY",
+      "price": 2.6241
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.6496
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.0678
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.43
+    },
+    {
+      "ticker": "BBRG",
+      "price": 3.8
+    }
+  ],
+  "60": [
+    {
+      "ticker": "AMRS",
+      "price": 5.8472
+    },
+    {
+      "ticker": "LGCY",
+      "price": 2.92
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.6
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.0176
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.39
+    }
+  ],
+  "123": [
+    {
+      "ticker": "AMRS",
+      "price": 5.96
+    },
+    {
+      "ticker": "LGCY",
+      "price": 3.02
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.2501
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.98
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.4
+    },
+    {
+      "ticker": "BBRG",
+      "price": 3.701
+    }
+  ],
+  "263": [
+    {
+      "ticker": "AMRS",
+      "price": 5.88
+    },
+    {
+      "ticker": "LGCY",
+      "price": 3.03
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.26
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.88
+    }
+  ]
+}

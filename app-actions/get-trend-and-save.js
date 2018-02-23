@@ -16,7 +16,7 @@ const getTrendAndSave = async (Robinhood, min) => {
         allTickers = await getAllTickers(Robinhood);
     }
     allTickers = allTickers
-        .filter(stock => stock.tradeable)
+        .filter(stock => stock.tradeable && stock.tradability === 'tradable')
         .map(stock => stock.symbol);
 
     // step 2 - get trend

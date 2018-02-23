@@ -1,0 +1,188 @@
+{
+  "13": [
+    {
+      "ticker": "LTS",
+      "price": 3.2769
+    },
+    {
+      "ticker": "PME",
+      "price": 3.12
+    },
+    {
+      "ticker": "MEET",
+      "price": 2.72
+    },
+    {
+      "ticker": "SAUC",
+      "price": 1.61
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.3
+    },
+    {
+      "ticker": "ARLZ",
+      "price": 1.64
+    },
+    {
+      "ticker": "CLWT",
+      "price": 2.8
+    },
+    {
+      "ticker": "VICL",
+      "price": 1.464
+    },
+    {
+      "ticker": "BSPM",
+      "price": 3.3958
+    },
+    {
+      "ticker": "FWP",
+      "price": 3.03
+    },
+    {
+      "ticker": "HSGX",
+      "price": 2.56
+    },
+    {
+      "ticker": "MDWD",
+      "price": 4.3787
+    },
+    {
+      "ticker": "RIGL",
+      "price": 3.86
+    },
+    {
+      "ticker": "TXMD",
+      "price": 5
+    },
+    {
+      "ticker": "AMPE",
+      "price": 2.8248
+    }
+  ],
+  "73": [
+    {
+      "ticker": "LTS",
+      "price": 3.23
+    },
+    {
+      "ticker": "PME",
+      "price": 3.22
+    },
+    {
+      "ticker": "MEET",
+      "price": 2.67
+    },
+    {
+      "ticker": "SAUC",
+      "price": 1.59
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.3
+    },
+    {
+      "ticker": "CLWT",
+      "price": 2.85
+    },
+    {
+      "ticker": "ARLZ",
+      "price": 1.66
+    },
+    {
+      "ticker": "BSPM",
+      "price": 3.339
+    },
+    {
+      "ticker": "VICL",
+      "price": 1.48
+    },
+    {
+      "ticker": "FWP",
+      "price": 3
+    },
+    {
+      "ticker": "HSGX",
+      "price": 2.57
+    },
+    {
+      "ticker": "MDWD",
+      "price": 4.35
+    },
+    {
+      "ticker": "RIGL",
+      "price": 3.875
+    },
+    {
+      "ticker": "AMPE",
+      "price": 2.68
+    },
+    {
+      "ticker": "OCN",
+      "price": 3.59
+    }
+  ],
+  "196": [
+    {
+      "ticker": "LTS",
+      "price": 3.2
+    },
+    {
+      "ticker": "PME",
+      "price": 3.14
+    },
+    {
+      "ticker": "MEET",
+      "price": 2.62
+    },
+    {
+      "ticker": "SAUC",
+      "price": 1.55
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.4781
+    },
+    {
+      "ticker": "ARLZ",
+      "price": 1.71
+    },
+    {
+      "ticker": "CLWT",
+      "price": 2.85
+    },
+    {
+      "ticker": "BSPM",
+      "price": 3.41
+    },
+    {
+      "ticker": "VICL",
+      "price": 1.47
+    },
+    {
+      "ticker": "FWP",
+      "price": 3.04
+    },
+    {
+      "ticker": "HSGX",
+      "price": 2.59
+    },
+    {
+      "ticker": "RIGL",
+      "price": 3.71
+    },
+    {
+      "ticker": "MDWD",
+      "price": 4.3
+    },
+    {
+      "ticker": "AMPE",
+      "price": 2.4799
+    },
+    {
+      "ticker": "BPTH",
+      "price": 1.6694
+    }
+  ]
+}

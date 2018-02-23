@@ -1,0 +1,188 @@
+{
+  "13": [
+    {
+      "ticker": "CNET",
+      "price": 2.6934
+    },
+    {
+      "ticker": "ARLZ",
+      "price": 1.64
+    },
+    {
+      "ticker": "HTGM",
+      "price": 4.8366
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.6763
+    },
+    {
+      "ticker": "ANY",
+      "price": 2.231
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.3
+    },
+    {
+      "ticker": "NXTD",
+      "price": 2.2306
+    },
+    {
+      "ticker": "NH",
+      "price": 3.2596
+    },
+    {
+      "ticker": "PME",
+      "price": 3.12
+    },
+    {
+      "ticker": "AMPE",
+      "price": 2.8248
+    },
+    {
+      "ticker": "CUR",
+      "price": 1.56
+    },
+    {
+      "ticker": "PES",
+      "price": 2.781
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.76
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.5498
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.31
+    }
+  ],
+  "73": [
+    {
+      "ticker": "CNET",
+      "price": 2.7108
+    },
+    {
+      "ticker": "ARLZ",
+      "price": 1.66
+    },
+    {
+      "ticker": "HTGM",
+      "price": 4.8566
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.66
+    },
+    {
+      "ticker": "ANY",
+      "price": 2.22
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.3
+    },
+    {
+      "ticker": "NXTD",
+      "price": 2.21
+    },
+    {
+      "ticker": "NH",
+      "price": 3.14
+    },
+    {
+      "ticker": "PME",
+      "price": 3.22
+    },
+    {
+      "ticker": "AMPE",
+      "price": 2.68
+    },
+    {
+      "ticker": "CUR",
+      "price": 1.509
+    },
+    {
+      "ticker": "PES",
+      "price": 2.825
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.8006
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.521
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.2902
+    }
+  ],
+  "196": [
+    {
+      "ticker": "CNET",
+      "price": 2.5801
+    },
+    {
+      "ticker": "ARLZ",
+      "price": 1.71
+    },
+    {
+      "ticker": "HTGM",
+      "price": 4.72
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.63
+    },
+    {
+      "ticker": "ANY",
+      "price": 2.19
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.4781
+    },
+    {
+      "ticker": "NXTD",
+      "price": 2.1744
+    },
+    {
+      "ticker": "NH",
+      "price": 3.095
+    },
+    {
+      "ticker": "PME",
+      "price": 3.14
+    },
+    {
+      "ticker": "AMPE",
+      "price": 2.4799
+    },
+    {
+      "ticker": "CUR",
+      "price": 1.56
+    },
+    {
+      "ticker": "PES",
+      "price": 2.825
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.97
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.525
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.2712
+    }
+  ]
+}

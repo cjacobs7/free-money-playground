@@ -1,0 +1,251 @@
+{
+  "2": [],
+  "75": [
+    {
+      "ticker": "CHK",
+      "price": 3.12
+    },
+    {
+      "ticker": "TOO",
+      "price": 2.561
+    },
+    {
+      "ticker": "SWN",
+      "price": 3.76
+    },
+    {
+      "ticker": "SN",
+      "price": 3.5224
+    },
+    {
+      "ticker": "NAT",
+      "price": 2.24
+    },
+    {
+      "ticker": "WFT",
+      "price": 2.909
+    },
+    {
+      "ticker": "OPK",
+      "price": 3.75
+    },
+    {
+      "ticker": "TAHO",
+      "price": 4.125
+    },
+    {
+      "ticker": "ESV",
+      "price": 4.96
+    },
+    {
+      "ticker": "NGD",
+      "price": 2.615
+    },
+    {
+      "ticker": "NE",
+      "price": 4.155
+    },
+    {
+      "ticker": "FMSA",
+      "price": 4.695
+    },
+    {
+      "ticker": "STNG",
+      "price": 2.3975
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.185
+    },
+    {
+      "ticker": "EGO",
+      "price": 1.1288
+    }
+  ],
+  "120": [
+    {
+      "ticker": "CHK",
+      "price": 3.2646
+    },
+    {
+      "ticker": "DNR",
+      "price": 2.325
+    },
+    {
+      "ticker": "SWN",
+      "price": 3.835
+    },
+    {
+      "ticker": "SN",
+      "price": 3.605
+    },
+    {
+      "ticker": "WFT",
+      "price": 2.995
+    },
+    {
+      "ticker": "TOO",
+      "price": 2.6356
+    },
+    {
+      "ticker": "NE",
+      "price": 4.245
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.935
+    },
+    {
+      "ticker": "OPK",
+      "price": 3.755
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.75
+    },
+    {
+      "ticker": "NAT",
+      "price": 2.24
+    },
+    {
+      "ticker": "BTE",
+      "price": 2.6101
+    },
+    {
+      "ticker": "FRO",
+      "price": 4.21
+    },
+    {
+      "ticker": "UPL",
+      "price": 4.4467
+    },
+    {
+      "ticker": "BKS",
+      "price": 4.55
+    }
+  ],
+  "180": [
+    {
+      "ticker": "CHK",
+      "price": 3.1567
+    },
+    {
+      "ticker": "SN",
+      "price": 3.565
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.945
+    },
+    {
+      "ticker": "NE",
+      "price": 4.245
+    },
+    {
+      "ticker": "BKS",
+      "price": 4.6
+    },
+    {
+      "ticker": "SWN",
+      "price": 3.68
+    },
+    {
+      "ticker": "TOO",
+      "price": 2.6
+    },
+    {
+      "ticker": "WFT",
+      "price": 2.9
+    },
+    {
+      "ticker": "UPL",
+      "price": 4.445
+    },
+    {
+      "ticker": "OBE",
+      "price": 0.975
+    },
+    {
+      "ticker": "CIG",
+      "price": 2.45
+    },
+    {
+      "ticker": "ACTA",
+      "price": 0.872
+    },
+    {
+      "ticker": "BTE",
+      "price": 2.59
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.165
+    },
+    {
+      "ticker": "FRO",
+      "price": 4.16
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CHK",
+      "price": 3.2
+    },
+    {
+      "ticker": "TOO",
+      "price": 2.69
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.98
+    },
+    {
+      "ticker": "NE",
+      "price": 4.26
+    },
+    {
+      "ticker": "SN",
+      "price": 3.54
+    },
+    {
+      "ticker": "SWN",
+      "price": 3.69
+    },
+    {
+      "ticker": "UPL",
+      "price": 4.44
+    },
+    {
+      "ticker": "WFT",
+      "price": 2.93
+    },
+    {
+      "ticker": "BKS",
+      "price": 4.6
+    },
+    {
+      "ticker": "ACTA",
+      "price": 0.88
+    },
+    {
+      "ticker": "BTE",
+      "price": 2.59
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.16
+    },
+    {
+      "ticker": "CERS",
+      "price": 4.27
+    },
+    {
+      "ticker": "CIG",
+      "price": 2.45
+    },
+    {
+      "ticker": "BIOS",
+      "price": 2.99
+    }
+  ]
+}

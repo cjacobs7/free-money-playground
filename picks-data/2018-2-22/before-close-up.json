@@ -1,0 +1,86 @@
+{
+  "350": [
+    {
+      "ticker": "BDR",
+      "price": 0.5809
+    },
+    {
+      "ticker": "UQM",
+      "price": 1.32
+    },
+    {
+      "ticker": "RGLS",
+      "price": 1.2
+    },
+    {
+      "ticker": "ASM",
+      "price": 1.32
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.28
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.87
+    },
+    {
+      "ticker": "PDLI",
+      "price": 2.5
+    },
+    {
+      "ticker": "ARCI",
+      "price": 0.94
+    },
+    {
+      "ticker": "STRM",
+      "price": 1.71
+    },
+    {
+      "ticker": "CIDM",
+      "price": 1.2201
+    }
+  ],
+  "380": [
+    {
+      "ticker": "BDR",
+      "price": 0.5809
+    },
+    {
+      "ticker": "UQM",
+      "price": 1.32
+    },
+    {
+      "ticker": "RGLS",
+      "price": 1.2
+    },
+    {
+      "ticker": "ASM",
+      "price": 1.32
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.28
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.87
+    },
+    {
+      "ticker": "PDLI",
+      "price": 2.5
+    },
+    {
+      "ticker": "ARCI",
+      "price": 0.94
+    },
+    {
+      "ticker": "STRM",
+      "price": 1.71
+    },
+    {
+      "ticker": "CIDM",
+      "price": 1.2201
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "45": [
+    {
+      "ticker": "GEN",
+      "price": 1.6
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.3916
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.54
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.2417
+    },
+    {
+      "ticker": "EBIO",
+      "price": 0.9492
+    },
+    {
+      "ticker": "HOV",
+      "price": 2.31
+    },
+    {
+      "ticker": "SQNS",
+      "price": 1.69
+    }
+  ],
+  "189": [
+    {
+      "ticker": "GEN",
+      "price": 1.1601
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.64
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.536
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.256
+    },
+    {
+      "ticker": "EBIO",
+      "price": 0.9534
+    },
+    {
+      "ticker": "HOV",
+      "price": 2.265
+    },
+    {
+      "ticker": "SQNS",
+      "price": 1.695
+    }
+  ]
+}

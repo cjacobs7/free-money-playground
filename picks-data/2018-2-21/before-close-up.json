@@ -1,0 +1,86 @@
+{
+  "350": [
+    {
+      "ticker": "PAVM",
+      "price": 1.64
+    },
+    {
+      "ticker": "CFMS",
+      "price": 1.42
+    },
+    {
+      "ticker": "THST",
+      "price": 1.94
+    },
+    {
+      "ticker": "PED",
+      "price": 0.2917
+    },
+    {
+      "ticker": "WMLP",
+      "price": 2.68
+    },
+    {
+      "ticker": "ABIL",
+      "price": 0.3804
+    },
+    {
+      "ticker": "XBIO",
+      "price": 2
+    },
+    {
+      "ticker": "CDMO",
+      "price": 2.5
+    },
+    {
+      "ticker": "AT",
+      "price": 1.975
+    },
+    {
+      "ticker": "NVAX",
+      "price": 2.375
+    }
+  ],
+  "380": [
+    {
+      "ticker": "PAVM",
+      "price": 1.64
+    },
+    {
+      "ticker": "CFMS",
+      "price": 1.42
+    },
+    {
+      "ticker": "THST",
+      "price": 1.94
+    },
+    {
+      "ticker": "PED",
+      "price": 0.2915
+    },
+    {
+      "ticker": "ABIL",
+      "price": 0.3805
+    },
+    {
+      "ticker": "MTNB",
+      "price": 0.99
+    },
+    {
+      "ticker": "AT",
+      "price": 1.975
+    },
+    {
+      "ticker": "CDMO",
+      "price": 2.49
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.2799
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.305
+    }
+  ]
+}

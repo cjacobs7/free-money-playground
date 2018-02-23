@@ -1,0 +1,86 @@
+{
+  "190": [
+    {
+      "ticker": "KDMN",
+      "price": 3.78
+    },
+    {
+      "ticker": "BPTH",
+      "price": 1.71
+    },
+    {
+      "ticker": "CYTR",
+      "price": 1.6067
+    },
+    {
+      "ticker": "ROYL",
+      "price": 0.3836
+    },
+    {
+      "ticker": "SKYS",
+      "price": 0.893
+    },
+    {
+      "ticker": "KOSS",
+      "price": 1.99
+    },
+    {
+      "ticker": "NQ",
+      "price": 2.2948
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.44
+    },
+    {
+      "ticker": "WMLP",
+      "price": 2.68
+    },
+    {
+      "ticker": "TNTR",
+      "price": 4.9176
+    }
+  ],
+  "250": [
+    {
+      "ticker": "KDMN",
+      "price": 3.745
+    },
+    {
+      "ticker": "BPTH",
+      "price": 1.71
+    },
+    {
+      "ticker": "CYTR",
+      "price": 1.6181
+    },
+    {
+      "ticker": "ROYL",
+      "price": 0.3836
+    },
+    {
+      "ticker": "SKYS",
+      "price": 0.96
+    },
+    {
+      "ticker": "KOSS",
+      "price": 1.99
+    },
+    {
+      "ticker": "NQ",
+      "price": 2.3
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.4541
+    },
+    {
+      "ticker": "WMLP",
+      "price": 2.68
+    },
+    {
+      "ticker": "TNTR",
+      "price": 5.14
+    }
+  ]
+}

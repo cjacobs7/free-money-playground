@@ -88,5 +88,191 @@
       "ticker": "TOO",
       "price": 2.4499
     }
+  ],
+  "120": [
+    {
+      "ticker": "PLUG",
+      "price": 2.055
+    },
+    {
+      "ticker": "ZIOP",
+      "price": 3.945
+    },
+    {
+      "ticker": "WFT",
+      "price": 2.945
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.495
+    },
+    {
+      "ticker": "FSM",
+      "price": 4.7
+    },
+    {
+      "ticker": "AGEN",
+      "price": 5.03
+    },
+    {
+      "ticker": "JMEI",
+      "price": 3.06
+    },
+    {
+      "ticker": "PDLI",
+      "price": 2.575
+    },
+    {
+      "ticker": "GERN",
+      "price": 2.347
+    },
+    {
+      "ticker": "ODP",
+      "price": 3.145
+    },
+    {
+      "ticker": "CLDX",
+      "price": 2.46
+    },
+    {
+      "ticker": "TAHO",
+      "price": 4.135
+    },
+    {
+      "ticker": "RIGL",
+      "price": 3.87
+    },
+    {
+      "ticker": "HL",
+      "price": 3.88
+    },
+    {
+      "ticker": "AAV",
+      "price": 2.975
+    }
+  ],
+  "180": [
+    {
+      "ticker": "PLUG",
+      "price": 1.985
+    },
+    {
+      "ticker": "WFT",
+      "price": 2.985
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.7
+    },
+    {
+      "ticker": "ZIOP",
+      "price": 3.93
+    },
+    {
+      "ticker": "JMEI",
+      "price": 3.0741
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.4667
+    },
+    {
+      "ticker": "PDLI",
+      "price": 2.585
+    },
+    {
+      "ticker": "FSM",
+      "price": 4.7
+    },
+    {
+      "ticker": "CLDX",
+      "price": 2.465
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.81
+    },
+    {
+      "ticker": "ODP",
+      "price": 3.13
+    },
+    {
+      "ticker": "AGEN",
+      "price": 4.9
+    },
+    {
+      "ticker": "ELGX",
+      "price": 4.495
+    },
+    {
+      "ticker": "AAV",
+      "price": 3
+    },
+    {
+      "ticker": "SREV",
+      "price": 3.745
+    }
+  ],
+  "380": [
+    {
+      "ticker": "PLUG",
+      "price": 1.99
+    },
+    {
+      "ticker": "CSLT",
+      "price": 3.875
+    },
+    {
+      "ticker": "UAN",
+      "price": 3.49
+    },
+    {
+      "ticker": "JMEI",
+      "price": 3.02
+    },
+    {
+      "ticker": "PDLI",
+      "price": 2.555
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.425
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.78
+    },
+    {
+      "ticker": "VSLR",
+      "price": 3.25
+    },
+    {
+      "ticker": "TNK",
+      "price": 1.105
+    },
+    {
+      "ticker": "FSM",
+      "price": 4.58
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.635
+    },
+    {
+      "ticker": "AGEN",
+      "price": 4.8
+    },
+    {
+      "ticker": "CLDX",
+      "price": 2.425
+    },
+    {
+      "ticker": "TOO",
+      "price": 2.43
+    },
+    {
+      "ticker": "TTI",
+      "price": 3.815
+    }
   ]
 }

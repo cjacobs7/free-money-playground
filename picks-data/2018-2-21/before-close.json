@@ -1,0 +1,42 @@
+{
+  "351": [
+    {
+      "ticker": "ATXI",
+      "price": 4.8052
+    },
+    {
+      "ticker": "STXS",
+      "price": 0.751
+    },
+    {
+      "ticker": "CTIB",
+      "price": 4.95
+    },
+    {
+      "ticker": "TOFB",
+      "price": 2.06
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IDSA",
+      "price": 2.26
+    },
+    {
+      "ticker": "ATXI",
+      "price": 5.04
+    },
+    {
+      "ticker": "STXS",
+      "price": 0.78
+    },
+    {
+      "ticker": "CTIB",
+      "price": 4.95
+    },
+    {
+      "ticker": "TOFB",
+      "price": 2.13
+    }
+  ]
+}

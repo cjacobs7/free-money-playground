@@ -1,0 +1,94 @@
+{
+  "193": [
+    {
+      "ticker": "NXTDW",
+      "price": 0.3901
+    },
+    {
+      "ticker": "SBSAA",
+      "price": 0.31
+    },
+    {
+      "ticker": "RMGN",
+      "price": 0.8696
+    },
+    {
+      "ticker": "BZQ",
+      "price": 6.7
+    },
+    {
+      "ticker": "NNDM",
+      "price": 2.19
+    },
+    {
+      "ticker": "DCIX",
+      "price": 2.2
+    },
+    {
+      "ticker": "CAPR",
+      "price": 1.7899
+    },
+    {
+      "ticker": "AEMD",
+      "price": 1.48
+    }
+  ],
+  "253": [
+    {
+      "ticker": "NXTDW",
+      "price": 0.3901
+    },
+    {
+      "ticker": "SBSAA",
+      "price": 0.31
+    },
+    {
+      "ticker": "RMGN",
+      "price": 0.8615
+    },
+    {
+      "ticker": "BZQ",
+      "price": 6.555
+    },
+    {
+      "ticker": "NNDM",
+      "price": 2.2
+    },
+    {
+      "ticker": "DCIX",
+      "price": 2.16
+    },
+    {
+      "ticker": "OCUL",
+      "price": 5.1206
+    },
+    {
+      "ticker": "AEMD",
+      "price": 1.47
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2789
+    },
+    {
+      "ticker": "AZRX",
+      "price": 2.91
+    },
+    {
+      "ticker": "BOXL",
+      "price": 4.7101
+    },
+    {
+      "ticker": "OSN",
+      "price": 2.8399
+    },
+    {
+      "ticker": "TNTR",
+      "price": 5.14
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.84
+    }
+  ]
+}

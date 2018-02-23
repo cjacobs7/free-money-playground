@@ -3,7 +3,7 @@ const filterByTradeable = stocks => {
     const areTradeable = [];
     for (let ticker of stocks) {
         const foundObj = allStocks.find(obj => obj.symbol === ticker);
-        if (foundObj && foundObj.tradeable) {
+        if (foundObj && foundObj.tradeable && foundObj.tradability === 'tradable') {
             areTradeable.push(ticker);
         }
     }

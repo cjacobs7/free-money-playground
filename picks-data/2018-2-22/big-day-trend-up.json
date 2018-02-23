@@ -1,0 +1,90 @@
+{
+  "10": [
+    {
+      "ticker": "TGB",
+      "price": 1.52
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.3917
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.63
+    },
+    {
+      "ticker": "TNK",
+      "price": 1.1553
+    },
+    {
+      "ticker": "HOV",
+      "price": 2.305
+    }
+  ],
+  "35": [
+    {
+      "ticker": "SYN",
+      "price": 0.4
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.6038
+    },
+    {
+      "ticker": "VTNR",
+      "price": 0.8716
+    },
+    {
+      "ticker": "ZOM",
+      "price": 2.01
+    },
+    {
+      "ticker": "CPSS",
+      "price": 4.05
+    }
+  ],
+  "90": [
+    {
+      "ticker": "GEN",
+      "price": 1.26
+    },
+    {
+      "ticker": "SMED",
+      "price": 4.68
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.525
+    },
+    {
+      "ticker": "VTNR",
+      "price": 0.88
+    },
+    {
+      "ticker": "VSLR",
+      "price": 3.05
+    }
+  ],
+  "223": [
+    {
+      "ticker": "GEN",
+      "price": 1.27
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.3901
+    },
+    {
+      "ticker": "IVTY",
+      "price": 3.6
+    },
+    {
+      "ticker": "SGBX",
+      "price": 4.01
+    },
+    {
+      "ticker": "CPSS",
+      "price": 3.93
+    }
+  ]
+}

@@ -124,5 +124,191 @@
       "ticker": "FMSA",
       "price": 4.815
     }
+  ],
+  "120": [
+    {
+      "ticker": "ANW",
+      "price": 2.725
+    },
+    {
+      "ticker": "INPX",
+      "price": 1.8918
+    },
+    {
+      "ticker": "MBVX",
+      "price": 2.17
+    },
+    {
+      "ticker": "DCIX",
+      "price": 2.23
+    },
+    {
+      "ticker": "SUMR",
+      "price": 1.0701
+    },
+    {
+      "ticker": "DPW",
+      "price": 1.8399
+    },
+    {
+      "ticker": "SOFO",
+      "price": 2.35
+    },
+    {
+      "ticker": "BSQR",
+      "price": 3.7731
+    },
+    {
+      "ticker": "MRDN",
+      "price": 0.9887
+    },
+    {
+      "ticker": "CTXR",
+      "price": 3.4733
+    },
+    {
+      "ticker": "XGTI",
+      "price": 1.34
+    },
+    {
+      "ticker": "LC",
+      "price": 3.8301
+    },
+    {
+      "ticker": "RAD",
+      "price": 2.0694
+    },
+    {
+      "ticker": "TAT",
+      "price": 1.5259
+    },
+    {
+      "ticker": "FTFT",
+      "price": 2.86
+    }
+  ],
+  "180": [
+    {
+      "ticker": "ANW",
+      "price": 2.625
+    },
+    {
+      "ticker": "INPX",
+      "price": 1.7503
+    },
+    {
+      "ticker": "MBVX",
+      "price": 2.15
+    },
+    {
+      "ticker": "SOFO",
+      "price": 2.3
+    },
+    {
+      "ticker": "DPW",
+      "price": 1.8
+    },
+    {
+      "ticker": "ZN",
+      "price": 4.0345
+    },
+    {
+      "ticker": "DCIX",
+      "price": 2.2
+    },
+    {
+      "ticker": "SUMR",
+      "price": 1.0825
+    },
+    {
+      "ticker": "BSQR",
+      "price": 3.7185
+    },
+    {
+      "ticker": "RAD",
+      "price": 2.06
+    },
+    {
+      "ticker": "GNMX",
+      "price": 1.91
+    },
+    {
+      "ticker": "TNTR",
+      "price": 4.77
+    },
+    {
+      "ticker": "P",
+      "price": 4.975
+    },
+    {
+      "ticker": "FTFT",
+      "price": 2.8163
+    },
+    {
+      "ticker": "TTNP",
+      "price": 0.9852
+    }
+  ],
+  "380": [
+    {
+      "ticker": "ANW",
+      "price": 2.725
+    },
+    {
+      "ticker": "INPX",
+      "price": 1.7612
+    },
+    {
+      "ticker": "MBVX",
+      "price": 2.055
+    },
+    {
+      "ticker": "GNMX",
+      "price": 1.81
+    },
+    {
+      "ticker": "DCIX",
+      "price": 2.12
+    },
+    {
+      "ticker": "DPW",
+      "price": 1.775
+    },
+    {
+      "ticker": "UUU",
+      "price": 1.15
+    },
+    {
+      "ticker": "SOFO",
+      "price": 2.3
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.2827
+    },
+    {
+      "ticker": "ADMP",
+      "price": 2.8
+    },
+    {
+      "ticker": "HTBX",
+      "price": 2.98
+    },
+    {
+      "ticker": "NSPR",
+      "price": 4.04
+    },
+    {
+      "ticker": "REED",
+      "price": 1.4561
+    },
+    {
+      "ticker": "FMSA",
+      "price": 4.6
+    },
+    {
+      "ticker": "P",
+      "price": 4.87
+    }
   ]
 }

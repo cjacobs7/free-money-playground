@@ -3,7 +3,7 @@ const fs = require('mz/fs');
 const getTrend = require('../utils/get-trend');
 const avgArray = require('../utils/avg-array');
 const jsonMgr = require('../utils/json-mgr');
-// const lookup = require('../utils/lookup');
+const filterByTradeable = require('../utils/filter-by-tradeable');
 const chunkApi = require('../utils/chunk-api');
 
 const analyzeDay = async (Robinhood, day) => {
@@ -24,6 +24,12 @@ const analyzeDay = async (Robinhood, day) => {
         for (let min of Object.keys(obj)) {
             // for each strategy run
             strategyPicks[`${strategyName}-${min}`] = obj[min];
+            if (obj[min].length) {
+                strategyPicks[`${strategyName}-single-${min}`] = obj[min].slice(0, 1);
+            }
+            if (obj[min].length >= 3) {
+                strategyPicks[`${strategyName}-first3-${min}`] = obj[min].slice(0, 3);
+            }
             obj[min].forEach(({ticker}) => {
                 tickerLookups[ticker] = null;
             });
@@ -52,7 +58,8 @@ const analyzeDay = async (Robinhood, day) => {
     // calc trend and avg for each strategy-min
     const withTrend = [];
     Object.keys(strategyPicks).forEach(stratMin => {
-        const picks = strategyPicks[stratMin];
+        const picks = strategyPicks[stratMin]
+            .filter(({ticker}) => filterByTradeable([ticker]).length);
         const picksWithTrend = picks.map(({ticker, price}) => ({
             ticker,
             thenPrice: price,
@@ -61,8 +68,8 @@ const analyzeDay = async (Robinhood, day) => {
         }));
         withTrend.push({
             strategyName: stratMin,
-            avgTrend: avgArray(picksWithTrend.map(pick => pick.trend))
-            // picks: picksWithTrend
+            avgTrend: avgArray(picksWithTrend.map(pick => pick.trend)),
+            picks: picksWithTrend.map(t => t.ticker).join(', ')
         });
     });
     // console.log(withTrend);

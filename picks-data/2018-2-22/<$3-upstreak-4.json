@@ -1,0 +1,62 @@
+{
+  "45": [
+    {
+      "ticker": "CLDX",
+      "price": 2.415
+    },
+    {
+      "ticker": "DYSL",
+      "price": 1.29
+    },
+    {
+      "ticker": "CGNT",
+      "price": 2.99
+    },
+    {
+      "ticker": "RAVE",
+      "price": 1.7
+    },
+    {
+      "ticker": "ONTX",
+      "price": 1.24
+    },
+    {
+      "ticker": "IDN",
+      "price": 2.821
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.2774
+    }
+  ],
+  "189": [
+    {
+      "ticker": "CLDX",
+      "price": 2.37
+    },
+    {
+      "ticker": "DYSL",
+      "price": 1.29
+    },
+    {
+      "ticker": "CGNT",
+      "price": 2.96
+    },
+    {
+      "ticker": "RAVE",
+      "price": 1.6
+    },
+    {
+      "ticker": "ONTX",
+      "price": 1.14
+    },
+    {
+      "ticker": "IDN",
+      "price": 2.74
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.2661
+    }
+  ]
+}

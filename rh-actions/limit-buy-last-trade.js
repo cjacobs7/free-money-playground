@@ -17,8 +17,9 @@ const limitBuyLastTrade = async (Robinhood, { ticker, maxPrice, quantity, bidPri
     try {
 
         if (await alreadySoldThisStockToday(ticker)) {
-            console.log('not purchasing ', ticker, 'because already sold today');
-            return;
+            const errMessage = 'not purchasing ' + ticker + 'because already sold today';
+            console.log(errMessage);
+            return { detail: errMessage };
         }
 
         console.log('limit buying', ticker);
@@ -69,7 +70,7 @@ const limitBuyLastTrade = async (Robinhood, { ticker, maxPrice, quantity, bidPri
         return res;
 
     } catch (e) {
-        return null;
+        return { detail: e.toString() };
     }
 
 };

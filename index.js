@@ -8,7 +8,7 @@ const initModules = require('./app-actions/init-modules');
 const getAllTickers = require('./rh-actions/get-all-tickers');
 const cancelAllOrders = require('./rh-actions/cancel-all-orders');
 const logPortfolioValue = require('./app-actions/log-portfolio-value');
-const getPennyStocks = require('./analysis/get-penny-stocks');
+// const getPennyStocks = require('./analysis/get-penny-stocks');
 // const activeBuy = require('./app-actions/active-buy');
 
 

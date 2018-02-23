@@ -1,0 +1,154 @@
+{
+  "193": [
+    {
+      "ticker": "INSE",
+      "price": 5.55
+    },
+    {
+      "ticker": "SBSAA",
+      "price": 0.31
+    },
+    {
+      "ticker": "RMGN",
+      "price": 0.8281
+    },
+    {
+      "ticker": "MBVX",
+      "price": 2.07
+    },
+    {
+      "ticker": "INSEW",
+      "price": 0.4
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2697
+    },
+    {
+      "ticker": "DCIX",
+      "price": 2.05
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.395
+    },
+    {
+      "ticker": "CLIR",
+      "price": 2.3
+    },
+    {
+      "ticker": "CAPR",
+      "price": 1.78
+    },
+    {
+      "ticker": "HTBX",
+      "price": 2.8599
+    },
+    {
+      "ticker": "ROSE",
+      "price": 6.9
+    },
+    {
+      "ticker": "AZRX",
+      "price": 2.82
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.1204
+    },
+    {
+      "ticker": "CALI",
+      "price": 3.25
+    },
+    {
+      "ticker": "TNTR",
+      "price": 4.99
+    },
+    {
+      "ticker": "BOXL",
+      "price": 4
+    },
+    {
+      "ticker": "OSN",
+      "price": 2.7336
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.819
+    }
+  ],
+  "253": [
+    {
+      "ticker": "INSE",
+      "price": 5.65
+    },
+    {
+      "ticker": "SBSAA",
+      "price": 0.31
+    },
+    {
+      "ticker": "RMGN",
+      "price": 0.81
+    },
+    {
+      "ticker": "MBVX",
+      "price": 2.09
+    },
+    {
+      "ticker": "HTBX",
+      "price": 2.84
+    },
+    {
+      "ticker": "INSEW",
+      "price": 0.4
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2769
+    },
+    {
+      "ticker": "DCIX",
+      "price": 2
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.41
+    },
+    {
+      "ticker": "CLIR",
+      "price": 2.35
+    },
+    {
+      "ticker": "ROSE",
+      "price": 6.92
+    },
+    {
+      "ticker": "AZRX",
+      "price": 2.79
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.13
+    },
+    {
+      "ticker": "CALI",
+      "price": 3.21
+    },
+    {
+      "ticker": "TNTR",
+      "price": 5.01
+    },
+    {
+      "ticker": "BOXL",
+      "price": 4
+    },
+    {
+      "ticker": "OSN",
+      "price": 2.74
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.8096
+    }
+  ]
+}

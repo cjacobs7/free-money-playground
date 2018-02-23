@@ -1,0 +1,143 @@
+{
+  "2": [],
+  "75": [
+    {
+      "ticker": "SWN",
+      "price": 3.76
+    },
+    {
+      "ticker": "SN",
+      "price": 3.5224
+    },
+    {
+      "ticker": "OPK",
+      "price": 3.75
+    },
+    {
+      "ticker": "ESV",
+      "price": 4.9584
+    },
+    {
+      "ticker": "NGD",
+      "price": 2.615
+    },
+    {
+      "ticker": "FMSA",
+      "price": 4.695
+    },
+    {
+      "ticker": "STNG",
+      "price": 2.3975
+    },
+    {
+      "ticker": "EGO",
+      "price": 1.13
+    },
+    {
+      "ticker": "UPL",
+      "price": 4.34
+    }
+  ],
+  "120": [
+    {
+      "ticker": "SN",
+      "price": 3.605
+    },
+    {
+      "ticker": "OPK",
+      "price": 3.7575
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.75
+    },
+    {
+      "ticker": "UPL",
+      "price": 4.445
+    },
+    {
+      "ticker": "BKS",
+      "price": 4.55
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.1799
+    },
+    {
+      "ticker": "FMSA",
+      "price": 4.755
+    },
+    {
+      "ticker": "EGO",
+      "price": 1.13
+    },
+    {
+      "ticker": "STNG",
+      "price": 2.42
+    },
+    {
+      "ticker": "NGD",
+      "price": 2.625
+    }
+  ],
+  "180": [
+    {
+      "ticker": "SN",
+      "price": 3.5643
+    },
+    {
+      "ticker": "BKS",
+      "price": 4.6
+    },
+    {
+      "ticker": "SWN",
+      "price": 3.675
+    },
+    {
+      "ticker": "UPL",
+      "price": 4.4401
+    },
+    {
+      "ticker": "BTE",
+      "price": 2.59
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.165
+    },
+    {
+      "ticker": "FRO",
+      "price": 4.15
+    },
+    {
+      "ticker": "STNG",
+      "price": 2.395
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SN",
+      "price": 3.54
+    },
+    {
+      "ticker": "SWN",
+      "price": 3.69
+    },
+    {
+      "ticker": "UPL",
+      "price": 4.44
+    },
+    {
+      "ticker": "BKS",
+      "price": 4.6
+    },
+    {
+      "ticker": "BTE",
+      "price": 2.59
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.16
+    }
+  ]
+}

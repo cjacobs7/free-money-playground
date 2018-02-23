@@ -1,0 +1,112 @@
+{
+  "3": [
+    {
+      "ticker": "UNFI",
+      "price": 42.86
+    },
+    {
+      "ticker": "BAC",
+      "price": 32.0175
+    },
+    {
+      "ticker": "TM",
+      "price": 134.8
+    },
+    {
+      "ticker": "NFLX",
+      "price": 282.31
+    },
+    {
+      "ticker": "XPO",
+      "price": 94.765
+    },
+    {
+      "ticker": "CIG",
+      "price": 2.46
+    },
+    {
+      "ticker": "SIRI",
+      "price": 6.15
+    },
+    {
+      "ticker": "OSUR",
+      "price": 17.835
+    },
+    {
+      "ticker": "OPNT",
+      "price": 23.5251
+    },
+    {
+      "ticker": "ORCL",
+      "price": 49.56
+    },
+    {
+      "ticker": "INSY",
+      "price": 7.99
+    },
+    {
+      "ticker": "UONE",
+      "price": 1.75
+    },
+    {
+      "ticker": "VRX",
+      "price": 18.72
+    },
+    {
+      "ticker": "ACH",
+      "price": 15.79
+    },
+    {
+      "ticker": "SFIX",
+      "price": 19.26
+    },
+    {
+      "ticker": "MSFT",
+      "price": 92.03
+    },
+    {
+      "ticker": "SID",
+      "price": 3.17
+    },
+    {
+      "ticker": "AET",
+      "price": 176.695
+    },
+    {
+      "ticker": "BABA",
+      "price": 190.5545
+    },
+    {
+      "ticker": "GPRO",
+      "price": 5.53
+    },
+    {
+      "ticker": "CHK",
+      "price": 2.8766
+    },
+    {
+      "ticker": "SNAP",
+      "price": 18.33
+    },
+    {
+      "ticker": "TSN",
+      "price": 74.1803
+    },
+    {
+      "ticker": "NSPR",
+      "price": 4.0502
+    },
+    {
+      "ticker": "NMM",
+      "price": 1.93
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.1857
+    },
+    {
+      "ticker": "CBIS",
+      "price": 0.0752
+    }
+  ]
+}

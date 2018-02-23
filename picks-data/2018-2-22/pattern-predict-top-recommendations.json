@@ -1,0 +1,52 @@
+{
+  "3": [
+    {
+      "ticker": "VLRX",
+      "price": 2.97
+    },
+    {
+      "ticker": "FB",
+      "price": 179.28
+    },
+    {
+      "ticker": "SBUX",
+      "price": 55.96
+    },
+    {
+      "ticker": "MULE",
+      "price": 30.74
+    },
+    {
+      "ticker": "SAGE",
+      "price": 170.39
+    },
+    {
+      "ticker": "DE",
+      "price": 163.35
+    },
+    {
+      "ticker": "TWTR",
+      "price": 33.27
+    },
+    {
+      "ticker": "AAPL",
+      "price": 172.7776
+    },
+    {
+      "ticker": "CATB",
+      "price": 1.5717
+    },
+    {
+      "ticker": "DIS",
+      "price": 105.49
+    },
+    {
+      "ticker": "AA",
+      "price": 48.125
+    },
+    {
+      "ticker": "GM",
+      "price": 40.68
+    }
+  ]
+}

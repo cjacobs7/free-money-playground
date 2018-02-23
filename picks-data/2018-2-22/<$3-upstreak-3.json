@@ -1,0 +1,178 @@
+{
+  "45": [
+    {
+      "ticker": "MSSNF",
+      "price": 0.1785
+    },
+    {
+      "ticker": "KTOV",
+      "price": 2.59
+    },
+    {
+      "ticker": "COYNQ",
+      "price": 0.0369
+    },
+    {
+      "ticker": "CHEK",
+      "price": 0.77
+    },
+    {
+      "ticker": "JMEI",
+      "price": 2.995
+    },
+    {
+      "ticker": "SQNS",
+      "price": 1.69
+    },
+    {
+      "ticker": "LGCY",
+      "price": 2.875
+    },
+    {
+      "ticker": "EBIO",
+      "price": 0.9492
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.6
+    },
+    {
+      "ticker": "LRAD",
+      "price": 2.36
+    },
+    {
+      "ticker": "GURE",
+      "price": 1.5401
+    },
+    {
+      "ticker": "HOV",
+      "price": 2.31
+    },
+    {
+      "ticker": "PTN",
+      "price": 0.9787
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.435
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.5402
+    },
+    {
+      "ticker": "EGY",
+      "price": 0.7999
+    },
+    {
+      "ticker": "OREX",
+      "price": 1.5198
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.4223
+    },
+    {
+      "ticker": "MCZAF",
+      "price": 0.0055
+    },
+    {
+      "ticker": "AOXG",
+      "price": 0.07
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.3916
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.2417
+    }
+  ],
+  "189": [
+    {
+      "ticker": "MSSNF",
+      "price": 0.15
+    },
+    {
+      "ticker": "KTOV",
+      "price": 2.65
+    },
+    {
+      "ticker": "COYNQ",
+      "price": 0.025
+    },
+    {
+      "ticker": "CHEK",
+      "price": 0.7239
+    },
+    {
+      "ticker": "JMEI",
+      "price": 2.9099
+    },
+    {
+      "ticker": "SQNS",
+      "price": 1.695
+    },
+    {
+      "ticker": "EBIO",
+      "price": 0.9534
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.1662
+    },
+    {
+      "ticker": "LRAD",
+      "price": 2.29
+    },
+    {
+      "ticker": "GURE",
+      "price": 1.52
+    },
+    {
+      "ticker": "HOV",
+      "price": 2.265
+    },
+    {
+      "ticker": "PTN",
+      "price": 0.97
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.475
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.5377
+    },
+    {
+      "ticker": "EGY",
+      "price": 0.8102
+    },
+    {
+      "ticker": "OREX",
+      "price": 1.25
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.4
+    },
+    {
+      "ticker": "MCZAF",
+      "price": 0.0055
+    },
+    {
+      "ticker": "AOXG",
+      "price": 0.07
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.64
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.256
+    }
+  ]
+}

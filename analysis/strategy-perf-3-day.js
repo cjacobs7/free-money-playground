@@ -58,7 +58,7 @@ class HashTable {
                     buyMin,
                     sellMin
                 };
-                stratResults.put( key, (stratResults.get(key) || []).concat(stratPerf.avgTrend) )
+                stratResults.put(key, (stratResults.get(key) || []).concat(stratPerf.avgTrend));
             });
 
         });
@@ -83,11 +83,11 @@ class HashTable {
     });
     // stratResults.print();
 
-    console.log('all', allPerfs)
+    // console.log('all', allPerfs)
 
     const sortedFiltered = allPerfs
-        .filter(perf => perf.count === 3)
-        .filter(perf => perf.trends.length === 3)
+        // .filter(perf => perf.count === 3)
+        // .filter(perf => perf.trends.length === 3)
         .filter(perf => !perf.trends.some(t => t < 0))
         .sort((a, b) => b.avgTrend - a.avgTrend);
 
