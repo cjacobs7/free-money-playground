@@ -1,0 +1,126 @@
+{
+  "5": [
+    {
+      "ticker": "TNDM",
+      "price": 3.1701
+    },
+    {
+      "ticker": "GNCA",
+      "price": 1.03
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.5163
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.3216
+    },
+    {
+      "ticker": "KONA",
+      "price": 2.183
+    },
+    {
+      "ticker": "OREX",
+      "price": 1.2171
+    },
+    {
+      "ticker": "CRHM",
+      "price": 3.0252
+    },
+    {
+      "ticker": "XENE",
+      "price": 3.745
+    },
+    {
+      "ticker": "ANTH",
+      "price": 2.3134
+    },
+    {
+      "ticker": "HGT",
+      "price": 0.9649
+    },
+    {
+      "ticker": "ASNA",
+      "price": 2.26
+    },
+    {
+      "ticker": "MNKD",
+      "price": 3.0801
+    },
+    {
+      "ticker": "CKPT",
+      "price": 4.92
+    },
+    {
+      "ticker": "VHC",
+      "price": 3.875
+    },
+    {
+      "ticker": "SQBG",
+      "price": 1.96
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TNDM",
+      "price": 3.135
+    },
+    {
+      "ticker": "GNCA",
+      "price": 1.03
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.532
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.3156
+    },
+    {
+      "ticker": "KONA",
+      "price": 2.105
+    },
+    {
+      "ticker": "OREX",
+      "price": 1.264
+    },
+    {
+      "ticker": "CRHM",
+      "price": 3.025
+    },
+    {
+      "ticker": "XENE",
+      "price": 3.75
+    },
+    {
+      "ticker": "ANTH",
+      "price": 2.34
+    },
+    {
+      "ticker": "HGT",
+      "price": 0.9525
+    },
+    {
+      "ticker": "ASNA",
+      "price": 2.245
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.985
+    },
+    {
+      "ticker": "CKPT",
+      "price": 4.7553
+    },
+    {
+      "ticker": "VHC",
+      "price": 3.85
+    },
+    {
+      "ticker": "SQBG",
+      "price": 1.93
+    }
+  ]
+}

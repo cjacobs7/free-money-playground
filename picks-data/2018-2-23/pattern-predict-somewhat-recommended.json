@@ -1,0 +1,84 @@
+{
+  "3": [
+    {
+      "ticker": "CPG",
+      "price": 7.305
+    },
+    {
+      "ticker": "GWPH",
+      "price": 120.29
+    },
+    {
+      "ticker": "AABA",
+      "price": 76.41
+    },
+    {
+      "ticker": "HALO",
+      "price": 19.7
+    },
+    {
+      "ticker": "INAP",
+      "price": 14
+    },
+    {
+      "ticker": "IGT",
+      "price": 26.575
+    },
+    {
+      "ticker": "AMC",
+      "price": 14.6
+    },
+    {
+      "ticker": "LUK",
+      "price": 24.725
+    },
+    {
+      "ticker": "DXJ",
+      "price": 57.35
+    },
+    {
+      "ticker": "NRG",
+      "price": 26.03
+    },
+    {
+      "ticker": "UGAZ",
+      "price": 54.419
+    },
+    {
+      "ticker": "PFSI",
+      "price": 24
+    },
+    {
+      "ticker": "ERF",
+      "price": 10.71
+    },
+    {
+      "ticker": "SWN",
+      "price": 3.785
+    },
+    {
+      "ticker": "IAC",
+      "price": 151.3
+    },
+    {
+      "ticker": "SWN",
+      "price": 3.7854
+    },
+    {
+      "ticker": "BBG",
+      "price": 5.285
+    },
+    {
+      "ticker": "GE",
+      "price": 14.5873
+    },
+    {
+      "ticker": "DRYS",
+      "price": 3.4285
+    },
+    {
+      "ticker": "NEOS",
+      "price": 8.7965
+    }
+  ]
+}

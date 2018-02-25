@@ -1,0 +1,98 @@
+{
+  "45": [
+    {
+      "ticker": "ARLZ",
+      "price": 1.7
+    },
+    {
+      "ticker": "RCG",
+      "price": 1.39
+    },
+    {
+      "ticker": "SLNO",
+      "price": 1.674
+    },
+    {
+      "ticker": "SKYS",
+      "price": 0.894
+    },
+    {
+      "ticker": "LITB",
+      "price": 2.4599
+    },
+    {
+      "ticker": "CYTX",
+      "price": 0.3551
+    },
+    {
+      "ticker": "LUNA",
+      "price": 2.43
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.3153
+    },
+    {
+      "ticker": "NFEC",
+      "price": 0.9504
+    },
+    {
+      "ticker": "BPTH",
+      "price": 1.6191
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.8116
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.4603
+    },
+    {
+      "ticker": "RVP",
+      "price": 0.9253
+    },
+    {
+      "ticker": "GEVO",
+      "price": 0.452
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.45
+    },
+    {
+      "ticker": "TURN",
+      "price": 1.899
+    },
+    {
+      "ticker": "NURO",
+      "price": 1.48
+    },
+    {
+      "ticker": "MLNK",
+      "price": 2.45
+    }
+  ],
+  "189": [
+    {
+      "ticker": "ARLZ",
+      "price": 1.68
+    },
+    {
+      "ticker": "RCG",
+      "price": 1.37
+    },
+    {
+      "ticker": "SLNO",
+      "price": 1.674
+    },
+    {
+      "ticker": "SKYS",
+      "price": 0.9
+    },
+    {
+      "ticker": "LITB",
+      "price": 2.43
+    }
+  ]
+}

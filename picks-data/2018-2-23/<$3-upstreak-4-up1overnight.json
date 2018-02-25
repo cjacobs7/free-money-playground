@@ -1,0 +1,42 @@
+{
+  "45": [
+    {
+      "ticker": "OREX",
+      "price": 1.2514
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.88
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.5237
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.266
+    }
+  ],
+  "189": [
+    {
+      "ticker": "OREX",
+      "price": 1.2014
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.73
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.5018
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.262
+    },
+    {
+      "ticker": "TNDM",
+      "price": 2.919
+    }
+  ]
+}

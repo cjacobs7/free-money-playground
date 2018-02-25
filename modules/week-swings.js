@@ -66,7 +66,7 @@ const trendFilter = async (Robinhood, trend) => {
                 max,
                 min,
                 numSwings,
-                isInLowSegment: inLowSegment(Number(buy.last_trade_price), bufferSize + 10),
+                isInLowSegment: inLowSegment(Number(buy.last_trade_price), bufferSize + 20),
                 diffRatio: Math.round(max / min * 100),
                 daysInLow: (() => {
 

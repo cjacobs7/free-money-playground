@@ -66,7 +66,7 @@ const additionalCronConfig = [
     },
     {
         name: 'sell all if older than a day',
-        run: [2, 165],
+        run: [97],
         fn: sellAllOlderThanOneDay
     }
 ];

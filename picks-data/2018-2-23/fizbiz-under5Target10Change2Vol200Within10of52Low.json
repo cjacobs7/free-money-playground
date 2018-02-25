@@ -1,0 +1,40 @@
+{
+  "2": [],
+  "12": [],
+  "120": [
+    {
+      "ticker": "GSAT",
+      "price": 0.9125
+    },
+    {
+      "ticker": "OPK",
+      "price": 3.705
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.27
+    }
+  ],
+  "180": [
+    {
+      "ticker": "EPE",
+      "price": 1.66
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.9
+    },
+    {
+      "ticker": "OPK",
+      "price": 3.705
+    },
+    {
+      "ticker": "ODP",
+      "price": 3.12
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.235
+    }
+  ]
+}

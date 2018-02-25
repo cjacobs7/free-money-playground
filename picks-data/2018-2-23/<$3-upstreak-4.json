@@ -1,0 +1,50 @@
+{
+  "45": [
+    {
+      "ticker": "EBIO",
+      "price": 0.96
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.44
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.5241
+    },
+    {
+      "ticker": "OREX",
+      "price": 1.2514
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.88
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.266
+    }
+  ],
+  "189": [
+    {
+      "ticker": "TNDM",
+      "price": 2.919
+    },
+    {
+      "ticker": "EBIO",
+      "price": 0.92
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.4801
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.5018
+    },
+    {
+      "ticker": "OREX",
+      "price": 1.2014
+    }
+  ]
+}

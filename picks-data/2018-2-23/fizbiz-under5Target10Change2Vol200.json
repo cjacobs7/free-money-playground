@@ -1,0 +1,64 @@
+{
+  "2": [],
+  "12": [],
+  "120": [
+    {
+      "ticker": "WFT",
+      "price": 3.03
+    },
+    {
+      "ticker": "BTG",
+      "price": 3.015
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.9125
+    },
+    {
+      "ticker": "OPK",
+      "price": 3.7
+    },
+    {
+      "ticker": "FRO",
+      "price": 4.24
+    },
+    {
+      "ticker": "JMEI",
+      "price": 2.985
+    },
+    {
+      "ticker": "TNK",
+      "price": 1.25
+    },
+    {
+      "ticker": "PLUG",
+      "price": 1.935
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.27
+    }
+  ],
+  "180": [
+    {
+      "ticker": "WFT",
+      "price": 3.06
+    },
+    {
+      "ticker": "PLUG",
+      "price": 1.9501
+    },
+    {
+      "ticker": "EPE",
+      "price": 1.67
+    },
+    {
+      "ticker": "BTG",
+      "price": 3.035
+    },
+    {
+      "ticker": "FRO",
+      "price": 4.29
+    }
+  ]
+}

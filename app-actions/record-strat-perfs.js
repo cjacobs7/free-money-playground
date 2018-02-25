@@ -58,6 +58,7 @@ const analyzeDay = async (Robinhood, day) => {
     // calc trend and avg for each strategy-min
     const withTrend = [];
     Object.keys(strategyPicks).forEach(stratMin => {
+        // console.log('handling', stratMin);
         const picks = strategyPicks[stratMin]
             .filter(({ticker}) => filterByTradeable([ticker]).length);
         const picksWithTrend = picks.map(({ticker, price}) => ({
@@ -72,7 +73,7 @@ const analyzeDay = async (Robinhood, day) => {
             picks: picksWithTrend.map(t => t.ticker).join(', ')
         });
     });
-    // console.log(withTrend);
+    // console.log(JSON.stringify(withTrend, null, 2));
 
     const sortedByAvgTrend = withTrend
         .filter(trend => trend.avgTrend)

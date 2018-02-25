@@ -1,0 +1,46 @@
+{
+  "193": [
+    {
+      "ticker": "CAPR",
+      "price": 1.79
+    },
+    {
+      "ticker": "LBCC",
+      "price": 2.97
+    },
+    {
+      "ticker": "INSE",
+      "price": 5.45
+    },
+    {
+      "ticker": "HTBX",
+      "price": 2.62
+    },
+    {
+      "ticker": "RMGN",
+      "price": 0.8325
+    }
+  ],
+  "253": [
+    {
+      "ticker": "CAPR",
+      "price": 1.78
+    },
+    {
+      "ticker": "INSE",
+      "price": 5.45
+    },
+    {
+      "ticker": "HTBX",
+      "price": 2.68
+    },
+    {
+      "ticker": "RMGN",
+      "price": 0.8344
+    },
+    {
+      "ticker": "LBCC",
+      "price": 3.02
+    }
+  ]
+}

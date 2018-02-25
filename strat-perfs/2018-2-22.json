@@ -1,0 +1,4594 @@
+{
+  "next-day-9": [
+    {
+      "strategyName": "before-close-first3-381",
+      "avgTrend": 10.094999999999999,
+      "picks": "AHPI, CKPT"
+    },
+    {
+      "strategyName": "before-close-first3-351",
+      "avgTrend": 10.094999999999999,
+      "picks": "AHPI, CKPT"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-180",
+      "avgTrend": 8.793333333333335,
+      "picks": "ADXS, GEN, ADMP"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-75",
+      "avgTrend": 6.73,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "before-close-351",
+      "avgTrend": 6.7299999999999995,
+      "picks": "AHPI, CKPT, CTIB"
+    },
+    {
+      "strategyName": "before-close-381",
+      "avgTrend": 6.7299999999999995,
+      "picks": "AHPI, CKPT, CTIB"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-180",
+      "avgTrend": 5.49,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-380",
+      "avgTrend": 5.28,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-first3-189",
+      "avgTrend": 5.223333333333334,
+      "picks": "GEN, AHPI, AKER"
+    },
+    {
+      "strategyName": "first-greens-first3-190",
+      "avgTrend": 5.140000000000001,
+      "picks": "TIK, MYSZ, GLMD"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-7",
+      "avgTrend": 4.98,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "first-greens-first3-250",
+      "avgTrend": 4.86,
+      "picks": "TIK, MYSZ, GLMD"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-189",
+      "avgTrend": 4.71,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-single-189",
+      "avgTrend": 4.71,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-single-189",
+      "avgTrend": 4.69,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-380",
+      "avgTrend": 4.06,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-180",
+      "avgTrend": 3.626666666666667,
+      "picks": "CHK, SN, MNKD"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-75",
+      "avgTrend": 3.5966666666666662,
+      "picks": "CHK, TOO, SWN"
+    },
+    {
+      "strategyName": "before-close-up-single-380",
+      "avgTrend": 3.55,
+      "picks": "BDR"
+    },
+    {
+      "strategyName": "before-close-up-single-350",
+      "avgTrend": 3.55,
+      "picks": "BDR"
+    },
+    {
+      "strategyName": "based-on-jump-first3-5",
+      "avgTrend": 3.42,
+      "picks": "TNDM, GNCA"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-189",
+      "avgTrend": 3.3333333333333335,
+      "picks": "GEN, AHPI, AKER, IMUC, EBIO, HOV"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-45",
+      "avgTrend": 3.03,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-single-45",
+      "avgTrend": 3.03,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-180",
+      "avgTrend": 2.99,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-first3-189",
+      "avgTrend": 2.6300000000000003,
+      "picks": "PEIX, AGEN, LLIT"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-35",
+      "avgTrend": 2.57,
+      "picks": "SYN"
+    },
+    {
+      "strategyName": "first-greens-250",
+      "avgTrend": 2.5344444444444445,
+      "picks": "TIK, MYSZ, GLMD, BSPM, MARK, SRAX, SINO, CLD, MNGA"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-single-196",
+      "avgTrend": 2.5,
+      "picks": "LTS"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-180",
+      "avgTrend": 2.3913333333333333,
+      "picks": "ADXS, GEN, ADMP, WIN, USAU, OSG, TGB, COGT, ANW, CSLT, APRI, SBGL, OHGI, ELGX, CLIR"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-single-189",
+      "avgTrend": 2.18,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-189",
+      "avgTrend": 2.18,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-189",
+      "avgTrend": 2.1750000000000003,
+      "picks": "PEIX, AGEN, LLIT, IPI"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-380",
+      "avgTrend": 2.1066666666666665,
+      "picks": "CHK, TOO, MNKD"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-380",
+      "avgTrend": 2.0866666666666664,
+      "picks": "ADXS, GEN, ONTX"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-120",
+      "avgTrend": 2,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-first3-45",
+      "avgTrend": 1.92,
+      "picks": "PEIX, AGEN, LLIT"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-first3-196",
+      "avgTrend": 1.8933333333333333,
+      "picks": "LTS, PME, MEET"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-120",
+      "avgTrend": 1.88,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "first-greens-190",
+      "avgTrend": 1.8200000000000003,
+      "picks": "TIK, MYSZ, GLMD, BSPM, MARK, SRAX, SINO, CLD, MNGA"
+    },
+    {
+      "strategyName": "based-on-jump-first3-16",
+      "avgTrend": 1.775,
+      "picks": "TNDM, GNCA"
+    },
+    {
+      "strategyName": "swings-first3-253",
+      "avgTrend": 1.76,
+      "picks": "INSE, RMGN"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-380",
+      "avgTrend": 1.69,
+      "picks": "SN"
+    },
+    {
+      "strategyName": "before-close-up-first3-350",
+      "avgTrend": 1.68,
+      "picks": "BDR, UQM, RGLS"
+    },
+    {
+      "strategyName": "before-close-up-first3-380",
+      "avgTrend": 1.68,
+      "picks": "BDR, UQM, RGLS"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-180",
+      "avgTrend": 1.6786666666666668,
+      "picks": "CHK, SN, MNKD, NE, BKS, SWN, TOO, WFT, UPL, OBE, CIG, ACTA, BTE, AXAS, FRO"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-120",
+      "avgTrend": 1.6633333333333333,
+      "picks": "CHK, DNR, SWN"
+    },
+    {
+      "strategyName": "swings-193",
+      "avgTrend": 1.6258823529411761,
+      "picks": "INSE, RMGN, MBVX, HUSA, DCIX, BLDP, CLIR, CAPR, HTBX, ROSE, AZRX, MUX, CALI, TNTR, BOXL, OSN, CCCL"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-45",
+      "avgTrend": 1.6099999999999999,
+      "picks": "PEIX, AGEN, LLIT, IPI"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-single-73",
+      "avgTrend": 1.55,
+      "picks": "LTS"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-380",
+      "avgTrend": 1.4966666666666668,
+      "picks": "SN, SWN, UPL"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-single-196",
+      "avgTrend": 1.49,
+      "picks": "CNET"
+    },
+    {
+      "strategyName": "swings-first3-193",
+      "avgTrend": 1.475,
+      "picks": "INSE, RMGN"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-380",
+      "avgTrend": 1.41,
+      "picks": "ADXS, GEN, ONTX, WIN, TGB, EFOI, MNGA, ADMP, APRI, OSG, COGT, AMDA, AMPE, CSLT, USAU"
+    },
+    {
+      "strategyName": "swings-253",
+      "avgTrend": 1.3675,
+      "picks": "INSE, RMGN, MBVX, HTBX, HUSA, DCIX, BLDP, CLIR, ROSE, AZRX, MUX, CALI, TNTR, BOXL, OSN, CCCL"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-10",
+      "avgTrend": 1.32,
+      "picks": "TGB"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-180",
+      "avgTrend": 1.2833333333333334,
+      "picks": "SN, BKS, SWN"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-60",
+      "avgTrend": 1.26,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-196",
+      "avgTrend": 1.2420000000000002,
+      "picks": "CNET, ARLZ, HTGM, PYDS, ANY, ABAC, NXTD, NH, PME, AMPE, CUR, PES, MNKD, MOSY, APHB"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-380",
+      "avgTrend": 1.218666666666667,
+      "picks": "CHK, TOO, MNKD, NE, SN, SWN, UPL, WFT, BKS, ACTA, BTE, AXAS, CERS, CIG, BIOS"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-single-45",
+      "avgTrend": 1.18,
+      "picks": "PEIX"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-45",
+      "avgTrend": 1.153333333333334,
+      "picks": "GEN, AHPI, AKER, IMUC, EBIO, HOV"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-first3-196",
+      "avgTrend": 1.1533333333333335,
+      "picks": "CNET, ARLZ, HTGM"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-380",
+      "avgTrend": 1.1083333333333334,
+      "picks": "SN, SWN, UPL, BKS, BTE, AXAS"
+    },
+    {
+      "strategyName": "pattern-predict-top-recommendations-single-3",
+      "avgTrend": 1.01,
+      "picks": "VLRX"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-180",
+      "avgTrend": 1,
+      "picks": "SN"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-189",
+      "avgTrend": 0.9762500000000001,
+      "picks": "KTOV, CHEK, JMEI, EBIO, GEN, LRAD, GURE, HOV, PTN, IMI, AKER, EGY, OREX, SYN, AHPI, IMUC"
+    },
+    {
+      "strategyName": "pattern-predict-somewhat-recommended-single-3",
+      "avgTrend": 0.96,
+      "picks": "CPG"
+    },
+    {
+      "strategyName": "daytime-200",
+      "avgTrend": 0.9349999999999999,
+      "picks": "GEN, APPS, SALM, OZM, CFRX, FCRE, OESX, TNAV, PULM, JVA"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-180",
+      "avgTrend": 0.9137500000000001,
+      "picks": "SN, BKS, SWN, UPL, BTE, AXAS, FRO, STNG"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-73",
+      "avgTrend": 0.9086666666666668,
+      "picks": "CNET, ARLZ, HTGM, PYDS, ANY, ABAC, NXTD, NH, PME, AMPE, CUR, PES, MNKD, MOSY, APHB"
+    },
+    {
+      "strategyName": "daytime-first3-200",
+      "avgTrend": 0.8566666666666666,
+      "picks": "GEN, APPS, SALM"
+    },
+    {
+      "strategyName": "before-close-up-380",
+      "avgTrend": 0.789,
+      "picks": "BDR, UQM, RGLS, ASM, APHB, WRN, PDLI, ARCI, STRM, CIDM"
+    },
+    {
+      "strategyName": "before-close-up-350",
+      "avgTrend": 0.789,
+      "picks": "BDR, UQM, RGLS, ASM, APHB, WRN, PDLI, ARCI, STRM, CIDM"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-first3-45",
+      "avgTrend": 0.77,
+      "picks": "KTOV"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-223",
+      "avgTrend": 0.7333333333333331,
+      "picks": "GEN, SYN, IVTY"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-75",
+      "avgTrend": 0.7000000000000001,
+      "picks": "ADXS, TGB, INPX"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-263",
+      "avgTrend": 0.7,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "pattern-predict-not-recommended-3",
+      "avgTrend": 0.6776923076923076,
+      "picks": "UNFI, BAC, TM, NFLX, XPO, CIG, SIRI, OSUR, OPNT, ORCL, INSY, UONE, VRX, ACH, SFIX, MSFT, SID, AET, BABA, GPRO, CHK, SNAP, TSN, NSPR, NMM, RGSE"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-120",
+      "avgTrend": 0.64,
+      "picks": "CHK, DNR, SWN, SN, WFT, TOO, NE, MNKD, OPK, ECR, NAT, BTE, FRO, UPL, BKS"
+    },
+    {
+      "strategyName": "pattern-predict-not-recommended-single-3",
+      "avgTrend": 0.61,
+      "picks": "UNFI"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-single-189",
+      "avgTrend": 0.58,
+      "picks": "PEIX"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-75",
+      "avgTrend": 0.46666666666666673,
+      "picks": "SWN, SN, OPK"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-196",
+      "avgTrend": 0.44933333333333325,
+      "picks": "LTS, PME, MEET, SAUC, ABAC, ARLZ, CLWT, BSPM, VICL, FWP, HSGX, RIGL, MDWD, AMPE, BPTH"
+    },
+    {
+      "strategyName": "big-day-trend-up-223",
+      "avgTrend": 0.38999999999999985,
+      "picks": "GEN, SYN, IVTY, SGBX, CPSS"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-first3-13",
+      "avgTrend": 0.37333333333333324,
+      "picks": "CNET, ARLZ, HTGM"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-189",
+      "avgTrend": 0.3614285714285715,
+      "picks": "CLDX, DYSL, CGNT, RAVE, ONTX, IDN, SDRL"
+    },
+    {
+      "strategyName": "pattern-predict-not-recommended-first3-3",
+      "avgTrend": 0.35333333333333333,
+      "picks": "UNFI, BAC, TM"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-13",
+      "avgTrend": 0.30599999999999994,
+      "picks": "CNET, ARLZ, HTGM, PYDS, ANY, ABAC, NXTD, NH, PME, AMPE, CUR, PES, MNKD, MOSY, APHB"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-75",
+      "avgTrend": 0.26,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "pattern-predict-top-recommendations-first3-3",
+      "avgTrend": 0.22666666666666666,
+      "picks": "VLRX, FB, SBUX"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-75",
+      "avgTrend": 0.1588888888888889,
+      "picks": "SWN, SN, OPK, ESV, NGD, FMSA, STNG, EGO, UPL"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-75",
+      "avgTrend": 0.15466666666666656,
+      "picks": "CHK, TOO, SWN, SN, NAT, WFT, OPK, TAHO, ESV, NGD, NE, FMSA, STNG, MUX, EGO"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-first3-73",
+      "avgTrend": 0.10333333333333335,
+      "picks": "LTS, PME, MEET"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-single-13",
+      "avgTrend": 0.09,
+      "picks": "LTS"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-first3-13",
+      "avgTrend": 0.05666666666666657,
+      "picks": "LTS, PME, MEET"
+    },
+    {
+      "strategyName": "stockinvest-top100-263",
+      "avgTrend": 0.04249999999999998,
+      "picks": "AMRS, LGCY, GEN, MTBC"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-120",
+      "avgTrend": -0.006666666666666643,
+      "picks": "ADXS, GEN, TGB, SBGL, CSLT, INPX, P, AGI, DCIX, APRI, EFOI, ELGX, JAKK, NEPT, ADMP"
+    },
+    {
+      "strategyName": "pattern-predict-top-recommendations-3",
+      "avgTrend": -0.03916666666666677,
+      "picks": "VLRX, FB, SBUX, MULE, SAGE, DE, TWTR, AAPL, CATB, DIS, AA, GM"
+    },
+    {
+      "strategyName": "daytime-single-200",
+      "avgTrend": -0.04,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-120",
+      "avgTrend": -0.14,
+      "picks": "SN"
+    },
+    {
+      "strategyName": "daytime-260",
+      "avgTrend": -0.15555555555555556,
+      "picks": "GEN, APPS, OZM, SALM, IDSA, FCRE, CFRX, TNAV, PULM"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-13",
+      "avgTrend": -0.19666666666666674,
+      "picks": "LTS, PME, MEET, SAUC, ABAC, ARLZ, CLWT, VICL, BSPM, FWP, HSGX, MDWD, RIGL, TXMD, AMPE"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-75",
+      "avgTrend": -0.21454545454545465,
+      "picks": "ADXS, TGB, INPX, P, SBGL, ADMP, APRI, ELGX, JAKK, COGT, CSLT"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-73",
+      "avgTrend": -0.22266666666666662,
+      "picks": "LTS, PME, MEET, SAUC, ABAC, CLWT, ARLZ, BSPM, VICL, FWP, HSGX, MDWD, RIGL, AMPE, OCN"
+    },
+    {
+      "strategyName": "big-day-trend-up-90",
+      "avgTrend": -0.298,
+      "picks": "GEN, SMED, TGB, VTNR, VSLR"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-first3-189",
+      "avgTrend": -0.33666666666666667,
+      "picks": "CLDX, DYSL, CGNT"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-first3-73",
+      "avgTrend": -0.39333333333333326,
+      "picks": "CNET, ARLZ, HTGM"
+    },
+    {
+      "strategyName": "pattern-predict-somewhat-recommended-3",
+      "avgTrend": -0.4052631578947368,
+      "picks": "CPG, GWPH, HALO, INAP, IGT, AMC, LUK, DXJ, NRG, UGAZ, PFSI, ERF, SWN, IAC, SWN, BBG, GE, DRYS, NEOS"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-120",
+      "avgTrend": -0.62,
+      "picks": "ADXS, GEN, TGB"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-123",
+      "avgTrend": -0.65,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "daytime-first3-260",
+      "avgTrend": -0.6733333333333333,
+      "picks": "GEN, APPS, OZM"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-first3-45",
+      "avgTrend": -0.7066666666666661,
+      "picks": "GEN, AHPI, AKER"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-120",
+      "avgTrend": -0.7766666666666667,
+      "picks": "SN, OPK, ECR"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-263",
+      "avgTrend": -0.8033333333333333,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-123",
+      "avgTrend": -0.89,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "swings-single-193",
+      "avgTrend": -0.9,
+      "picks": "INSE"
+    },
+    {
+      "strategyName": "week-swings-273",
+      "avgTrend": -0.98,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "week-swings-single-273",
+      "avgTrend": -0.98,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-120",
+      "avgTrend": -0.9850000000000001,
+      "picks": "SN, OPK, ECR, UPL, BKS, AXAS, FMSA, EGO, STNG, NGD"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-90",
+      "avgTrend": -1.09,
+      "picks": "GEN, SMED, TGB"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-2",
+      "avgTrend": -1.1433333333333335,
+      "picks": "ANW, INPX, MBVX"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-45",
+      "avgTrend": -1.2452941176470582,
+      "picks": "KTOV, CHEK, JMEI, LGCY, EBIO, GEN, LRAD, GURE, HOV, PTN, IMI, AKER, EGY, OREX, SYN, AHPI, IMUC"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-first3-45",
+      "avgTrend": -1.29,
+      "picks": "CLDX, DYSL, CGNT"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-first3-189",
+      "avgTrend": -1.51,
+      "picks": "KTOV"
+    },
+    {
+      "strategyName": "stockinvest-top100-123",
+      "avgTrend": -1.5599999999999998,
+      "picks": "AMRS, LGCY, GEN, MTBC, APPS, BBRG"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-7",
+      "avgTrend": -1.7866666666666664,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-single-45",
+      "avgTrend": -1.86,
+      "picks": "CLDX"
+    },
+    {
+      "strategyName": "week-swings-single-169",
+      "avgTrend": -1.93,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "week-swings-169",
+      "avgTrend": -1.93,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-45",
+      "avgTrend": -1.98,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-single-45",
+      "avgTrend": -1.98,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-2",
+      "avgTrend": -2.0153333333333334,
+      "picks": "ANW, INPX, MBVX, GNMX, DCIX, DPW, SOFO, NAKD, ADMP, REED, FMSA, BSQR, P, HTBX, CUR"
+    },
+    {
+      "strategyName": "big-day-trend-up-35",
+      "avgTrend": -2.6060000000000003,
+      "picks": "SYN, GEN, VTNR, ZOM, CPSS"
+    },
+    {
+      "strategyName": "swings-single-253",
+      "avgTrend": -2.65,
+      "picks": "INSE"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-single-13",
+      "avgTrend": -2.78,
+      "picks": "CNET"
+    },
+    {
+      "strategyName": "stockinvest-top100-7",
+      "avgTrend": -2.986666666666667,
+      "picks": "AMRS, LGCY, GEN, MTBC, APPS, BBRG"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-45",
+      "avgTrend": -3.051428571428571,
+      "picks": "CLDX, DYSL, CGNT, RAVE, ONTX, IDN, SDRL"
+    },
+    {
+      "strategyName": "based-on-jump-5",
+      "avgTrend": -3.1879999999999997,
+      "picks": "TNDM, GNCA, AKER, XBIT, KONA, YANG, XENE, OESX, ANTH, GEN"
+    },
+    {
+      "strategyName": "big-day-trend-up-10",
+      "avgTrend": -3.2679999999999993,
+      "picks": "TGB, SYN, GEN, TNK, HOV"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-single-73",
+      "avgTrend": -3.4,
+      "picks": "CNET"
+    },
+    {
+      "strategyName": "pattern-predict-somewhat-recommended-first3-3",
+      "avgTrend": -3.5900000000000003,
+      "picks": "CPG, GWPH"
+    },
+    {
+      "strategyName": "daytime-single-260",
+      "avgTrend": -3.61,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-90",
+      "avgTrend": -3.61,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "based-on-jump-16",
+      "avgTrend": -3.7119999999999997,
+      "picks": "TNDM, GNCA, AKER, XBIT, KONA, YANG, XENE, OESX, ANTH, GEN"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-223",
+      "avgTrend": -4.37,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-2",
+      "avgTrend": -4.45,
+      "picks": "ANW"
+    },
+    {
+      "strategyName": "stockinvest-top100-60",
+      "avgTrend": -4.61,
+      "picks": "AMRS, LGCY, GEN, MTBC, APPS"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-35",
+      "avgTrend": -5.760000000000001,
+      "picks": "SYN, GEN, VTNR"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-60",
+      "avgTrend": -6.183333333333334,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-10",
+      "avgTrend": -6.473333333333333,
+      "picks": "TGB, SYN, GEN"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-single-45",
+      "avgTrend": -24.09,
+      "picks": "GEN"
+    }
+  ],
+  "next-day-85": [
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-180",
+      "avgTrend": 12.306666666666667,
+      "picks": "ADXS, GEN, ADMP"
+    },
+    {
+      "strategyName": "before-close-up-single-380",
+      "avgTrend": 8.52,
+      "picks": "BDR"
+    },
+    {
+      "strategyName": "before-close-up-single-350",
+      "avgTrend": 8.52,
+      "picks": "BDR"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-380",
+      "avgTrend": 5.56,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "first-greens-first3-190",
+      "avgTrend": 5.213333333333334,
+      "picks": "TIK, MYSZ, GLMD"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-single-189",
+      "avgTrend": 5.08,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-189",
+      "avgTrend": 5.08,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "before-close-first3-381",
+      "avgTrend": 5.04,
+      "picks": "AHPI, CKPT"
+    },
+    {
+      "strategyName": "before-close-first3-351",
+      "avgTrend": 5.04,
+      "picks": "AHPI, CKPT"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-10",
+      "avgTrend": 4.93,
+      "picks": "TGB"
+    },
+    {
+      "strategyName": "first-greens-first3-250",
+      "avgTrend": 4.91,
+      "picks": "TIK, MYSZ, GLMD"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-180",
+      "avgTrend": 3.9933333333333336,
+      "picks": "ADXS, GEN, ADMP, WIN, USAU, OSG, TGB, COGT, ANW, CSLT, APRI, SBGL, OHGI, ELGX, CLIR"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-single-45",
+      "avgTrend": 3.39,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-45",
+      "avgTrend": 3.39,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "before-close-351",
+      "avgTrend": 3.36,
+      "picks": "AHPI, CKPT, CTIB"
+    },
+    {
+      "strategyName": "before-close-381",
+      "avgTrend": 3.36,
+      "picks": "AHPI, CKPT, CTIB"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-180",
+      "avgTrend": 3.27,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "before-close-up-first3-350",
+      "avgTrend": 3.07,
+      "picks": "BDR, UQM, RGLS"
+    },
+    {
+      "strategyName": "before-close-up-first3-380",
+      "avgTrend": 3.07,
+      "picks": "BDR, UQM, RGLS"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-7",
+      "avgTrend": 2.84,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-380",
+      "avgTrend": 2.644,
+      "picks": "ADXS, GEN, ONTX, WIN, TGB, EFOI, MNGA, ADMP, APRI, OSG, COGT, AMDA, AMPE, CSLT, USAU"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-75",
+      "avgTrend": 2.53,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-75",
+      "avgTrend": 2.3866666666666667,
+      "picks": "ADXS, TGB, INPX"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-180",
+      "avgTrend": 2.36,
+      "picks": "CHK, SN, MNKD"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-first3-45",
+      "avgTrend": 2.24,
+      "picks": "KTOV"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-first3-196",
+      "avgTrend": 2.1733333333333333,
+      "picks": "LTS, PME, MEET"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-120",
+      "avgTrend": 2.16,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-75",
+      "avgTrend": 2.062727272727273,
+      "picks": "ADXS, TGB, INPX, P, SBGL, ADMP, APRI, ELGX, JAKK, COGT, CSLT"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-single-196",
+      "avgTrend": 2.03,
+      "picks": "LTS"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-75",
+      "avgTrend": 1.9866666666666664,
+      "picks": "CHK, TOO, SWN"
+    },
+    {
+      "strategyName": "swings-first3-253",
+      "avgTrend": 1.645,
+      "picks": "INSE, RMGN"
+    },
+    {
+      "strategyName": "based-on-jump-first3-5",
+      "avgTrend": 1.575,
+      "picks": "TNDM, GNCA"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-380",
+      "avgTrend": 1.5666666666666667,
+      "picks": "CHK, TOO, MNKD"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-180",
+      "avgTrend": 1.4860000000000004,
+      "picks": "CHK, SN, MNKD, NE, BKS, SWN, TOO, WFT, UPL, OBE, CIG, ACTA, BTE, AXAS, FRO"
+    },
+    {
+      "strategyName": "first-greens-250",
+      "avgTrend": 1.4633333333333336,
+      "picks": "TIK, MYSZ, GLMD, BSPM, MARK, SRAX, SINO, CLD, MNGA"
+    },
+    {
+      "strategyName": "pattern-predict-somewhat-recommended-single-3",
+      "avgTrend": 1.45,
+      "picks": "CPG"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-first3-189",
+      "avgTrend": 1.4100000000000001,
+      "picks": "PEIX, AGEN, LLIT"
+    },
+    {
+      "strategyName": "swings-first3-193",
+      "avgTrend": 1.4,
+      "picks": "INSE, RMGN"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-180",
+      "avgTrend": 1.34,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-189",
+      "avgTrend": 1.2525000000000002,
+      "picks": "PEIX, AGEN, LLIT, IPI"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-120",
+      "avgTrend": 1.1746666666666667,
+      "picks": "ADXS, GEN, TGB, SBGL, CSLT, INPX, P, AGI, DCIX, APRI, EFOI, ELGX, JAKK, NEPT, ADMP"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-single-73",
+      "avgTrend": 1.08,
+      "picks": "LTS"
+    },
+    {
+      "strategyName": "pattern-predict-top-recommendations-single-3",
+      "avgTrend": 1.01,
+      "picks": "VLRX"
+    },
+    {
+      "strategyName": "before-close-up-380",
+      "avgTrend": 0.9489999999999998,
+      "picks": "BDR, UQM, RGLS, ASM, APHB, WRN, PDLI, ARCI, STRM, CIDM"
+    },
+    {
+      "strategyName": "before-close-up-350",
+      "avgTrend": 0.9489999999999998,
+      "picks": "BDR, UQM, RGLS, ASM, APHB, WRN, PDLI, ARCI, STRM, CIDM"
+    },
+    {
+      "strategyName": "swings-single-193",
+      "avgTrend": 0.9,
+      "picks": "INSE"
+    },
+    {
+      "strategyName": "daytime-200",
+      "avgTrend": 0.874,
+      "picks": "GEN, APPS, SALM, OZM, CFRX, FCRE, OESX, TNAV, PULM, JVA"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-380",
+      "avgTrend": 0.85,
+      "picks": "SN"
+    },
+    {
+      "strategyName": "first-greens-190",
+      "avgTrend": 0.8055555555555554,
+      "picks": "TIK, MYSZ, GLMD, BSPM, MARK, SRAX, SINO, CLD, MNGA"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-380",
+      "avgTrend": 0.7266666666666667,
+      "picks": "CHK, TOO, MNKD, NE, SN, SWN, UPL, WFT, BKS, ACTA, BTE, AXAS, CERS, CIG, BIOS"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-first3-45",
+      "avgTrend": 0.6866666666666666,
+      "picks": "PEIX, AGEN, LLIT"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-45",
+      "avgTrend": 0.6775,
+      "picks": "PEIX, AGEN, LLIT, IPI"
+    },
+    {
+      "strategyName": "week-swings-single-273",
+      "avgTrend": 0.63,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "week-swings-273",
+      "avgTrend": 0.63,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-75",
+      "avgTrend": 0.53,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-180",
+      "avgTrend": 0.5033333333333333,
+      "picks": "SN, BKS, SWN"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-75",
+      "avgTrend": 0.38866666666666666,
+      "picks": "CHK, TOO, SWN, SN, NAT, WFT, OPK, TAHO, ESV, NGD, NE, FMSA, STNG, MUX, EGO"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-120",
+      "avgTrend": 0.38000000000000006,
+      "picks": "CHK, DNR, SWN, SN, WFT, TOO, NE, MNKD, OPK, ECR, NAT, BTE, FRO, UPL, BKS"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-first3-13",
+      "avgTrend": 0.37333333333333324,
+      "picks": "LTS, PME, MEET"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-189",
+      "avgTrend": 0.3716666666666666,
+      "picks": "GEN, AHPI, AKER, IMUC, EBIO, HOV"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-first3-73",
+      "avgTrend": 0.36666666666666653,
+      "picks": "LTS, PME, MEET"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-180",
+      "avgTrend": 0.355,
+      "picks": "SN, BKS, SWN, UPL, BTE, AXAS, FRO, STNG"
+    },
+    {
+      "strategyName": "pattern-predict-top-recommendations-3",
+      "avgTrend": 0.30583333333333346,
+      "picks": "VLRX, FB, SBUX, MULE, SAGE, DE, TWTR, AAPL, CATB, DIS, AA, GM"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-196",
+      "avgTrend": 0.25200000000000017,
+      "picks": "CNET, ARLZ, HTGM, PYDS, ANY, ABAC, NXTD, NH, PME, AMPE, CUR, PES, MNKD, MOSY, APHB"
+    },
+    {
+      "strategyName": "pattern-predict-top-recommendations-first3-3",
+      "avgTrend": 0.20333333333333345,
+      "picks": "VLRX, FB, SBUX"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-380",
+      "avgTrend": 0.17333333333333334,
+      "picks": "SN, SWN, UPL, BKS, BTE, AXAS"
+    },
+    {
+      "strategyName": "daytime-260",
+      "avgTrend": 0.17222222222222228,
+      "picks": "GEN, APPS, OZM, SALM, IDSA, FCRE, CFRX, TNAV, PULM"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-first3-189",
+      "avgTrend": 0.1633333333333331,
+      "picks": "GEN, AHPI, AKER"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-180",
+      "avgTrend": 0.16,
+      "picks": "SN"
+    },
+    {
+      "strategyName": "based-on-jump-first3-16",
+      "avgTrend": 0.030000000000000027,
+      "picks": "TNDM, GNCA"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-first3-189",
+      "avgTrend": 0.023333333333333303,
+      "picks": "CLDX, DYSL, CGNT"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-380",
+      "avgTrend": -0.03,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "pattern-predict-not-recommended-3",
+      "avgTrend": -0.06346153846153849,
+      "picks": "UNFI, BAC, TM, NFLX, XPO, CIG, SIRI, OSUR, OPNT, ORCL, INSY, UONE, VRX, ACH, SFIX, MSFT, SID, AET, BABA, GPRO, CHK, SNAP, TSN, NSPR, NMM, RGSE"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-first3-189",
+      "avgTrend": -0.08,
+      "picks": "KTOV"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-73",
+      "avgTrend": -0.09333333333333327,
+      "picks": "CNET, ARLZ, HTGM, PYDS, ANY, ABAC, NXTD, NH, PME, AMPE, CUR, PES, MNKD, MOSY, APHB"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-75",
+      "avgTrend": -0.12444444444444445,
+      "picks": "SWN, SN, OPK, ESV, NGD, FMSA, STNG, EGO, UPL"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-380",
+      "avgTrend": -0.13666666666666702,
+      "picks": "ADXS, GEN, ONTX"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-189",
+      "avgTrend": -0.1687499999999999,
+      "picks": "KTOV, CHEK, JMEI, EBIO, GEN, LRAD, GURE, HOV, PTN, IMI, AKER, EGY, OREX, SYN, AHPI, IMUC"
+    },
+    {
+      "strategyName": "pattern-predict-not-recommended-first3-3",
+      "avgTrend": -0.18666666666666662,
+      "picks": "UNFI, BAC, TM"
+    },
+    {
+      "strategyName": "week-swings-169",
+      "avgTrend": -0.34,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "week-swings-single-169",
+      "avgTrend": -0.34,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-single-13",
+      "avgTrend": -0.36,
+      "picks": "LTS"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-75",
+      "avgTrend": -0.48333333333333334,
+      "picks": "SWN, SN, OPK"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-189",
+      "avgTrend": -0.5342857142857144,
+      "picks": "CLDX, DYSL, CGNT, RAVE, ONTX, IDN, SDRL"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-120",
+      "avgTrend": -0.5433333333333333,
+      "picks": "CHK, DNR, SWN"
+    },
+    {
+      "strategyName": "swings-193",
+      "avgTrend": -0.5711764705882353,
+      "picks": "INSE, RMGN, MBVX, HUSA, DCIX, BLDP, CLIR, CAPR, HTBX, ROSE, AZRX, MUX, CALI, TNTR, BOXL, OSN, CCCL"
+    },
+    {
+      "strategyName": "big-day-trend-up-90",
+      "avgTrend": -0.6000000000000002,
+      "picks": "GEN, SMED, TGB, VTNR, VSLR"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-13",
+      "avgTrend": -0.6686666666666664,
+      "picks": "CNET, ARLZ, HTGM, PYDS, ANY, ABAC, NXTD, NH, PME, AMPE, CUR, PES, MNKD, MOSY, APHB"
+    },
+    {
+      "strategyName": "swings-253",
+      "avgTrend": -0.7631249999999999,
+      "picks": "INSE, RMGN, MBVX, HTBX, HUSA, DCIX, BLDP, CLIR, ROSE, AZRX, MUX, CALI, TNTR, BOXL, OSN, CCCL"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-380",
+      "avgTrend": -0.7766666666666667,
+      "picks": "SN, SWN, UPL"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-60",
+      "avgTrend": -0.81,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-196",
+      "avgTrend": -0.8133333333333332,
+      "picks": "LTS, PME, MEET, SAUC, ABAC, ARLZ, CLWT, BSPM, VICL, FWP, HSGX, RIGL, MDWD, AMPE, BPTH"
+    },
+    {
+      "strategyName": "daytime-first3-200",
+      "avgTrend": -0.8466666666666663,
+      "picks": "GEN, APPS, SALM"
+    },
+    {
+      "strategyName": "pattern-predict-somewhat-recommended-3",
+      "avgTrend": -0.8547368421052631,
+      "picks": "CPG, GWPH, HALO, INAP, IGT, AMC, LUK, DXJ, NRG, UGAZ, PFSI, ERF, SWN, IAC, SWN, BBG, GE, DRYS, NEOS"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-single-189",
+      "avgTrend": -0.86,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "swings-single-253",
+      "avgTrend": -0.88,
+      "picks": "INSE"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-first3-45",
+      "avgTrend": -0.92,
+      "picks": "CLDX, DYSL, CGNT"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-120",
+      "avgTrend": -0.97,
+      "picks": "SN"
+    },
+    {
+      "strategyName": "pattern-predict-not-recommended-single-3",
+      "avgTrend": -1,
+      "picks": "UNFI"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-120",
+      "avgTrend": -1.031,
+      "picks": "SN, OPK, ECR, UPL, BKS, AXAS, FMSA, EGO, STNG, NGD"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-120",
+      "avgTrend": -1.0466666666666662,
+      "picks": "ADXS, GEN, TGB"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-13",
+      "avgTrend": -1.2906666666666666,
+      "picks": "LTS, PME, MEET, SAUC, ABAC, ARLZ, CLWT, VICL, BSPM, FWP, HSGX, MDWD, RIGL, TXMD, AMPE"
+    },
+    {
+      "strategyName": "stockinvest-top100-263",
+      "avgTrend": -1.3075000000000003,
+      "picks": "AMRS, LGCY, GEN, MTBC"
+    },
+    {
+      "strategyName": "big-day-trend-up-223",
+      "avgTrend": -1.3479999999999996,
+      "picks": "GEN, SYN, IVTY, SGBX, CPSS"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-263",
+      "avgTrend": -1.36,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-single-189",
+      "avgTrend": -1.37,
+      "picks": "CLDX"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-first3-196",
+      "avgTrend": -1.38,
+      "picks": "CNET, ARLZ, HTGM"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-120",
+      "avgTrend": -1.42,
+      "picks": "SN, OPK, ECR"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-73",
+      "avgTrend": -1.436,
+      "picks": "LTS, PME, MEET, SAUC, ABAC, CLWT, ARLZ, BSPM, VICL, FWP, HSGX, MDWD, RIGL, AMPE, OCN"
+    },
+    {
+      "strategyName": "daytime-first3-260",
+      "avgTrend": -1.4533333333333334,
+      "picks": "GEN, APPS, OZM"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-2",
+      "avgTrend": -1.466,
+      "picks": "ANW, INPX, MBVX, GNMX, DCIX, DPW, SOFO, NAKD, ADMP, REED, FMSA, BSQR, P, HTBX, CUR"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-90",
+      "avgTrend": -1.5900000000000005,
+      "picks": "GEN, SMED, TGB"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-45",
+      "avgTrend": -1.6816666666666669,
+      "picks": "GEN, AHPI, AKER, IMUC, EBIO, HOV"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-75",
+      "avgTrend": -2,
+      "picks": "SWN"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-120",
+      "avgTrend": -2.01,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-45",
+      "avgTrend": -2.0582352941176474,
+      "picks": "KTOV, CHEK, JMEI, LGCY, EBIO, GEN, LRAD, GURE, HOV, PTN, IMI, AKER, EGY, OREX, SYN, AHPI, IMUC"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-2",
+      "avgTrend": -2.063333333333333,
+      "picks": "ANW, INPX, MBVX"
+    },
+    {
+      "strategyName": "stockinvest-top100-123",
+      "avgTrend": -2.0716666666666668,
+      "picks": "AMRS, LGCY, GEN, MTBC, APPS, BBRG"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-263",
+      "avgTrend": -2.0933333333333337,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-123",
+      "avgTrend": -2.18,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-first3-13",
+      "avgTrend": -2.183333333333333,
+      "picks": "CNET, ARLZ, HTGM"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-single-189",
+      "avgTrend": -2.33,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-189",
+      "avgTrend": -2.33,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-single-45",
+      "avgTrend": -2.35,
+      "picks": "PEIX"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-7",
+      "avgTrend": -2.53,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-123",
+      "avgTrend": -2.68,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-single-189",
+      "avgTrend": -2.92,
+      "picks": "PEIX"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-first3-73",
+      "avgTrend": -2.9299999999999997,
+      "picks": "CNET, ARLZ, HTGM"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-single-45",
+      "avgTrend": -3.2,
+      "picks": "CLDX"
+    },
+    {
+      "strategyName": "stockinvest-top100-7",
+      "avgTrend": -3.225,
+      "picks": "AMRS, LGCY, GEN, MTBC, APPS, BBRG"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-35",
+      "avgTrend": -3.73,
+      "picks": "SYN"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-45",
+      "avgTrend": -3.8957142857142855,
+      "picks": "CLDX, DYSL, CGNT, RAVE, ONTX, IDN, SDRL"
+    },
+    {
+      "strategyName": "big-day-trend-up-10",
+      "avgTrend": -4.118,
+      "picks": "TGB, SYN, GEN, TNK, HOV"
+    },
+    {
+      "strategyName": "pattern-predict-somewhat-recommended-first3-3",
+      "avgTrend": -4.155,
+      "picks": "CPG, GWPH"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-single-13",
+      "avgTrend": -4.21,
+      "picks": "CNET"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-223",
+      "avgTrend": -4.499999999999999,
+      "picks": "GEN, SYN, IVTY"
+    },
+    {
+      "strategyName": "big-day-trend-up-35",
+      "avgTrend": -4.6739999999999995,
+      "picks": "SYN, GEN, VTNR, ZOM, CPSS"
+    },
+    {
+      "strategyName": "based-on-jump-5",
+      "avgTrend": -4.712000000000001,
+      "picks": "TNDM, GNCA, AKER, XBIT, KONA, YANG, XENE, OESX, ANTH, GEN"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-single-73",
+      "avgTrend": -4.83,
+      "picks": "CNET"
+    },
+    {
+      "strategyName": "stockinvest-top100-60",
+      "avgTrend": -4.978,
+      "picks": "AMRS, LGCY, GEN, MTBC, APPS"
+    },
+    {
+      "strategyName": "based-on-jump-16",
+      "avgTrend": -5.212999999999999,
+      "picks": "TNDM, GNCA, AKER, XBIT, KONA, YANG, XENE, OESX, ANTH, GEN"
+    },
+    {
+      "strategyName": "daytime-single-200",
+      "avgTrend": -5.34,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-2",
+      "avgTrend": -5.38,
+      "picks": "ANW"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-first3-45",
+      "avgTrend": -5.473333333333334,
+      "picks": "GEN, AHPI, AKER"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-single-45",
+      "avgTrend": -6.31,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-45",
+      "avgTrend": -6.31,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-60",
+      "avgTrend": -7.073333333333333,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-90",
+      "avgTrend": -8.72,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "daytime-single-260",
+      "avgTrend": -8.72,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-10",
+      "avgTrend": -8.73,
+      "picks": "TGB, SYN, GEN"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-35",
+      "avgTrend": -9.203333333333331,
+      "picks": "SYN, GEN, VTNR"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-223",
+      "avgTrend": -9.44,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-single-45",
+      "avgTrend": -28.12,
+      "picks": "GEN"
+    }
+  ],
+  "next-day-155": [
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-180",
+      "avgTrend": 15.253333333333332,
+      "picks": "ADXS, GEN, ADMP"
+    },
+    {
+      "strategyName": "before-close-up-single-350",
+      "avgTrend": 6.82,
+      "picks": "BDR"
+    },
+    {
+      "strategyName": "before-close-up-single-380",
+      "avgTrend": 6.82,
+      "picks": "BDR"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-single-189",
+      "avgTrend": 5.68,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-189",
+      "avgTrend": 5.68,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "first-greens-first3-190",
+      "avgTrend": 5.670000000000001,
+      "picks": "TIK, MYSZ, GLMD"
+    },
+    {
+      "strategyName": "first-greens-first3-250",
+      "avgTrend": 5.346666666666668,
+      "picks": "TIK, MYSZ, GLMD"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-180",
+      "avgTrend": 4.775333333333333,
+      "picks": "ADXS, GEN, ADMP, WIN, USAU, OSG, TGB, COGT, ANW, CSLT, APRI, SBGL, OHGI, ELGX, CLIR"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-380",
+      "avgTrend": 4.388,
+      "picks": "ADXS, GEN, ONTX, WIN, TGB, EFOI, MNGA, ADMP, APRI, OSG, COGT, AMDA, AMPE, CSLT, USAU"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-single-45",
+      "avgTrend": 3.98,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-45",
+      "avgTrend": 3.98,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-380",
+      "avgTrend": 3.89,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-10",
+      "avgTrend": 3.43,
+      "picks": "TGB"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-7",
+      "avgTrend": 3.19,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "before-close-first3-381",
+      "avgTrend": 3.025,
+      "picks": "AHPI, CKPT"
+    },
+    {
+      "strategyName": "before-close-first3-351",
+      "avgTrend": 3.025,
+      "picks": "AHPI, CKPT"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-first3-196",
+      "avgTrend": 2.7133333333333334,
+      "picks": "LTS, PME, MEET"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-single-196",
+      "avgTrend": 2.66,
+      "picks": "LTS"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-first3-189",
+      "avgTrend": 2.603333333333333,
+      "picks": "PEIX, AGEN, LLIT"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-75",
+      "avgTrend": 2.57,
+      "picks": "ADXS, TGB, INPX, P, SBGL, ADMP, APRI, ELGX, JAKK, COGT, CSLT"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-180",
+      "avgTrend": 2.4186666666666667,
+      "picks": "CHK, SN, MNKD, NE, BKS, SWN, TOO, WFT, UPL, OBE, CIG, ACTA, BTE, AXAS, FRO"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-189",
+      "avgTrend": 2.3425,
+      "picks": "PEIX, AGEN, LLIT, IPI"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-first3-45",
+      "avgTrend": 2.32,
+      "picks": "KTOV"
+    },
+    {
+      "strategyName": "before-close-up-first3-380",
+      "avgTrend": 2.28,
+      "picks": "BDR, UQM, RGLS"
+    },
+    {
+      "strategyName": "before-close-up-first3-350",
+      "avgTrend": 2.28,
+      "picks": "BDR, UQM, RGLS"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-120",
+      "avgTrend": 2.2786666666666666,
+      "picks": "ADXS, GEN, TGB, SBGL, CSLT, INPX, P, AGI, DCIX, APRI, EFOI, ELGX, JAKK, NEPT, ADMP"
+    },
+    {
+      "strategyName": "pattern-predict-somewhat-recommended-single-3",
+      "avgTrend": 2.12,
+      "picks": "CPG"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-75",
+      "avgTrend": 2.08,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "before-close-381",
+      "avgTrend": 2.0166666666666666,
+      "picks": "AHPI, CKPT, CTIB"
+    },
+    {
+      "strategyName": "before-close-351",
+      "avgTrend": 2.0166666666666666,
+      "picks": "AHPI, CKPT, CTIB"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-first3-45",
+      "avgTrend": 1.8766666666666667,
+      "picks": "PEIX, AGEN, LLIT"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-75",
+      "avgTrend": 1.8533333333333335,
+      "picks": "CHK, TOO, SWN"
+    },
+    {
+      "strategyName": "first-greens-250",
+      "avgTrend": 1.844444444444445,
+      "picks": "TIK, MYSZ, GLMD, BSPM, MARK, SRAX, SINO, CLD, MNGA"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-45",
+      "avgTrend": 1.765,
+      "picks": "PEIX, AGEN, LLIT, IPI"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-single-73",
+      "avgTrend": 1.7,
+      "picks": "LTS"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-180",
+      "avgTrend": 1.64,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-380",
+      "avgTrend": 1.6013333333333335,
+      "picks": "CHK, TOO, MNKD, NE, SN, SWN, UPL, WFT, BKS, ACTA, BTE, AXAS, CERS, CIG, BIOS"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-single-196",
+      "avgTrend": 1.55,
+      "picks": "CNET"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-180",
+      "avgTrend": 1.3966666666666667,
+      "picks": "CHK, SN, MNKD"
+    },
+    {
+      "strategyName": "first-greens-190",
+      "avgTrend": 1.1833333333333331,
+      "picks": "TIK, MYSZ, GLMD, BSPM, MARK, SRAX, SINO, CLD, MNGA"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-196",
+      "avgTrend": 1.0446666666666666,
+      "picks": "CNET, ARLZ, HTGM, PYDS, ANY, ABAC, NXTD, NH, PME, AMPE, CUR, PES, MNKD, MOSY, APHB"
+    },
+    {
+      "strategyName": "pattern-predict-top-recommendations-single-3",
+      "avgTrend": 1.01,
+      "picks": "VLRX"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-380",
+      "avgTrend": 0.9833333333333334,
+      "picks": "CHK, TOO, MNKD"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-75",
+      "avgTrend": 0.9633333333333333,
+      "picks": "ADXS, TGB, INPX"
+    },
+    {
+      "strategyName": "week-swings-single-273",
+      "avgTrend": 0.96,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "week-swings-273",
+      "avgTrend": 0.96,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-first3-13",
+      "avgTrend": 0.9033333333333332,
+      "picks": "LTS, PME, MEET"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-180",
+      "avgTrend": 0.9025,
+      "picks": "SN, BKS, SWN, UPL, BTE, AXAS, FRO, STNG"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-180",
+      "avgTrend": 0.9,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-first3-73",
+      "avgTrend": 0.8933333333333332,
+      "picks": "LTS, PME, MEET"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-380",
+      "avgTrend": 0.8433333333333333,
+      "picks": "SN, SWN, UPL, BKS, BTE, AXAS"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-single-189",
+      "avgTrend": 0.84,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-73",
+      "avgTrend": 0.6973333333333332,
+      "picks": "CNET, ARLZ, HTGM, PYDS, ANY, ABAC, NXTD, NH, PME, AMPE, CUR, PES, MNKD, MOSY, APHB"
+    },
+    {
+      "strategyName": "daytime-200",
+      "avgTrend": 0.674,
+      "picks": "GEN, APPS, SALM, OZM, CFRX, FCRE, OESX, TNAV, PULM, JVA"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-380",
+      "avgTrend": 0.5933333333333333,
+      "picks": "ADXS, GEN, ONTX"
+    },
+    {
+      "strategyName": "pattern-predict-top-recommendations-first3-3",
+      "avgTrend": 0.5800000000000001,
+      "picks": "VLRX, FB, SBUX"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-120",
+      "avgTrend": 0.5593333333333331,
+      "picks": "CHK, DNR, SWN, SN, WFT, TOO, NE, MNKD, OPK, ECR, NAT, BTE, FRO, UPL, BKS"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-120",
+      "avgTrend": 0.54,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-75",
+      "avgTrend": 0.504,
+      "picks": "CHK, TOO, SWN, SN, NAT, WFT, OPK, TAHO, ESV, NGD, NE, FMSA, STNG, MUX, EGO"
+    },
+    {
+      "strategyName": "before-close-up-380",
+      "avgTrend": 0.356,
+      "picks": "BDR, UQM, RGLS, ASM, APHB, WRN, PDLI, ARCI, STRM, CIDM"
+    },
+    {
+      "strategyName": "before-close-up-350",
+      "avgTrend": 0.356,
+      "picks": "BDR, UQM, RGLS, ASM, APHB, WRN, PDLI, ARCI, STRM, CIDM"
+    },
+    {
+      "strategyName": "pattern-predict-not-recommended-3",
+      "avgTrend": 0.3403846153846154,
+      "picks": "UNFI, BAC, TM, NFLX, XPO, CIG, SIRI, OSUR, OPNT, ORCL, INSY, UONE, VRX, ACH, SFIX, MSFT, SID, AET, BABA, GPRO, CHK, SNAP, TSN, NSPR, NMM, RGSE"
+    },
+    {
+      "strategyName": "based-on-jump-first3-5",
+      "avgTrend": 0.33,
+      "picks": "TNDM, GNCA"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-180",
+      "avgTrend": 0.32,
+      "picks": "SN, BKS, SWN"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-380",
+      "avgTrend": 0.28,
+      "picks": "SN"
+    },
+    {
+      "strategyName": "pattern-predict-top-recommendations-3",
+      "avgTrend": 0.2708333333333333,
+      "picks": "VLRX, FB, SBUX, MULE, SAGE, DE, TWTR, AAPL, CATB, DIS, AA, GM"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-single-13",
+      "avgTrend": 0.25,
+      "picks": "LTS"
+    },
+    {
+      "strategyName": "pattern-predict-not-recommended-first3-3",
+      "avgTrend": 0.19666666666666663,
+      "picks": "UNFI, BAC, TM"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-13",
+      "avgTrend": 0.10599999999999979,
+      "picks": "CNET, ARLZ, HTGM, PYDS, ANY, ABAC, NXTD, NH, PME, AMPE, CUR, PES, MNKD, MOSY, APHB"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-189",
+      "avgTrend": 0.06571428571428574,
+      "picks": "CLDX, DYSL, CGNT, RAVE, ONTX, IDN, SDRL"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-first3-189",
+      "avgTrend": 0.06333333333333335,
+      "picks": "CLDX, DYSL, CGNT"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-75",
+      "avgTrend": 0.03888888888888885,
+      "picks": "SWN, SN, OPK, ESV, NGD, FMSA, STNG, EGO, UPL"
+    },
+    {
+      "strategyName": "week-swings-169",
+      "avgTrend": -0.01,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "week-swings-single-169",
+      "avgTrend": -0.01,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-196",
+      "avgTrend": -0.012666666666666633,
+      "picks": "LTS, PME, MEET, SAUC, ABAC, ARLZ, CLWT, BSPM, VICL, FWP, HSGX, RIGL, MDWD, AMPE, BPTH"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-first3-196",
+      "avgTrend": -0.023333333333333317,
+      "picks": "CNET, ARLZ, HTGM"
+    },
+    {
+      "strategyName": "pattern-predict-not-recommended-single-3",
+      "avgTrend": -0.14,
+      "picks": "UNFI"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-13",
+      "avgTrend": -0.1773333333333334,
+      "picks": "LTS, PME, MEET, SAUC, ABAC, ARLZ, CLWT, VICL, BSPM, FWP, HSGX, MDWD, RIGL, TXMD, AMPE"
+    },
+    {
+      "strategyName": "daytime-260",
+      "avgTrend": -0.2644444444444444,
+      "picks": "GEN, APPS, OZM, SALM, IDSA, FCRE, CFRX, TNAV, PULM"
+    },
+    {
+      "strategyName": "stockinvest-top100-263",
+      "avgTrend": -0.3575,
+      "picks": "AMRS, LGCY, GEN, MTBC"
+    },
+    {
+      "strategyName": "daytime-first3-200",
+      "avgTrend": -0.3800000000000001,
+      "picks": "GEN, APPS, SALM"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-73",
+      "avgTrend": -0.38666666666666655,
+      "picks": "LTS, PME, MEET, SAUC, ABAC, CLWT, ARLZ, BSPM, VICL, FWP, HSGX, MDWD, RIGL, AMPE, OCN"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-180",
+      "avgTrend": -0.4,
+      "picks": "SN"
+    },
+    {
+      "strategyName": "pattern-predict-somewhat-recommended-3",
+      "avgTrend": -0.4578947368421053,
+      "picks": "CPG, GWPH, HALO, INAP, IGT, AMC, LUK, DXJ, NRG, UGAZ, PFSI, ERF, SWN, IAC, SWN, BBG, GE, DRYS, NEOS"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-380",
+      "avgTrend": -0.47,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-60",
+      "avgTrend": -0.47,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-189",
+      "avgTrend": -0.5,
+      "picks": "GEN, AHPI, AKER, IMUC, EBIO, HOV"
+    },
+    {
+      "strategyName": "swings-193",
+      "avgTrend": -0.5758823529411764,
+      "picks": "INSE, RMGN, MBVX, HUSA, DCIX, BLDP, CLIR, CAPR, HTBX, ROSE, AZRX, MUX, CALI, TNTR, BOXL, OSN, CCCL"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-189",
+      "avgTrend": -0.5775,
+      "picks": "KTOV, CHEK, JMEI, EBIO, GEN, LRAD, GURE, HOV, PTN, IMI, AKER, EGY, OREX, SYN, AHPI, IMUC"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-single-189",
+      "avgTrend": -0.58,
+      "picks": "PEIX"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-380",
+      "avgTrend": -0.62,
+      "picks": "SN, SWN, UPL"
+    },
+    {
+      "strategyName": "swings-253",
+      "avgTrend": -0.664375,
+      "picks": "INSE, RMGN, MBVX, HTBX, HUSA, DCIX, BLDP, CLIR, ROSE, AZRX, MUX, CALI, TNTR, BOXL, OSN, CCCL"
+    },
+    {
+      "strategyName": "big-day-trend-up-90",
+      "avgTrend": -0.6880000000000001,
+      "picks": "GEN, SMED, TGB, VTNR, VSLR"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-120",
+      "avgTrend": -0.798,
+      "picks": "SN, OPK, ECR, UPL, BKS, AXAS, FMSA, EGO, STNG, NGD"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-first3-13",
+      "avgTrend": -0.8300000000000001,
+      "picks": "CNET, ARLZ, HTGM"
+    },
+    {
+      "strategyName": "daytime-first3-260",
+      "avgTrend": -0.8533333333333334,
+      "picks": "GEN, APPS, OZM"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-120",
+      "avgTrend": -0.8566666666666666,
+      "picks": "CHK, DNR, SWN"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-first3-45",
+      "avgTrend": -0.8866666666666667,
+      "picks": "CLDX, DYSL, CGNT"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-first3-189",
+      "avgTrend": -1.0066666666666666,
+      "picks": "GEN, AHPI, AKER"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-263",
+      "avgTrend": -1.02,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-75",
+      "avgTrend": -1.0266666666666666,
+      "picks": "SWN, SN, OPK"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-75",
+      "avgTrend": -1.05,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-263",
+      "avgTrend": -1.0766666666666667,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-2",
+      "avgTrend": -1.0986666666666665,
+      "picks": "ANW, INPX, MBVX, GNMX, DCIX, DPW, SOFO, NAKD, ADMP, REED, FMSA, BSQR, P, HTBX, CUR"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-123",
+      "avgTrend": -1.1566666666666667,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-189",
+      "avgTrend": -1.16,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-single-189",
+      "avgTrend": -1.16,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "based-on-jump-first3-16",
+      "avgTrend": -1.1800000000000002,
+      "picks": "TNDM, GNCA"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-single-189",
+      "avgTrend": -1.27,
+      "picks": "CLDX"
+    },
+    {
+      "strategyName": "big-day-trend-up-223",
+      "avgTrend": -1.438,
+      "picks": "GEN, SYN, IVTY, SGBX, CPSS"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-120",
+      "avgTrend": -1.53,
+      "picks": "SN"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-120",
+      "avgTrend": -1.5599999999999998,
+      "picks": "ADXS, GEN, TGB"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-7",
+      "avgTrend": -1.573333333333333,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "swings-first3-253",
+      "avgTrend": -1.585,
+      "picks": "INSE, RMGN"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-first3-73",
+      "avgTrend": -1.5866666666666667,
+      "picks": "CNET, ARLZ, HTGM"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-90",
+      "avgTrend": -1.7400000000000002,
+      "picks": "GEN, SMED, TGB"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-120",
+      "avgTrend": -1.7833333333333332,
+      "picks": "SN, OPK, ECR"
+    },
+    {
+      "strategyName": "swings-first3-193",
+      "avgTrend": -1.835,
+      "picks": "INSE, RMGN"
+    },
+    {
+      "strategyName": "stockinvest-top100-123",
+      "avgTrend": -1.92,
+      "picks": "AMRS, LGCY, GEN, MTBC, APPS, BBRG"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-123",
+      "avgTrend": -2.35,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-45",
+      "avgTrend": -2.4029411764705877,
+      "picks": "KTOV, CHEK, JMEI, LGCY, EBIO, GEN, LRAD, GURE, HOV, PTN, IMI, AKER, EGY, OREX, SYN, AHPI, IMUC"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-120",
+      "avgTrend": -2.44,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-75",
+      "avgTrend": -2.53,
+      "picks": "SWN"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-45",
+      "avgTrend": -2.6933333333333334,
+      "picks": "GEN, AHPI, AKER, IMUC, EBIO, HOV"
+    },
+    {
+      "strategyName": "swings-single-193",
+      "avgTrend": -2.7,
+      "picks": "INSE"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-single-13",
+      "avgTrend": -2.73,
+      "picks": "CNET"
+    },
+    {
+      "strategyName": "stockinvest-top100-7",
+      "avgTrend": -3.0999999999999996,
+      "picks": "AMRS, LGCY, GEN, MTBC, APPS, BBRG"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-single-45",
+      "avgTrend": -3.11,
+      "picks": "CLDX"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-45",
+      "avgTrend": -3.3314285714285714,
+      "picks": "CLDX, DYSL, CGNT, RAVE, ONTX, IDN, SDRL"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-single-73",
+      "avgTrend": -3.35,
+      "picks": "CNET"
+    },
+    {
+      "strategyName": "pattern-predict-somewhat-recommended-first3-3",
+      "avgTrend": -3.525,
+      "picks": "CPG, GWPH"
+    },
+    {
+      "strategyName": "daytime-single-200",
+      "avgTrend": -3.72,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-2",
+      "avgTrend": -3.83,
+      "picks": "ANW, INPX, MBVX"
+    },
+    {
+      "strategyName": "stockinvest-top100-60",
+      "avgTrend": -4.32,
+      "picks": "AMRS, LGCY, GEN, MTBC, APPS"
+    },
+    {
+      "strategyName": "swings-single-253",
+      "avgTrend": -4.42,
+      "picks": "INSE"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-223",
+      "avgTrend": -4.4799999999999995,
+      "picks": "GEN, SYN, IVTY"
+    },
+    {
+      "strategyName": "based-on-jump-5",
+      "avgTrend": -4.6259999999999994,
+      "picks": "TNDM, GNCA, AKER, XBIT, KONA, YANG, XENE, OESX, ANTH, GEN"
+    },
+    {
+      "strategyName": "big-day-trend-up-10",
+      "avgTrend": -4.692,
+      "picks": "TGB, SYN, GEN, TNK, HOV"
+    },
+    {
+      "strategyName": "big-day-trend-up-35",
+      "avgTrend": -4.811999999999999,
+      "picks": "SYN, GEN, VTNR, ZOM, CPSS"
+    },
+    {
+      "strategyName": "based-on-jump-16",
+      "avgTrend": -5.154000000000001,
+      "picks": "TNDM, GNCA, AKER, XBIT, KONA, YANG, XENE, OESX, ANTH, GEN"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-35",
+      "avgTrend": -5.17,
+      "picks": "SYN"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-45",
+      "avgTrend": -5.19,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-single-45",
+      "avgTrend": -5.19,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-60",
+      "avgTrend": -6.153333333333333,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-first3-45",
+      "avgTrend": -6.94,
+      "picks": "GEN, AHPI, AKER"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-90",
+      "avgTrend": -7.16,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "daytime-single-260",
+      "avgTrend": -7.16,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-223",
+      "avgTrend": -7.89,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-35",
+      "avgTrend": -9.269999999999998,
+      "picks": "SYN, GEN, VTNR"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-10",
+      "avgTrend": -9.323333333333332,
+      "picks": "TGB, SYN, GEN"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-2",
+      "avgTrend": -10.58,
+      "picks": "ANW"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-single-45",
+      "avgTrend": -26.89,
+      "picks": "GEN"
+    }
+  ],
+  "next-day-230": [
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-180",
+      "avgTrend": 15.883333333333333,
+      "picks": "ADXS, GEN, ADMP"
+    },
+    {
+      "strategyName": "before-close-up-single-350",
+      "avgTrend": 6.73,
+      "picks": "BDR"
+    },
+    {
+      "strategyName": "before-close-up-single-380",
+      "avgTrend": 6.73,
+      "picks": "BDR"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-180",
+      "avgTrend": 5.591999999999999,
+      "picks": "ADXS, GEN, ADMP, WIN, USAU, OSG, TGB, COGT, ANW, CSLT, APRI, SBGL, OHGI, ELGX, CLIR"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-189",
+      "avgTrend": 5.39,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-single-189",
+      "avgTrend": 5.39,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-380",
+      "avgTrend": 5.14,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-380",
+      "avgTrend": 4.765333333333333,
+      "picks": "ADXS, GEN, ONTX, WIN, TGB, EFOI, MNGA, ADMP, APRI, OSG, COGT, AMDA, AMPE, CSLT, USAU"
+    },
+    {
+      "strategyName": "before-close-first3-381",
+      "avgTrend": 4.265,
+      "picks": "AHPI, CKPT"
+    },
+    {
+      "strategyName": "before-close-first3-351",
+      "avgTrend": 4.265,
+      "picks": "AHPI, CKPT"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-10",
+      "avgTrend": 3.95,
+      "picks": "TGB"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-single-45",
+      "avgTrend": 3.69,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-45",
+      "avgTrend": 3.69,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "first-greens-first3-190",
+      "avgTrend": 3.5866666666666673,
+      "picks": "TIK, MYSZ, GLMD"
+    },
+    {
+      "strategyName": "first-greens-first3-250",
+      "avgTrend": 3.3333333333333335,
+      "picks": "TIK, MYSZ, GLMD"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-first3-189",
+      "avgTrend": 2.8800000000000003,
+      "picks": "PEIX, AGEN, LLIT"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-180",
+      "avgTrend": 2.86,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "before-close-381",
+      "avgTrend": 2.8433333333333333,
+      "picks": "AHPI, CKPT, CTIB"
+    },
+    {
+      "strategyName": "before-close-351",
+      "avgTrend": 2.8433333333333333,
+      "picks": "AHPI, CKPT, CTIB"
+    },
+    {
+      "strategyName": "before-close-up-first3-380",
+      "avgTrend": 2.7866666666666666,
+      "picks": "BDR, UQM, RGLS"
+    },
+    {
+      "strategyName": "before-close-up-first3-350",
+      "avgTrend": 2.7866666666666666,
+      "picks": "BDR, UQM, RGLS"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-75",
+      "avgTrend": 2.700909090909091,
+      "picks": "ADXS, TGB, INPX, P, SBGL, ADMP, APRI, ELGX, JAKK, COGT, CSLT"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-7",
+      "avgTrend": 2.66,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-first3-196",
+      "avgTrend": 2.64,
+      "picks": "LTS, PME, MEET"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-first3-45",
+      "avgTrend": 2.32,
+      "picks": "KTOV"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-189",
+      "avgTrend": 2.2675,
+      "picks": "PEIX, AGEN, LLIT, IPI"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-single-196",
+      "avgTrend": 2.19,
+      "picks": "LTS"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-first3-45",
+      "avgTrend": 2.1466666666666665,
+      "picks": "PEIX, AGEN, LLIT"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-120",
+      "avgTrend": 2.1386666666666665,
+      "picks": "ADXS, GEN, TGB, SBGL, CSLT, INPX, P, AGI, DCIX, APRI, EFOI, ELGX, JAKK, NEPT, ADMP"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-196",
+      "avgTrend": 2.0273333333333334,
+      "picks": "CNET, ARLZ, HTGM, PYDS, ANY, ABAC, NXTD, NH, PME, AMPE, CUR, PES, MNKD, MOSY, APHB"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-180",
+      "avgTrend": 2.0026666666666664,
+      "picks": "CHK, SN, MNKD, NE, BKS, SWN, TOO, WFT, UPL, OBE, CIG, ACTA, BTE, AXAS, FRO"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-120",
+      "avgTrend": 1.75,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-45",
+      "avgTrend": 1.6849999999999998,
+      "picks": "PEIX, AGEN, LLIT, IPI"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-73",
+      "avgTrend": 1.6553333333333335,
+      "picks": "CNET, ARLZ, HTGM, PYDS, ANY, ABAC, NXTD, NH, PME, AMPE, CUR, PES, MNKD, MOSY, APHB"
+    },
+    {
+      "strategyName": "first-greens-250",
+      "avgTrend": 1.608888888888889,
+      "picks": "TIK, MYSZ, GLMD, BSPM, MARK, SRAX, SINO, CLD, MNGA"
+    },
+    {
+      "strategyName": "pattern-predict-somewhat-recommended-single-3",
+      "avgTrend": 1.58,
+      "picks": "CPG"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-single-196",
+      "avgTrend": 1.55,
+      "picks": "CNET"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-first3-196",
+      "avgTrend": 1.43,
+      "picks": "CNET, ARLZ, HTGM"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-75",
+      "avgTrend": 1.3333333333333333,
+      "picks": "ADXS, TGB, INPX"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-single-189",
+      "avgTrend": 1.28,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-single-73",
+      "avgTrend": 1.24,
+      "picks": "LTS"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-380",
+      "avgTrend": 1.1033333333333333,
+      "picks": "CHK, TOO, MNKD, NE, SN, SWN, UPL, WFT, BKS, ACTA, BTE, AXAS, CERS, CIG, BIOS"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-13",
+      "avgTrend": 1.05,
+      "picks": "CNET, ARLZ, HTGM, PYDS, ANY, ABAC, NXTD, NH, PME, AMPE, CUR, PES, MNKD, MOSY, APHB"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-380",
+      "avgTrend": 0.9933333333333332,
+      "picks": "ADXS, GEN, ONTX"
+    },
+    {
+      "strategyName": "first-greens-190",
+      "avgTrend": 0.8966666666666667,
+      "picks": "TIK, MYSZ, GLMD, BSPM, MARK, SRAX, SINO, CLD, MNGA"
+    },
+    {
+      "strategyName": "before-close-up-380",
+      "avgTrend": 0.8669999999999998,
+      "picks": "BDR, UQM, RGLS, ASM, APHB, WRN, PDLI, ARCI, STRM, CIDM"
+    },
+    {
+      "strategyName": "before-close-up-350",
+      "avgTrend": 0.8669999999999998,
+      "picks": "BDR, UQM, RGLS, ASM, APHB, WRN, PDLI, ARCI, STRM, CIDM"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-first3-13",
+      "avgTrend": 0.84,
+      "picks": "LTS, PME, MEET"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-first3-73",
+      "avgTrend": 0.8233333333333333,
+      "picks": "LTS, PME, MEET"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-180",
+      "avgTrend": 0.80125,
+      "picks": "SN, BKS, SWN, UPL, BTE, AXAS, FRO, STNG"
+    },
+    {
+      "strategyName": "daytime-200",
+      "avgTrend": 0.6779999999999999,
+      "picks": "GEN, APPS, SALM, OZM, CFRX, FCRE, OESX, TNAV, PULM, JVA"
+    },
+    {
+      "strategyName": "pattern-predict-top-recommendations-single-3",
+      "avgTrend": 0.67,
+      "picks": "VLRX"
+    },
+    {
+      "strategyName": "pattern-predict-top-recommendations-first3-3",
+      "avgTrend": 0.64,
+      "picks": "VLRX, FB, SBUX"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-75",
+      "avgTrend": 0.5733333333333334,
+      "picks": "CHK, TOO, SWN"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-380",
+      "avgTrend": 0.5633333333333334,
+      "picks": "SN, SWN, UPL, BKS, BTE, AXAS"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-first3-13",
+      "avgTrend": 0.5499999999999999,
+      "picks": "CNET, ARLZ, HTGM"
+    },
+    {
+      "strategyName": "pattern-predict-top-recommendations-3",
+      "avgTrend": 0.36583333333333323,
+      "picks": "VLRX, FB, SBUX, MULE, SAGE, DE, TWTR, AAPL, CATB, DIS, AA, GM"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-first3-189",
+      "avgTrend": 0.26999999999999985,
+      "picks": "GEN, AHPI, AKER"
+    },
+    {
+      "strategyName": "pattern-predict-not-recommended-3",
+      "avgTrend": 0.2446153846153846,
+      "picks": "UNFI, BAC, TM, NFLX, XPO, CIG, SIRI, OSUR, OPNT, ORCL, INSY, UONE, VRX, ACH, SFIX, MSFT, SID, AET, BABA, GPRO, CHK, SNAP, TSN, NSPR, NMM, RGSE"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-first3-189",
+      "avgTrend": 0.18333333333333332,
+      "picks": "CLDX, DYSL, CGNT"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-75",
+      "avgTrend": 0.13,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-75",
+      "avgTrend": 0.12133333333333338,
+      "picks": "CHK, TOO, SWN, SN, NAT, WFT, OPK, TAHO, ESV, NGD, NE, FMSA, STNG, MUX, EGO"
+    },
+    {
+      "strategyName": "stockinvest-top100-263",
+      "avgTrend": 0.11499999999999999,
+      "picks": "AMRS, LGCY, GEN, MTBC"
+    },
+    {
+      "strategyName": "big-day-trend-up-90",
+      "avgTrend": 0.10999999999999996,
+      "picks": "GEN, SMED, TGB, VTNR, VSLR"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-120",
+      "avgTrend": 0.08666666666666666,
+      "picks": "CHK, DNR, SWN, SN, WFT, TOO, NE, MNKD, OPK, ECR, NAT, BTE, FRO, UPL, BKS"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-180",
+      "avgTrend": 0.07666666666666659,
+      "picks": "SN, BKS, SWN"
+    },
+    {
+      "strategyName": "pattern-predict-not-recommended-first3-3",
+      "avgTrend": 0.05333333333333338,
+      "picks": "UNFI, BAC, TM"
+    },
+    {
+      "strategyName": "week-swings-273",
+      "avgTrend": 0.03,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "week-swings-single-273",
+      "avgTrend": 0.03,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-189",
+      "avgTrend": -0.03666666666666677,
+      "picks": "GEN, AHPI, AKER, IMUC, EBIO, HOV"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-189",
+      "avgTrend": -0.05500000000000002,
+      "picks": "KTOV, CHEK, JMEI, EBIO, GEN, LRAD, GURE, HOV, PTN, IMI, AKER, EGY, OREX, SYN, AHPI, IMUC"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-180",
+      "avgTrend": -0.06000000000000005,
+      "picks": "CHK, SN, MNKD"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-196",
+      "avgTrend": -0.11800000000000004,
+      "picks": "LTS, PME, MEET, SAUC, ABAC, ARLZ, CLWT, BSPM, VICL, FWP, HSGX, RIGL, MDWD, AMPE, BPTH"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-75",
+      "avgTrend": -0.1211111111111112,
+      "picks": "SWN, SN, OPK, ESV, NGD, FMSA, STNG, EGO, UPL"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-380",
+      "avgTrend": -0.14666666666666664,
+      "picks": "CHK, TOO, MNKD"
+    },
+    {
+      "strategyName": "daytime-first3-200",
+      "avgTrend": -0.1633333333333332,
+      "picks": "GEN, APPS, SALM"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-189",
+      "avgTrend": -0.20428571428571432,
+      "picks": "CLDX, DYSL, CGNT, RAVE, ONTX, IDN, SDRL"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-first3-73",
+      "avgTrend": -0.2066666666666667,
+      "picks": "CNET, ARLZ, HTGM"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-single-13",
+      "avgTrend": -0.21,
+      "picks": "LTS"
+    },
+    {
+      "strategyName": "daytime-first3-260",
+      "avgTrend": -0.25666666666666665,
+      "picks": "GEN, APPS, OZM"
+    },
+    {
+      "strategyName": "pattern-predict-not-recommended-single-3",
+      "avgTrend": -0.26,
+      "picks": "UNFI"
+    },
+    {
+      "strategyName": "swings-193",
+      "avgTrend": -0.2888235294117646,
+      "picks": "INSE, RMGN, MBVX, HUSA, DCIX, BLDP, CLIR, CAPR, HTBX, ROSE, AZRX, MUX, CALI, TNTR, BOXL, OSN, CCCL"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-75",
+      "avgTrend": -0.32,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-13",
+      "avgTrend": -0.3546666666666667,
+      "picks": "LTS, PME, MEET, SAUC, ABAC, ARLZ, CLWT, VICL, BSPM, FWP, HSGX, MDWD, RIGL, TXMD, AMPE"
+    },
+    {
+      "strategyName": "swings-253",
+      "avgTrend": -0.400625,
+      "picks": "INSE, RMGN, MBVX, HTBX, HUSA, DCIX, BLDP, CLIR, ROSE, AZRX, MUX, CALI, TNTR, BOXL, OSN, CCCL"
+    },
+    {
+      "strategyName": "daytime-260",
+      "avgTrend": -0.4166666666666667,
+      "picks": "GEN, APPS, OZM, SALM, IDSA, FCRE, CFRX, TNAV, PULM"
+    },
+    {
+      "strategyName": "pattern-predict-somewhat-recommended-3",
+      "avgTrend": -0.45263157894736833,
+      "picks": "CPG, GWPH, HALO, INAP, IGT, AMC, LUK, DXJ, NRG, UGAZ, PFSI, ERF, SWN, IAC, SWN, BBG, GE, DRYS, NEOS"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-single-189",
+      "avgTrend": -0.58,
+      "picks": "PEIX"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-73",
+      "avgTrend": -0.5860000000000001,
+      "picks": "LTS, PME, MEET, SAUC, ABAC, CLWT, ARLZ, BSPM, VICL, FWP, HSGX, MDWD, RIGL, AMPE, OCN"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-120",
+      "avgTrend": -0.7160000000000001,
+      "picks": "SN, OPK, ECR, UPL, BKS, AXAS, FMSA, EGO, STNG, NGD"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-first3-45",
+      "avgTrend": -0.7666666666666666,
+      "picks": "CLDX, DYSL, CGNT"
+    },
+    {
+      "strategyName": "swings-first3-253",
+      "avgTrend": -0.8200000000000001,
+      "picks": "INSE, RMGN"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-120",
+      "avgTrend": -0.8466666666666666,
+      "picks": "ADXS, GEN, TGB"
+    },
+    {
+      "strategyName": "week-swings-single-169",
+      "avgTrend": -0.93,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "week-swings-169",
+      "avgTrend": -0.93,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-60",
+      "avgTrend": -0.98,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-2",
+      "avgTrend": -0.982,
+      "picks": "ANW, INPX, MBVX, GNMX, DCIX, DPW, SOFO, NAKD, ADMP, REED, FMSA, BSQR, P, HTBX, CUR"
+    },
+    {
+      "strategyName": "swings-first3-193",
+      "avgTrend": -1.085,
+      "picks": "INSE, RMGN"
+    },
+    {
+      "strategyName": "big-day-trend-up-223",
+      "avgTrend": -1.1,
+      "picks": "GEN, SYN, IVTY, SGBX, CPSS"
+    },
+    {
+      "strategyName": "based-on-jump-first3-5",
+      "avgTrend": -1.1749999999999998,
+      "picks": "TNDM, GNCA"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-263",
+      "avgTrend": -1.22,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-single-189",
+      "avgTrend": -1.27,
+      "picks": "CLDX"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-123",
+      "avgTrend": -1.2966666666666666,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "stockinvest-top100-123",
+      "avgTrend": -1.3549999999999998,
+      "picks": "AMRS, LGCY, GEN, MTBC, APPS, BBRG"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-380",
+      "avgTrend": -1.3733333333333333,
+      "picks": "SN, SWN, UPL"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-380",
+      "avgTrend": -1.41,
+      "picks": "SN"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-90",
+      "avgTrend": -1.4733333333333334,
+      "picks": "GEN, SMED, TGB"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-180",
+      "avgTrend": -1.48,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-263",
+      "avgTrend": -1.53,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-75",
+      "avgTrend": -1.7266666666666668,
+      "picks": "SWN, SN, OPK"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-7",
+      "avgTrend": -1.7699999999999996,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-45",
+      "avgTrend": -1.9358823529411762,
+      "picks": "KTOV, CHEK, JMEI, LGCY, EBIO, GEN, LRAD, GURE, HOV, PTN, IMI, AKER, EGY, OREX, SYN, AHPI, IMUC"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-180",
+      "avgTrend": -2.08,
+      "picks": "SN"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-45",
+      "avgTrend": -2.2016666666666667,
+      "picks": "GEN, AHPI, AKER, IMUC, EBIO, HOV"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-189",
+      "avgTrend": -2.25,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-single-189",
+      "avgTrend": -2.25,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-120",
+      "avgTrend": -2.27,
+      "picks": "CHK, DNR, SWN"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-120",
+      "avgTrend": -2.53,
+      "picks": "SN, OPK, ECR"
+    },
+    {
+      "strategyName": "stockinvest-top100-7",
+      "avgTrend": -2.5749999999999997,
+      "picks": "AMRS, LGCY, GEN, MTBC, APPS, BBRG"
+    },
+    {
+      "strategyName": "based-on-jump-first3-16",
+      "avgTrend": -2.62,
+      "picks": "TNDM, GNCA"
+    },
+    {
+      "strategyName": "swings-single-193",
+      "avgTrend": -2.7,
+      "picks": "INSE"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-single-13",
+      "avgTrend": -2.73,
+      "picks": "CNET"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-380",
+      "avgTrend": -2.81,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-123",
+      "avgTrend": -2.85,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-single-45",
+      "avgTrend": -3.11,
+      "picks": "CLDX"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-120",
+      "avgTrend": -3.19,
+      "picks": "SN"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-75",
+      "avgTrend": -3.19,
+      "picks": "SWN"
+    },
+    {
+      "strategyName": "daytime-single-200",
+      "avgTrend": -3.29,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-single-73",
+      "avgTrend": -3.35,
+      "picks": "CNET"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-45",
+      "avgTrend": -3.588571428571428,
+      "picks": "CLDX, DYSL, CGNT, RAVE, ONTX, IDN, SDRL"
+    },
+    {
+      "strategyName": "stockinvest-top100-60",
+      "avgTrend": -3.936,
+      "picks": "AMRS, LGCY, GEN, MTBC, APPS"
+    },
+    {
+      "strategyName": "big-day-trend-up-35",
+      "avgTrend": -4.101999999999999,
+      "picks": "SYN, GEN, VTNR, ZOM, CPSS"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-223",
+      "avgTrend": -4.16,
+      "picks": "GEN, SYN, IVTY"
+    },
+    {
+      "strategyName": "big-day-trend-up-10",
+      "avgTrend": -4.174,
+      "picks": "TGB, SYN, GEN, TNK, HOV"
+    },
+    {
+      "strategyName": "swings-single-253",
+      "avgTrend": -4.42,
+      "picks": "INSE"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-35",
+      "avgTrend": -4.5,
+      "picks": "SYN"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-2",
+      "avgTrend": -4.676666666666667,
+      "picks": "ANW, INPX, MBVX"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-120",
+      "avgTrend": -4.74,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "pattern-predict-somewhat-recommended-first3-3",
+      "avgTrend": -4.76,
+      "picks": "CPG, GWPH"
+    },
+    {
+      "strategyName": "based-on-jump-5",
+      "avgTrend": -5.054,
+      "picks": "TNDM, GNCA, AKER, XBIT, KONA, YANG, XENE, OESX, ANTH, GEN"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-first3-45",
+      "avgTrend": -5.566666666666666,
+      "picks": "GEN, AHPI, AKER"
+    },
+    {
+      "strategyName": "based-on-jump-16",
+      "avgTrend": -5.569,
+      "picks": "TNDM, GNCA, AKER, XBIT, KONA, YANG, XENE, OESX, ANTH, GEN"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-45",
+      "avgTrend": -6.24,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-single-45",
+      "avgTrend": -6.24,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-60",
+      "avgTrend": -6.326666666666665,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-90",
+      "avgTrend": -6.75,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "daytime-single-260",
+      "avgTrend": -6.75,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-223",
+      "avgTrend": -7.48,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-2",
+      "avgTrend": -8.16,
+      "picks": "ANW"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-35",
+      "avgTrend": -8.42,
+      "picks": "SYN, GEN, VTNR"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-10",
+      "avgTrend": -8.813333333333334,
+      "picks": "TGB, SYN, GEN"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-single-45",
+      "avgTrend": -26.56,
+      "picks": "GEN"
+    }
+  ],
+  "next-day-270": [
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-180",
+      "avgTrend": 15.896666666666667,
+      "picks": "ADXS, GEN, ADMP"
+    },
+    {
+      "strategyName": "before-close-up-single-350",
+      "avgTrend": 6.73,
+      "picks": "BDR"
+    },
+    {
+      "strategyName": "before-close-up-single-380",
+      "avgTrend": 6.73,
+      "picks": "BDR"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-189",
+      "avgTrend": 6.27,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-single-189",
+      "avgTrend": 6.27,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-180",
+      "avgTrend": 5.096000000000001,
+      "picks": "ADXS, GEN, ADMP, WIN, USAU, OSG, TGB, COGT, ANW, CSLT, APRI, SBGL, OHGI, ELGX, CLIR"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-380",
+      "avgTrend": 5,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "before-close-first3-351",
+      "avgTrend": 4.655,
+      "picks": "AHPI, CKPT"
+    },
+    {
+      "strategyName": "before-close-first3-381",
+      "avgTrend": 4.655,
+      "picks": "AHPI, CKPT"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-single-45",
+      "avgTrend": 4.56,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-45",
+      "avgTrend": 4.56,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-380",
+      "avgTrend": 4.502,
+      "picks": "ADXS, GEN, ONTX, WIN, TGB, EFOI, MNGA, ADMP, APRI, OSG, COGT, AMDA, AMPE, CSLT, USAU"
+    },
+    {
+      "strategyName": "first-greens-first3-190",
+      "avgTrend": 4.06,
+      "picks": "TIK, MYSZ, GLMD"
+    },
+    {
+      "strategyName": "first-greens-first3-250",
+      "avgTrend": 3.813333333333333,
+      "picks": "TIK, MYSZ, GLMD"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-single-189",
+      "avgTrend": 3.44,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-7",
+      "avgTrend": 3.37,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "before-close-up-first3-350",
+      "avgTrend": 3.1133333333333333,
+      "picks": "BDR, UQM, RGLS"
+    },
+    {
+      "strategyName": "before-close-up-first3-380",
+      "avgTrend": 3.1133333333333333,
+      "picks": "BDR, UQM, RGLS"
+    },
+    {
+      "strategyName": "before-close-381",
+      "avgTrend": 3.1033333333333335,
+      "picks": "AHPI, CKPT, CTIB"
+    },
+    {
+      "strategyName": "before-close-351",
+      "avgTrend": 3.1033333333333335,
+      "picks": "AHPI, CKPT, CTIB"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-first3-189",
+      "avgTrend": 3.0766666666666667,
+      "picks": "PEIX, AGEN, LLIT"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-10",
+      "avgTrend": 2.96,
+      "picks": "TGB"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-180",
+      "avgTrend": 2.72,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-first3-196",
+      "avgTrend": 2.7100000000000004,
+      "picks": "LTS, PME, MEET"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-first3-45",
+      "avgTrend": 2.3433333333333333,
+      "picks": "PEIX, AGEN, LLIT"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-single-196",
+      "avgTrend": 2.32,
+      "picks": "CNET"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-first3-45",
+      "avgTrend": 2.32,
+      "picks": "KTOV"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-189",
+      "avgTrend": 2.3075,
+      "picks": "PEIX, AGEN, LLIT, IPI"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-196",
+      "avgTrend": 2.277333333333333,
+      "picks": "CNET, ARLZ, HTGM, PYDS, ANY, ABAC, NXTD, NH, PME, AMPE, CUR, PES, MNKD, MOSY, APHB"
+    },
+    {
+      "strategyName": "first-greens-250",
+      "avgTrend": 2.251111111111111,
+      "picks": "TIK, MYSZ, GLMD, BSPM, MARK, SRAX, SINO, CLD, MNGA"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-first3-189",
+      "avgTrend": 2.2433333333333336,
+      "picks": "GEN, AHPI, AKER"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-75",
+      "avgTrend": 2.223636363636363,
+      "picks": "ADXS, TGB, INPX, P, SBGL, ADMP, APRI, ELGX, JAKK, COGT, CSLT"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-single-196",
+      "avgTrend": 2.21,
+      "picks": "LTS"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-180",
+      "avgTrend": 2.1486666666666667,
+      "picks": "CHK, SN, MNKD, NE, BKS, SWN, TOO, WFT, UPL, OBE, CIG, ACTA, BTE, AXAS, FRO"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-first3-196",
+      "avgTrend": 2.1366666666666667,
+      "picks": "CNET, ARLZ, HTGM"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-73",
+      "avgTrend": 1.9053333333333335,
+      "picks": "CNET, ARLZ, HTGM, PYDS, ANY, ABAC, NXTD, NH, PME, AMPE, CUR, PES, MNKD, MOSY, APHB"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-120",
+      "avgTrend": 1.8973333333333333,
+      "picks": "ADXS, GEN, TGB, SBGL, CSLT, INPX, P, AGI, DCIX, APRI, EFOI, ELGX, JAKK, NEPT, ADMP"
+    },
+    {
+      "strategyName": "pattern-predict-somewhat-recommended-single-3",
+      "avgTrend": 1.79,
+      "picks": "CPG"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-45",
+      "avgTrend": 1.7249999999999999,
+      "picks": "PEIX, AGEN, LLIT, IPI"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-120",
+      "avgTrend": 1.61,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "first-greens-190",
+      "avgTrend": 1.5466666666666664,
+      "picks": "TIK, MYSZ, GLMD, BSPM, MARK, SRAX, SINO, CLD, MNGA"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-380",
+      "avgTrend": 1.312,
+      "picks": "CHK, TOO, MNKD, NE, SN, SWN, UPL, WFT, BKS, ACTA, BTE, AXAS, CERS, CIG, BIOS"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-380",
+      "avgTrend": 1.3033333333333335,
+      "picks": "ADXS, GEN, ONTX"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-13",
+      "avgTrend": 1.2993333333333332,
+      "picks": "CNET, ARLZ, HTGM, PYDS, ANY, ABAC, NXTD, NH, PME, AMPE, CUR, PES, MNKD, MOSY, APHB"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-first3-13",
+      "avgTrend": 1.2766666666666666,
+      "picks": "CNET, ARLZ, HTGM"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-single-73",
+      "avgTrend": 1.26,
+      "picks": "LTS"
+    },
+    {
+      "strategyName": "daytime-first3-260",
+      "avgTrend": 1.2366666666666666,
+      "picks": "GEN, APPS, OZM"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-189",
+      "avgTrend": 1.1033333333333333,
+      "picks": "GEN, AHPI, AKER, IMUC, EBIO, HOV"
+    },
+    {
+      "strategyName": "daytime-200",
+      "avgTrend": 1.0950000000000002,
+      "picks": "GEN, APPS, SALM, OZM, CFRX, FCRE, OESX, TNAV, PULM, JVA"
+    },
+    {
+      "strategyName": "before-close-up-380",
+      "avgTrend": 1.067,
+      "picks": "BDR, UQM, RGLS, ASM, APHB, WRN, PDLI, ARCI, STRM, CIDM"
+    },
+    {
+      "strategyName": "before-close-up-350",
+      "avgTrend": 1.067,
+      "picks": "BDR, UQM, RGLS, ASM, APHB, WRN, PDLI, ARCI, STRM, CIDM"
+    },
+    {
+      "strategyName": "week-swings-273",
+      "avgTrend": 0.97,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "week-swings-single-273",
+      "avgTrend": 0.97,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-75",
+      "avgTrend": 0.9633333333333334,
+      "picks": "ADXS, TGB, INPX"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-first3-13",
+      "avgTrend": 0.9099999999999998,
+      "picks": "LTS, PME, MEET"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-first3-73",
+      "avgTrend": 0.8933333333333334,
+      "picks": "LTS, PME, MEET"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-180",
+      "avgTrend": 0.8575,
+      "picks": "SN, BKS, SWN, UPL, BTE, AXAS, FRO, STNG"
+    },
+    {
+      "strategyName": "pattern-predict-top-recommendations-first3-3",
+      "avgTrend": 0.8333333333333334,
+      "picks": "VLRX, FB, SBUX"
+    },
+    {
+      "strategyName": "pattern-predict-top-recommendations-single-3",
+      "avgTrend": 0.67,
+      "picks": "VLRX"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-75",
+      "avgTrend": 0.6266666666666665,
+      "picks": "CHK, TOO, SWN"
+    },
+    {
+      "strategyName": "stockinvest-top100-263",
+      "avgTrend": 0.6125000000000003,
+      "picks": "AMRS, LGCY, GEN, MTBC"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-380",
+      "avgTrend": 0.6033333333333334,
+      "picks": "SN, SWN, UPL, BKS, BTE, AXAS"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-first3-73",
+      "avgTrend": 0.5100000000000001,
+      "picks": "CNET, ARLZ, HTGM"
+    },
+    {
+      "strategyName": "pattern-predict-not-recommended-3",
+      "avgTrend": 0.4538461538461539,
+      "picks": "UNFI, BAC, TM, NFLX, XPO, CIG, SIRI, OSUR, OPNT, ORCL, INSY, UONE, VRX, ACH, SFIX, MSFT, SID, AET, BABA, GPRO, CHK, SNAP, TSN, NSPR, NMM, RGSE"
+    },
+    {
+      "strategyName": "pattern-predict-top-recommendations-3",
+      "avgTrend": 0.44500000000000006,
+      "picks": "VLRX, FB, SBUX, MULE, SAGE, DE, TWTR, AAPL, CATB, DIS, AA, GM"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-75",
+      "avgTrend": 0.4339999999999999,
+      "picks": "CHK, TOO, SWN, SN, NAT, WFT, OPK, TAHO, ESV, NGD, NE, FMSA, STNG, MUX, EGO"
+    },
+    {
+      "strategyName": "big-day-trend-up-90",
+      "avgTrend": 0.352,
+      "picks": "GEN, SMED, TGB, VTNR, VSLR"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-180",
+      "avgTrend": 0.32333333333333325,
+      "picks": "CHK, SN, MNKD"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-75",
+      "avgTrend": 0.28111111111111103,
+      "picks": "SWN, SN, OPK, ESV, NGD, FMSA, STNG, EGO, UPL"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-196",
+      "avgTrend": 0.2526666666666667,
+      "picks": "LTS, PME, MEET, SAUC, ABAC, ARLZ, CLWT, BSPM, VICL, FWP, HSGX, RIGL, MDWD, AMPE, BPTH"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-189",
+      "avgTrend": 0.250625,
+      "picks": "KTOV, CHEK, JMEI, EBIO, GEN, LRAD, GURE, HOV, PTN, IMI, AKER, EGY, OREX, SYN, AHPI, IMUC"
+    },
+    {
+      "strategyName": "based-on-jump-first3-5",
+      "avgTrend": 0.245,
+      "picks": "TNDM, GNCA"
+    },
+    {
+      "strategyName": "pattern-predict-not-recommended-first3-3",
+      "avgTrend": 0.12999999999999998,
+      "picks": "UNFI, BAC, TM"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-120",
+      "avgTrend": 0.07466666666666676,
+      "picks": "CHK, DNR, SWN, SN, WFT, TOO, NE, MNKD, OPK, ECR, NAT, BTE, FRO, UPL, BKS"
+    },
+    {
+      "strategyName": "first-greens-single-190",
+      "avgTrend": 0.04,
+      "picks": "TIK"
+    },
+    {
+      "strategyName": "first-greens-single-250",
+      "avgTrend": 0.04,
+      "picks": "TIK"
+    },
+    {
+      "strategyName": "swings-193",
+      "avgTrend": 0.02941176470588232,
+      "picks": "INSE, RMGN, MBVX, HUSA, DCIX, BLDP, CLIR, CAPR, HTBX, ROSE, AZRX, MUX, CALI, TNTR, BOXL, OSN, CCCL"
+    },
+    {
+      "strategyName": "daytime-260",
+      "avgTrend": 0.019999999999999955,
+      "picks": "GEN, APPS, OZM, SALM, IDSA, FCRE, CFRX, TNAV, PULM"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-13",
+      "avgTrend": 0.019333333333333275,
+      "picks": "LTS, PME, MEET, SAUC, ABAC, ARLZ, CLWT, VICL, BSPM, FWP, HSGX, MDWD, RIGL, TXMD, AMPE"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-263",
+      "avgTrend": 2.9605947323337506e-16,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "swings-253",
+      "avgTrend": -0.04999999999999995,
+      "picks": "INSE, RMGN, MBVX, HTBX, HUSA, DCIX, BLDP, CLIR, ROSE, AZRX, MUX, CALI, TNTR, BOXL, OSN, CCCL"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-123",
+      "avgTrend": -0.07666666666666666,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-380",
+      "avgTrend": -0.12333333333333323,
+      "picks": "CHK, TOO, MNKD"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-180",
+      "avgTrend": -0.13666666666666663,
+      "picks": "SN, BKS, SWN"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-380",
+      "avgTrend": -0.14,
+      "picks": "SN"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-single-13",
+      "avgTrend": -0.19,
+      "picks": "LTS"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-73",
+      "avgTrend": -0.22200000000000011,
+      "picks": "LTS, PME, MEET, SAUC, ABAC, CLWT, ARLZ, BSPM, VICL, FWP, HSGX, MDWD, RIGL, AMPE, OCN"
+    },
+    {
+      "strategyName": "daytime-first3-200",
+      "avgTrend": -0.2599999999999998,
+      "picks": "GEN, APPS, SALM"
+    },
+    {
+      "strategyName": "big-day-trend-up-223",
+      "avgTrend": -0.2679999999999999,
+      "picks": "GEN, SYN, IVTY, SGBX, CPSS"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-60",
+      "avgTrend": -0.29,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "pattern-predict-not-recommended-single-3",
+      "avgTrend": -0.3,
+      "picks": "UNFI"
+    },
+    {
+      "strategyName": "pattern-predict-somewhat-recommended-3",
+      "avgTrend": -0.44421052631578933,
+      "picks": "CPG, GWPH, HALO, INAP, IGT, AMC, LUK, DXJ, NRG, UGAZ, PFSI, ERF, SWN, IAC, SWN, BBG, GE, DRYS, NEOS"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-120",
+      "avgTrend": -0.5566666666666666,
+      "picks": "ADXS, GEN, TGB"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-single-189",
+      "avgTrend": -0.58,
+      "picks": "PEIX"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-75",
+      "avgTrend": -0.61,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-380",
+      "avgTrend": -0.6333333333333334,
+      "picks": "SN, SWN, UPL"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-7",
+      "avgTrend": -0.6466666666666671,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-120",
+      "avgTrend": -0.732,
+      "picks": "SN, OPK, ECR, UPL, BKS, AXAS, FMSA, EGO, STNG, NGD"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-189",
+      "avgTrend": -0.7928571428571428,
+      "picks": "CLDX, DYSL, CGNT, RAVE, ONTX, IDN, SDRL"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-first3-189",
+      "avgTrend": -0.7966666666666667,
+      "picks": "CLDX, DYSL, CGNT"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-180",
+      "avgTrend": -0.82,
+      "picks": "SN"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-single-189",
+      "avgTrend": -0.84,
+      "picks": "CLDX"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-263",
+      "avgTrend": -0.85,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "swings-first3-253",
+      "avgTrend": -0.9749999999999999,
+      "picks": "INSE, RMGN"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-75",
+      "avgTrend": -1.0333333333333334,
+      "picks": "SWN, SN, OPK"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-90",
+      "avgTrend": -1.07,
+      "picks": "GEN, SMED, TGB"
+    },
+    {
+      "strategyName": "stockinvest-top100-123",
+      "avgTrend": -1.1033333333333333,
+      "picks": "AMRS, LGCY, GEN, MTBC, APPS, BBRG"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-45",
+      "avgTrend": -1.14,
+      "picks": "GEN, AHPI, AKER, IMUC, EBIO, HOV"
+    },
+    {
+      "strategyName": "daytime-single-200",
+      "avgTrend": -1.23,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "swings-first3-193",
+      "avgTrend": -1.235,
+      "picks": "INSE, RMGN"
+    },
+    {
+      "strategyName": "based-on-jump-first3-16",
+      "avgTrend": -1.2599999999999998,
+      "picks": "TNDM, GNCA"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-2",
+      "avgTrend": -1.4806666666666668,
+      "picks": "ANW, INPX, MBVX, GNMX, DCIX, DPW, SOFO, NAKD, ADMP, REED, FMSA, BSQR, P, HTBX, CUR"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-45",
+      "avgTrend": -1.586470588235294,
+      "picks": "KTOV, CHEK, JMEI, LGCY, EBIO, GEN, LRAD, GURE, HOV, PTN, IMI, AKER, EGY, OREX, SYN, AHPI, IMUC"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-first3-45",
+      "avgTrend": -1.7400000000000002,
+      "picks": "CLDX, DYSL, CGNT"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-180",
+      "avgTrend": -1.76,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-189",
+      "avgTrend": -1.92,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-single-189",
+      "avgTrend": -1.92,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-120",
+      "avgTrend": -1.94,
+      "picks": "SN"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-single-13",
+      "avgTrend": -1.98,
+      "picks": "CNET"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-123",
+      "avgTrend": -2.18,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-120",
+      "avgTrend": -2.223333333333333,
+      "picks": "SN, OPK, ECR"
+    },
+    {
+      "strategyName": "stockinvest-top100-7",
+      "avgTrend": -2.361666666666667,
+      "picks": "AMRS, LGCY, GEN, MTBC, APPS, BBRG"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-120",
+      "avgTrend": -2.56,
+      "picks": "CHK, DNR, SWN"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-single-73",
+      "avgTrend": -2.61,
+      "picks": "CNET"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-single-45",
+      "avgTrend": -2.69,
+      "picks": "CLDX"
+    },
+    {
+      "strategyName": "swings-single-193",
+      "avgTrend": -2.7,
+      "picks": "INSE"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-75",
+      "avgTrend": -2.93,
+      "picks": "SWN"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-223",
+      "avgTrend": -3.026666666666667,
+      "picks": "GEN, SYN, IVTY"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-380",
+      "avgTrend": -3.09,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "stockinvest-top100-60",
+      "avgTrend": -3.436,
+      "picks": "AMRS, LGCY, GEN, MTBC, APPS"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-first3-45",
+      "avgTrend": -3.776666666666667,
+      "picks": "GEN, AHPI, AKER"
+    },
+    {
+      "strategyName": "big-day-trend-up-10",
+      "avgTrend": -3.9,
+      "picks": "TGB, SYN, GEN, TNK, HOV"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-35",
+      "avgTrend": -3.93,
+      "picks": "SYN"
+    },
+    {
+      "strategyName": "based-on-jump-5",
+      "avgTrend": -3.9760000000000004,
+      "picks": "TNDM, GNCA, AKER, XBIT, KONA, YANG, XENE, OESX, ANTH, GEN"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-45",
+      "avgTrend": -4.158571428571428,
+      "picks": "CLDX, DYSL, CGNT, RAVE, ONTX, IDN, SDRL"
+    },
+    {
+      "strategyName": "swings-single-253",
+      "avgTrend": -4.42,
+      "picks": "INSE"
+    },
+    {
+      "strategyName": "based-on-jump-16",
+      "avgTrend": -4.492999999999999,
+      "picks": "TNDM, GNCA, AKER, XBIT, KONA, YANG, XENE, OESX, ANTH, GEN"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-2",
+      "avgTrend": -4.513333333333333,
+      "picks": "ANW, INPX, MBVX"
+    },
+    {
+      "strategyName": "daytime-single-260",
+      "avgTrend": -4.76,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-90",
+      "avgTrend": -4.76,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "pattern-predict-somewhat-recommended-first3-3",
+      "avgTrend": -4.949999999999999,
+      "picks": "CPG, GWPH"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-120",
+      "avgTrend": -5.01,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "big-day-trend-up-35",
+      "avgTrend": -5.22,
+      "picks": "SYN, GEN, VTNR, ZOM, CPSS"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-60",
+      "avgTrend": -5.233333333333333,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-223",
+      "avgTrend": -5.51,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-45",
+      "avgTrend": -5.91,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-single-45",
+      "avgTrend": -5.91,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-35",
+      "avgTrend": -7.71,
+      "picks": "SYN, GEN, VTNR"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-2",
+      "avgTrend": -8.16,
+      "picks": "ANW"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-10",
+      "avgTrend": -8.436666666666666,
+      "picks": "TGB, SYN, GEN"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-single-45",
+      "avgTrend": -25,
+      "picks": "GEN"
+    }
+  ],
+  "next-day-330": [
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-180",
+      "avgTrend": 17.48,
+      "picks": "ADXS, GEN, ADMP"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-single-189",
+      "avgTrend": 8.16,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-189",
+      "avgTrend": 8.16,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "before-close-up-single-350",
+      "avgTrend": 6.73,
+      "picks": "BDR"
+    },
+    {
+      "strategyName": "before-close-up-single-380",
+      "avgTrend": 6.73,
+      "picks": "BDR"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-single-45",
+      "avgTrend": 6.42,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-up1overnight-45",
+      "avgTrend": 6.42,
+      "picks": "LLIT"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-single-189",
+      "avgTrend": 6.03,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-180",
+      "avgTrend": 5.987333333333336,
+      "picks": "ADXS, GEN, ADMP, WIN, USAU, OSG, TGB, COGT, ANW, CSLT, APRI, SBGL, OHGI, ELGX, CLIR"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-380",
+      "avgTrend": 5.563333333333333,
+      "picks": "ADXS, GEN, ONTX, WIN, TGB, EFOI, MNGA, ADMP, APRI, OSG, COGT, AMDA, AMPE, CSLT, USAU"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-380",
+      "avgTrend": 5.28,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-first3-189",
+      "avgTrend": 4.706666666666667,
+      "picks": "PEIX, AGEN, LLIT"
+    },
+    {
+      "strategyName": "before-close-first3-351",
+      "avgTrend": 4.46,
+      "picks": "AHPI, CKPT"
+    },
+    {
+      "strategyName": "before-close-first3-381",
+      "avgTrend": 4.46,
+      "picks": "AHPI, CKPT"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-first3-45",
+      "avgTrend": 3.9633333333333334,
+      "picks": "PEIX, AGEN, LLIT"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-7",
+      "avgTrend": 3.72,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-189",
+      "avgTrend": 3.4975,
+      "picks": "PEIX, AGEN, LLIT, IPI"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-10",
+      "avgTrend": 3.29,
+      "picks": "TGB"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-first3-189",
+      "avgTrend": 3.0066666666666664,
+      "picks": "GEN, AHPI, AKER"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-180",
+      "avgTrend": 2.99,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "before-close-381",
+      "avgTrend": 2.973333333333333,
+      "picks": "AHPI, CKPT, CTIB"
+    },
+    {
+      "strategyName": "before-close-351",
+      "avgTrend": 2.973333333333333,
+      "picks": "AHPI, CKPT, CTIB"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-380",
+      "avgTrend": 2.97,
+      "picks": "SN"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-45",
+      "avgTrend": 2.9075,
+      "picks": "PEIX, AGEN, LLIT, IPI"
+    },
+    {
+      "strategyName": "pattern-predict-somewhat-recommended-single-3",
+      "avgTrend": 2.89,
+      "picks": "CPG"
+    },
+    {
+      "strategyName": "before-close-up-first3-350",
+      "avgTrend": 2.86,
+      "picks": "BDR, UQM, RGLS"
+    },
+    {
+      "strategyName": "before-close-up-first3-380",
+      "avgTrend": 2.86,
+      "picks": "BDR, UQM, RGLS"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-180",
+      "avgTrend": 2.536,
+      "picks": "CHK, SN, MNKD, NE, BKS, SWN, TOO, WFT, UPL, OBE, CIG, ACTA, BTE, AXAS, FRO"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-380",
+      "avgTrend": 2.4966666666666666,
+      "picks": "ADXS, GEN, ONTX"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-75",
+      "avgTrend": 2.476363636363636,
+      "picks": "ADXS, TGB, INPX, P, SBGL, ADMP, APRI, ELGX, JAKK, COGT, CSLT"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-196",
+      "avgTrend": 2.3399999999999994,
+      "picks": "CNET, ARLZ, HTGM, PYDS, ANY, ABAC, NXTD, NH, PME, AMPE, CUR, PES, MNKD, MOSY, APHB"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-first3-45",
+      "avgTrend": 2.28,
+      "picks": "KTOV"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-180",
+      "avgTrend": 2.26,
+      "picks": "SN"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-120",
+      "avgTrend": 2.246,
+      "picks": "ADXS, GEN, TGB, SBGL, CSLT, INPX, P, AGI, DCIX, APRI, EFOI, ELGX, JAKK, NEPT, ADMP"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-75",
+      "avgTrend": 2.24,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "daytime-first3-260",
+      "avgTrend": 2.2133333333333334,
+      "picks": "GEN, APPS, OZM"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-380",
+      "avgTrend": 2.1983333333333333,
+      "picks": "SN, SWN, UPL, BKS, BTE, AXAS"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-180",
+      "avgTrend": 2.1566666666666667,
+      "picks": "SN, BKS, SWN"
+    },
+    {
+      "strategyName": "first-greens-single-190",
+      "avgTrend": 2.13,
+      "picks": "TIK"
+    },
+    {
+      "strategyName": "first-greens-single-250",
+      "avgTrend": 2.13,
+      "picks": "TIK"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-180",
+      "avgTrend": 2.1187500000000004,
+      "picks": "SN, BKS, SWN, UPL, BTE, AXAS, FRO, STNG"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-73",
+      "avgTrend": 1.966,
+      "picks": "CNET, ARLZ, HTGM, PYDS, ANY, ABAC, NXTD, NH, PME, AMPE, CUR, PES, MNKD, MOSY, APHB"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-first3-196",
+      "avgTrend": 1.9466666666666665,
+      "picks": "CNET, ARLZ, HTGM"
+    },
+    {
+      "strategyName": "first-greens-first3-190",
+      "avgTrend": 1.9233333333333331,
+      "picks": "TIK, MYSZ, GLMD"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-180",
+      "avgTrend": 1.89,
+      "picks": "CHK, SN, MNKD"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-120",
+      "avgTrend": 1.88,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-single-196",
+      "avgTrend": 1.87,
+      "picks": "LTS"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-first3-196",
+      "avgTrend": 1.8133333333333335,
+      "picks": "LTS, PME, MEET"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-single-45",
+      "avgTrend": 1.76,
+      "picks": "PEIX"
+    },
+    {
+      "strategyName": "first-greens-first3-250",
+      "avgTrend": 1.7566666666666666,
+      "picks": "TIK, MYSZ, GLMD"
+    },
+    {
+      "strategyName": "stockinvest-top100-263",
+      "avgTrend": 1.7349999999999999,
+      "picks": "AMRS, LGCY, GEN, MTBC"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-380",
+      "avgTrend": 1.722,
+      "picks": "CHK, TOO, MNKD, NE, SN, SWN, UPL, WFT, BKS, ACTA, BTE, AXAS, CERS, CIG, BIOS"
+    },
+    {
+      "strategyName": "pattern-predict-top-recommendations-single-3",
+      "avgTrend": 1.68,
+      "picks": "VLRX"
+    },
+    {
+      "strategyName": "first-greens-250",
+      "avgTrend": 1.6333333333333335,
+      "picks": "TIK, MYSZ, GLMD, BSPM, MARK, SRAX, SINO, CLD, MNGA"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-263",
+      "avgTrend": 1.6266666666666667,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-123",
+      "avgTrend": 1.5566666666666669,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-75",
+      "avgTrend": 1.4966666666666668,
+      "picks": "CHK, TOO, SWN"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-189",
+      "avgTrend": 1.3583333333333334,
+      "picks": "GEN, AHPI, AKER, IMUC, EBIO, HOV"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-13",
+      "avgTrend": 1.3539999999999999,
+      "picks": "CNET, ARLZ, HTGM, PYDS, ANY, ABAC, NXTD, NH, PME, AMPE, CUR, PES, MNKD, MOSY, APHB"
+    },
+    {
+      "strategyName": "pattern-predict-top-recommendations-first3-3",
+      "avgTrend": 1.2766666666666666,
+      "picks": "VLRX, FB, SBUX"
+    },
+    {
+      "strategyName": "daytime-single-200",
+      "avgTrend": 1.23,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "$3-$5-upstreak-5-single-189",
+      "avgTrend": 1.17,
+      "picks": "PEIX"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-single-196",
+      "avgTrend": 1.16,
+      "picks": "CNET"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-75",
+      "avgTrend": 1.1566666666666667,
+      "picks": "ADXS, TGB, INPX"
+    },
+    {
+      "strategyName": "daytime-200",
+      "avgTrend": 1.1300000000000001,
+      "picks": "GEN, APPS, SALM, OZM, CFRX, FCRE, OESX, TNAV, PULM, JVA"
+    },
+    {
+      "strategyName": "big-day-trend-up-90",
+      "avgTrend": 1.1179999999999999,
+      "picks": "GEN, SMED, TGB, VTNR, VSLR"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-120",
+      "avgTrend": 1.11,
+      "picks": "SN"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-first3-13",
+      "avgTrend": 1.096666666666667,
+      "picks": "CNET, ARLZ, HTGM"
+    },
+    {
+      "strategyName": "before-close-up-380",
+      "avgTrend": 1.0900000000000003,
+      "picks": "BDR, UQM, RGLS, ASM, APHB, WRN, PDLI, ARCI, STRM, CIDM"
+    },
+    {
+      "strategyName": "before-close-up-350",
+      "avgTrend": 1.0900000000000003,
+      "picks": "BDR, UQM, RGLS, ASM, APHB, WRN, PDLI, ARCI, STRM, CIDM"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-75",
+      "avgTrend": 1.0580000000000003,
+      "picks": "CHK, TOO, SWN, SN, NAT, WFT, OPK, TAHO, ESV, NGD, NE, FMSA, STNG, MUX, EGO"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-180",
+      "avgTrend": 1.05,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-120",
+      "avgTrend": 1.0393333333333332,
+      "picks": "CHK, DNR, SWN, SN, WFT, TOO, NE, MNKD, OPK, ECR, NAT, BTE, FRO, UPL, BKS"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-75",
+      "avgTrend": 0.9888888888888887,
+      "picks": "SWN, SN, OPK, ESV, NGD, FMSA, STNG, EGO, UPL"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-single-73",
+      "avgTrend": 0.93,
+      "picks": "LTS"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-7",
+      "avgTrend": 0.9066666666666663,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "first-greens-190",
+      "avgTrend": 0.9000000000000001,
+      "picks": "TIK, MYSZ, GLMD, BSPM, MARK, SRAX, SINO, CLD, MNGA"
+    },
+    {
+      "strategyName": "pattern-predict-top-recommendations-3",
+      "avgTrend": 0.7950000000000003,
+      "picks": "VLRX, FB, SBUX, MULE, SAGE, DE, TWTR, AAPL, CATB, DIS, AA, GM"
+    },
+    {
+      "strategyName": "daytime-260",
+      "avgTrend": 0.7877777777777779,
+      "picks": "GEN, APPS, OZM, SALM, IDSA, FCRE, CFRX, TNAV, PULM"
+    },
+    {
+      "strategyName": "based-on-jump-first3-5",
+      "avgTrend": 0.765,
+      "picks": "TNDM, GNCA"
+    },
+    {
+      "strategyName": "daytime-first3-200",
+      "avgTrend": 0.7466666666666667,
+      "picks": "GEN, APPS, SALM"
+    },
+    {
+      "strategyName": "pattern-predict-not-recommended-3",
+      "avgTrend": 0.7319230769230768,
+      "picks": "UNFI, BAC, TM, NFLX, XPO, CIG, SIRI, OSUR, OPNT, ORCL, INSY, UONE, VRX, ACH, SFIX, MSFT, SID, AET, BABA, GPRO, CHK, SNAP, TSN, NSPR, NMM, RGSE"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-196",
+      "avgTrend": 0.7206666666666667,
+      "picks": "LTS, PME, MEET, SAUC, ABAC, ARLZ, CLWT, BSPM, VICL, FWP, HSGX, RIGL, MDWD, AMPE, BPTH"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-380",
+      "avgTrend": 0.6966666666666668,
+      "picks": "SN, SWN, UPL"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-75",
+      "avgTrend": 0.5399999999999999,
+      "picks": "SWN, SN, OPK"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-13",
+      "avgTrend": 0.49799999999999983,
+      "picks": "LTS, PME, MEET, SAUC, ABAC, ARLZ, CLWT, VICL, BSPM, FWP, HSGX, MDWD, RIGL, TXMD, AMPE"
+    },
+    {
+      "strategyName": "week-swings-273",
+      "avgTrend": 0.49,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "week-swings-single-273",
+      "avgTrend": 0.49,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-120",
+      "avgTrend": 0.4366666666666667,
+      "picks": "ADXS, GEN, TGB"
+    },
+    {
+      "strategyName": "pattern-predict-not-recommended-first3-3",
+      "avgTrend": 0.42333333333333334,
+      "picks": "UNFI, BAC, TM"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-first3-73",
+      "avgTrend": 0.3333333333333333,
+      "picks": "CNET, ARLZ, HTGM"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-120",
+      "avgTrend": 0.299,
+      "picks": "SN, OPK, ECR, UPL, BKS, AXAS, FMSA, EGO, STNG, NGD"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-75",
+      "avgTrend": 0.26,
+      "picks": "ADXS"
+    },
+    {
+      "strategyName": "pattern-predict-not-recommended-single-3",
+      "avgTrend": 0.2,
+      "picks": "UNFI"
+    },
+    {
+      "strategyName": "swings-193",
+      "avgTrend": 0.17705882352941155,
+      "picks": "INSE, RMGN, MBVX, HUSA, DCIX, BLDP, CLIR, CAPR, HTBX, ROSE, AZRX, MUX, CALI, TNTR, BOXL, OSN, CCCL"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-380",
+      "avgTrend": 0.16,
+      "picks": "CHK, TOO, MNKD"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-73",
+      "avgTrend": 0.08800000000000002,
+      "picks": "LTS, PME, MEET, SAUC, ABAC, CLWT, ARLZ, BSPM, VICL, FWP, HSGX, MDWD, RIGL, AMPE, OCN"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-60",
+      "avgTrend": 0.05,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "swings-253",
+      "avgTrend": 0.03687500000000008,
+      "picks": "INSE, RMGN, MBVX, HTBX, HUSA, DCIX, BLDP, CLIR, ROSE, AZRX, MUX, CALI, TNTR, BOXL, OSN, CCCL"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-first3-13",
+      "avgTrend": 0.026666666666666394,
+      "picks": "LTS, PME, MEET"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-first3-73",
+      "avgTrend": 0.013333333333333345,
+      "picks": "LTS, PME, MEET"
+    },
+    {
+      "strategyName": "pattern-predict-somewhat-recommended-3",
+      "avgTrend": -0.018421052631578998,
+      "picks": "CPG, GWPH, HALO, INAP, IGT, AMC, LUK, DXJ, NRG, UGAZ, PFSI, ERF, SWN, IAC, SWN, BBG, GE, DRYS, NEOS"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-189",
+      "avgTrend": -0.020000000000000018,
+      "picks": "CLDX, DYSL, CGNT, RAVE, ONTX, IDN, SDRL"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-first3-189",
+      "avgTrend": -0.04,
+      "picks": "KTOV"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-single-189",
+      "avgTrend": -0.21,
+      "picks": "CLDX"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-189",
+      "avgTrend": -0.22437500000000002,
+      "picks": "KTOV, CHEK, JMEI, EBIO, GEN, LRAD, GURE, HOV, PTN, IMI, AKER, EGY, OREX, SYN, AHPI, IMUC"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-90",
+      "avgTrend": -0.23666666666666666,
+      "picks": "GEN, SMED, TGB"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-380",
+      "avgTrend": -0.31,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-first3-120",
+      "avgTrend": -0.4033333333333333,
+      "picks": "CHK, DNR, SWN"
+    },
+    {
+      "strategyName": "swings-first3-253",
+      "avgTrend": -0.47,
+      "picks": "INSE, RMGN"
+    },
+    {
+      "strategyName": "week-swings-169",
+      "avgTrend": -0.48,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "week-swings-single-169",
+      "avgTrend": -0.48,
+      "picks": "APRI"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-263",
+      "avgTrend": -0.51,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-single-13",
+      "avgTrend": -0.52,
+      "picks": "LTS"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-first3-189",
+      "avgTrend": -0.5299999999999999,
+      "picks": "CLDX, DYSL, CGNT"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-first3-120",
+      "avgTrend": -0.5666666666666667,
+      "picks": "SN, OPK, ECR"
+    },
+    {
+      "strategyName": "stockinvest-top100-123",
+      "avgTrend": -0.6433333333333332,
+      "picks": "AMRS, LGCY, GEN, MTBC, APPS, BBRG"
+    },
+    {
+      "strategyName": "based-on-jump-first3-16",
+      "avgTrend": -0.73,
+      "picks": "TNDM, GNCA"
+    },
+    {
+      "strategyName": "swings-first3-193",
+      "avgTrend": -0.7400000000000001,
+      "picks": "INSE, RMGN"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-2",
+      "avgTrend": -0.7659999999999999,
+      "picks": "ANW, INPX, MBVX, GNMX, DCIX, DPW, SOFO, NAKD, ADMP, REED, FMSA, BSQR, P, HTBX, CUR"
+    },
+    {
+      "strategyName": "big-day-trend-up-223",
+      "avgTrend": -0.812,
+      "picks": "GEN, SYN, IVTY, SGBX, CPSS"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-45",
+      "avgTrend": -1.0116666666666667,
+      "picks": "GEN, AHPI, AKER, IMUC, EBIO, HOV"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-189",
+      "avgTrend": -1.09,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-single-189",
+      "avgTrend": -1.09,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-first3-45",
+      "avgTrend": -1.4766666666666666,
+      "picks": "CLDX, DYSL, CGNT"
+    },
+    {
+      "strategyName": "stockinvest-top100-single-123",
+      "avgTrend": -1.85,
+      "picks": "AMRS"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-45",
+      "avgTrend": -1.9235294117647062,
+      "picks": "KTOV, CHEK, JMEI, LGCY, EBIO, GEN, LRAD, GURE, HOV, PTN, IMI, AKER, EGY, OREX, SYN, AHPI, IMUC"
+    },
+    {
+      "strategyName": "stockinvest-top100-7",
+      "avgTrend": -1.9350000000000005,
+      "picks": "AMRS, LGCY, GEN, MTBC, APPS, BBRG"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-single-45",
+      "avgTrend": -2.07,
+      "picks": "CLDX"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200-single-120",
+      "avgTrend": -2.29,
+      "picks": "CHK"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-90",
+      "avgTrend": -2.38,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "daytime-single-260",
+      "avgTrend": -2.38,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "fizbiz-under5Target10Change2Vol200Within10of52Low-single-75",
+      "avgTrend": -2.39,
+      "picks": "SWN"
+    },
+    {
+      "strategyName": "swings-single-193",
+      "avgTrend": -2.7,
+      "picks": "INSE"
+    },
+    {
+      "strategyName": "stockinvest-top100-60",
+      "avgTrend": -2.7039999999999997,
+      "picks": "AMRS, LGCY, GEN, MTBC, APPS"
+    },
+    {
+      "strategyName": "big-day-trend-up-35",
+      "avgTrend": -3.09,
+      "picks": "SYN, GEN, VTNR, ZOM, CPSS"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-single-13",
+      "avgTrend": -3.09,
+      "picks": "CNET"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-223",
+      "avgTrend": -3.15,
+      "picks": "GEN"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-first3-2",
+      "avgTrend": -3.2466666666666666,
+      "picks": "ANW, INPX, MBVX"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-first3-45",
+      "avgTrend": -3.27,
+      "picks": "GEN, AHPI, AKER"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-45",
+      "avgTrend": -3.4128571428571433,
+      "picks": "CLDX, DYSL, CGNT, RAVE, ONTX, IDN, SDRL"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-single-73",
+      "avgTrend": -3.71,
+      "picks": "CNET"
+    },
+    {
+      "strategyName": "stockinvest-top100-first3-60",
+      "avgTrend": -3.7499999999999996,
+      "picks": "AMRS, LGCY, GEN"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-223",
+      "avgTrend": -3.766666666666667,
+      "picks": "GEN, SYN, IVTY"
+    },
+    {
+      "strategyName": "big-day-trend-up-10",
+      "avgTrend": -3.772,
+      "picks": "TGB, SYN, GEN, TNK, HOV"
+    },
+    {
+      "strategyName": "pattern-predict-somewhat-recommended-first3-3",
+      "avgTrend": -3.8899999999999997,
+      "picks": "CPG, GWPH"
+    },
+    {
+      "strategyName": "based-on-jump-5",
+      "avgTrend": -3.9899999999999998,
+      "picks": "TNDM, GNCA, AKER, XBIT, KONA, YANG, XENE, OESX, ANTH, GEN"
+    },
+    {
+      "strategyName": "swings-single-253",
+      "avgTrend": -4.42,
+      "picks": "INSE"
+    },
+    {
+      "strategyName": "based-on-jump-16",
+      "avgTrend": -4.508,
+      "picks": "TNDM, GNCA, AKER, XBIT, KONA, YANG, XENE, OESX, ANTH, GEN"
+    },
+    {
+      "strategyName": "big-day-trend-up-single-35",
+      "avgTrend": -5,
+      "picks": "SYN"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-single-45",
+      "avgTrend": -5.12,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "<$3-upstreak-4-up1overnight-45",
+      "avgTrend": -5.12,
+      "picks": "SDRL"
+    },
+    {
+      "strategyName": "fizbiz-under5TopLosers-single-2",
+      "avgTrend": -6.31,
+      "picks": "ANW"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-35",
+      "avgTrend": -6.82,
+      "picks": "SYN, GEN, VTNR"
+    },
+    {
+      "strategyName": "big-day-trend-up-first3-10",
+      "avgTrend": -8.08,
+      "picks": "TGB, SYN, GEN"
+    },
+    {
+      "strategyName": "<$3-upstreak-3-up1overnight-single-45",
+      "avgTrend": -23.13,
+      "picks": "GEN"
+    }
+  ]
+}

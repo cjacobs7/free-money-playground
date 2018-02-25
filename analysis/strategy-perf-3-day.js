@@ -39,7 +39,7 @@ class HashTable {
 
     console.log(sortedFiles);
 
-    let threeMostRecent = sortedFiles.slice(-3);
+    let threeMostRecent = sortedFiles.slice(-7);
 
 
     const stratResults = new HashTable();
@@ -86,9 +86,8 @@ class HashTable {
     // console.log('all', allPerfs)
 
     const sortedFiltered = allPerfs
-        // .filter(perf => perf.count === 3)
-        // .filter(perf => perf.trends.length === 3)
-        .filter(perf => !perf.trends.some(t => t < 0))
+        .filter(perf => perf.count >= 3)
+        // .filter(perf => !perf.trends.some(t => t < 0))
         .sort((a, b) => b.avgTrend - a.avgTrend);
 
     console.log(sortedFiltered);

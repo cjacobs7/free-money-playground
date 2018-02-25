@@ -1,0 +1,74 @@
+{
+  "7": [
+    {
+      "ticker": "CVEO",
+      "price": 3.5545
+    },
+    {
+      "ticker": "AMRS",
+      "price": 5.959
+    },
+    {
+      "ticker": "LGCY",
+      "price": 3
+    },
+    {
+      "ticker": "CRNT",
+      "price": 2.81
+    }
+  ],
+  "60": [
+    {
+      "ticker": "CVEO",
+      "price": 3.525
+    },
+    {
+      "ticker": "AMRS",
+      "price": 5.74
+    },
+    {
+      "ticker": "LGCY",
+      "price": 3.16
+    },
+    {
+      "ticker": "CRNT",
+      "price": 2.86
+    }
+  ],
+  "123": [
+    {
+      "ticker": "CVEO",
+      "price": 3.52
+    },
+    {
+      "ticker": "AMRS",
+      "price": 5.82
+    },
+    {
+      "ticker": "LGCY",
+      "price": 3.18
+    },
+    {
+      "ticker": "CRNT",
+      "price": 2.94
+    }
+  ],
+  "263": [
+    {
+      "ticker": "CVEO",
+      "price": 3.6499
+    },
+    {
+      "ticker": "AMRS",
+      "price": 5.85
+    },
+    {
+      "ticker": "LGCY",
+      "price": 3.19
+    },
+    {
+      "ticker": "CRNT",
+      "price": 2.91
+    }
+  ]
+}

@@ -7,7 +7,7 @@ const filterByTradeable = stocks => {
             areTradeable.push(ticker);
         }
     }
-    console.log('not tradeable', stocks.filter(ticker => !areTradeable.includes(ticker)));
+    // console.log('not tradeable', stocks.filter(ticker => !areTradeable.includes(ticker)));
     return areTradeable;
 };
 

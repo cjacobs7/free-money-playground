@@ -1,0 +1,46 @@
+{
+  "350": [
+    {
+      "ticker": "CPHI",
+      "price": 0.4196
+    },
+    {
+      "ticker": "SGOC",
+      "price": 1.299
+    },
+    {
+      "ticker": "MCHX",
+      "price": 3.23
+    },
+    {
+      "ticker": "SUNW",
+      "price": 1.0403
+    },
+    {
+      "ticker": "CKPT",
+      "price": 4.69
+    }
+  ],
+  "380": [
+    {
+      "ticker": "MYSZ",
+      "price": 1.88
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.414
+    },
+    {
+      "ticker": "SGOC",
+      "price": 1.29
+    },
+    {
+      "ticker": "MCHX",
+      "price": 3.2
+    },
+    {
+      "ticker": "CHK",
+      "price": 3.19
+    }
+  ]
+}

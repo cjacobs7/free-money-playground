@@ -7,7 +7,7 @@ const purchaseStocks = async (Robinhood, { stocksToBuy, strategy }) => {
     const cashAvailable = Number(accounts.results[0].sma);
     // const totalAmtToSpend = cashAvailable * ratioToSpend;
 
-    const totalAmtToSpend = Math.min(80, cashAvailable);
+    const totalAmtToSpend = Math.min(150, cashAvailable);
     console.log('actually purchasing', strategy, 'count', stocksToBuy.length);
     // console.log('ratioToSpend', ratioToSpend);
     console.log('totalAmtToSpend', totalAmtToSpend);

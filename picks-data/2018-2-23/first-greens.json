@@ -1,0 +1,46 @@
+{
+  "190": [
+    {
+      "ticker": "IFON",
+      "price": 1.3
+    },
+    {
+      "ticker": "SN",
+      "price": 3.5276
+    },
+    {
+      "ticker": "IMNP",
+      "price": 0.3699
+    },
+    {
+      "ticker": "UPL",
+      "price": 4.37
+    },
+    {
+      "ticker": "PXLW",
+      "price": 4.2
+    }
+  ],
+  "250": [
+    {
+      "ticker": "RAS",
+      "price": 0.1984
+    },
+    {
+      "ticker": "IFON",
+      "price": 1.3
+    },
+    {
+      "ticker": "SN",
+      "price": 3.515
+    },
+    {
+      "ticker": "IMNP",
+      "price": 0.3714
+    },
+    {
+      "ticker": "UPL",
+      "price": 4.415
+    }
+  ]
+}
