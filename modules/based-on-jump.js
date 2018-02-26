@@ -17,16 +17,10 @@ const trendFilter = async (Robinhood, trend) => {
     // trending upward
     console.log('running based-on-jump strategy');
 
-    const cheapBuys = trend.filter(stock => {
-        return Number(stock.quote_data.last_trade_price) > 0.3 && Number(stock.quote_data.last_trade_price) < 5;
-    });
-
-    console.log('total cheapbuys', cheapBuys.length);
-
-    let upOvernight = await addOvernightJump(Robinhood, cheapBuys);
+    let upOvernight = await addOvernightJump(Robinhood, trend);
     upOvernight = upOvernight.filter(stock => stock.overnightJump > 3);
 
-    upOvernight = await mapLimit(cheapBuys, 20, async buy => ({
+    upOvernight = await mapLimit(upOvernight, 20, async buy => ({
         ...buy,
         ...(await getRisk(Robinhood, buy.ticker)),
         trendingUp: await trendingUp(Robinhood, buy.ticker, [35, 25, 7])

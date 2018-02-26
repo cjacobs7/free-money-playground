@@ -30,18 +30,12 @@ const DAY_PERMS = [
 
 const trendFilter = async (Robinhood, trend) => {
 
-    let cheapBuys = trend
-        .filter(stock => {
-            return Number(stock.quote_data.last_trade_price) < 7 &&
-                Number(stock.quote_data.last_trade_price) > .2;
-        });
-
     let allHistoricals = await getMultipleHistoricals(
         Robinhood,
-        cheapBuys.map(buy => buy.ticker)
+        trend.map(buy => buy.ticker)
     );
 
-    const withHistoricals = cheapBuys.map((buy, i) => ({
+    const withHistoricals = trend.map((buy, i) => ({
         ...buy,
         historicals: allHistoricals[i]
     }));

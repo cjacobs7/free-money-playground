@@ -19,12 +19,7 @@ const trendFilter = async (Robinhood, trend) => {
 
     console.log('total trend stocks', trend.length);
 
-    let cheapBuys = trend.filter(stock => {
-        return Number(stock.quote_data.last_trade_price) < 6;
-    });
-
-    console.log('trading below $6', cheapBuys.length);
-    const withTrendSinceOpen = await addTrendSinceOpen(Robinhood, cheapBuys);
+    const withTrendSinceOpen = await addTrendSinceOpen(Robinhood, trend);
     let allUp = withTrendSinceOpen.filter(
         stock => stock.trendSinceOpen && stock.trendSinceOpen > 3
     );

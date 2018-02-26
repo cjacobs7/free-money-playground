@@ -15,12 +15,7 @@ const trendFilter = async (Robinhood, trend) => {
     const todaysDay = days[(new Date()).getDay()];
     console.log('todays day', todaysDay);
 
-    let cheapBuys = trend
-        .filter(stock => {
-            return Number(stock.quote_data.last_trade_price) > 1 && Number(stock.quote_data.last_trade_price) < 5;
-        });
-
-    cheapBuys = await addOvernightJump(Robinhood, cheapBuys);
+    let returnArr = await addOvernightJump(Robinhood, trend);
 
     // var allTickers = require('../stock-data/allStocks');
     // allTickers = allTickers
@@ -32,10 +27,10 @@ const trendFilter = async (Robinhood, trend) => {
 
     let allHistoricals = await getMultipleHistoricals(
         Robinhood,
-        cheapBuys.map(buy => buy.ticker)
+        returnArr.map(buy => buy.ticker)
     );
 
-    let withHistoricals = cheapBuys.map((buy, i) => ({
+    let withHistoricals = returnArr.map((buy, i) => ({
         ...buy,
         historicals: allHistoricals[i]
     }));

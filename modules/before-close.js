@@ -19,27 +19,22 @@ const trendFilter = async (Robinhood, trend) => {
     console.log('running beforeClose strategy');
     const withTrendSinceOpen = await addTrendSinceOpen(Robinhood, trend);
 
-    const trendingBelow10 = withTrendSinceOpen.filter(stock => stock.trendSinceOpen < -5);
-    console.log('trending below 10', trendingBelow10.length);
+    let trendingBelow5 = withTrendSinceOpen.filter(stock => stock.trendSinceOpen < -5);
+    console.log('trending below 10', trendingBelow5.length);
 
-    let cheapBuys = trendingBelow10.filter(stock => {
-        return Number(stock.quote_data.last_trade_price) < 6;
-    });
-    console.log('trading below $30', cheapBuys.length);
-
-    cheapBuys = await mapLimit(cheapBuys, 20, async buy => ({
+    trendingBelow5 = await mapLimit(trendingBelow5, 20, async buy => ({
         ...buy,
         ...await getRisk(Robinhood, buy.ticker),
         trendingUp: await trendingUp(Robinhood, buy.ticker, [30, 7])
     }));
-    console.log('num watcout', cheapBuys.filter(buy => buy.shouldWatchout).length);
-    console.log('num not trending', cheapBuys.filter(buy => !buy.trendingUp).length);
-    console.log('> 5% below max of year', cheapBuys.filter(buy => buy.percMax < -5).length);
-    cheapBuys = cheapBuys.filter(buy => !buy.shouldWatchout && buy.trendingUp && buy.percMax < -5);
+    console.log('num watcout', trendingBelow5.filter(buy => buy.shouldWatchout).length);
+    console.log('num not trending', trendingBelow5.filter(buy => !buy.trendingUp).length);
+    console.log('> 5% below max of year', trendingBelow5.filter(buy => buy.percMax < -5).length);
+    trendingBelow5 = trendingBelow5.filter(buy => !buy.shouldWatchout && buy.trendingUp && buy.percMax < -5);
 
-    console.log(cheapBuys, cheapBuys.length);
+    console.log(trendingBelow5, trendingBelow5.length);
 
-    return cheapBuys.map(stock => stock.ticker);
+    return trendingBelow5.map(stock => stock.ticker);
 
 };
 

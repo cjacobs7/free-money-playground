@@ -17,38 +17,32 @@ const trendFilter = async (Robinhood, trend) => {
     console.log('running big-day-trend-up strategy');
 
     console.log('total trend stocks', trend.length);
-
-    let cheapBuys = trend.filter(stock => {
-        return Number(stock.quote_data.last_trade_price) < 6;
-    });
-
-    console.log('trading below $6', cheapBuys.length);
-    const withTrendSinceOpen = await addTrendSinceOpen(Robinhood, cheapBuys);
+    const withTrendSinceOpen = await addTrendSinceOpen(Robinhood, trend);
     const allUp = withTrendSinceOpen.filter(
         stock => stock.trendSinceOpen && stock.trendSinceOpen > 3
     );
     console.log('trendingUp', allUp.length);
 
 
-    cheapBuys = await mapLimit(allUp, 20, async buy => ({
+    let withDetails = await mapLimit(allUp, 20, async buy => ({
         ...buy,
         ...(await getRisk(Robinhood, buy.ticker)),
     }));
 
     console.log(
         'num watcout',
-        cheapBuys.filter(buy => buy.shouldWatchout).length
+        withDetails.filter(buy => buy.shouldWatchout).length
     );
     console.log(
         '> 8% below max of year',
-        cheapBuys.filter(buy => buy.percMax > -8).length
+        withDetails.filter(buy => buy.percMax > -8).length
     );
-    cheapBuys = cheapBuys.filter(
+    withDetails = withDetails.filter(
         buy => !buy.shouldWatchout && buy.percMax < -8
     );
 
-    console.log(cheapBuys, cheapBuys.length);
-    return cheapBuys
+    console.log(withDetails, withDetails.length);
+    return withDetails
         .sort((a, b) => b.trendSinceOpen - a.trendSinceOpen)
         .slice(0, 5)    // top five trending up
         .map(stock => stock.ticker);
