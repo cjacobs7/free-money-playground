@@ -1,0 +1,46 @@
+{
+  "190": [
+    {
+      "ticker": "JNUG",
+      "price": 14.1448
+    },
+    {
+      "ticker": "PCQ",
+      "price": 14.7648
+    },
+    {
+      "ticker": "VG",
+      "price": 10.17
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.61
+    },
+    {
+      "ticker": "SA",
+      "price": 11.075
+    }
+  ],
+  "250": [
+    {
+      "ticker": "JNUG",
+      "price": 14.0711
+    },
+    {
+      "ticker": "PCQ",
+      "price": 14.75
+    },
+    {
+      "ticker": "VG",
+      "price": 10.21
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.56
+    },
+    {
+      "ticker": "SA",
+      "price": 10.975
+    }
+  ]
+}

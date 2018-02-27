@@ -1,0 +1,78 @@
+{
+  "10": [
+    {
+      "ticker": "ROSE",
+      "price": 7.18
+    },
+    {
+      "ticker": "IRIX",
+      "price": 5.42
+    }
+  ],
+  "35": [
+    {
+      "ticker": "IRIX",
+      "price": 5.5
+    },
+    {
+      "ticker": "KMPH",
+      "price": 5.9511
+    },
+    {
+      "ticker": "SND",
+      "price": 7.545
+    },
+    {
+      "ticker": "HMHC",
+      "price": 7.15
+    },
+    {
+      "ticker": "ESV",
+      "price": 5.14
+    }
+  ],
+  "90": [
+    {
+      "ticker": "KMPH",
+      "price": 5.9501
+    },
+    {
+      "ticker": "IRIX",
+      "price": 5.58
+    },
+    {
+      "ticker": "HMHC",
+      "price": 7.075
+    },
+    {
+      "ticker": "SND",
+      "price": 7.6
+    },
+    {
+      "ticker": "ADVM",
+      "price": 6.825
+    }
+  ],
+  "223": [
+    {
+      "ticker": "KMPH",
+      "price": 6
+    },
+    {
+      "ticker": "ADES",
+      "price": 9.24
+    },
+    {
+      "ticker": "MFCB",
+      "price": 5.921
+    },
+    {
+      "ticker": "ADVM",
+      "price": 6.75
+    },
+    {
+      "ticker": "ROSE",
+      "price": 6.96
+    }
+  ]
+}

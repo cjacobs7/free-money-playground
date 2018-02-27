@@ -1,0 +1,62 @@
+{
+  "10": [
+    {
+      "ticker": "TRMT",
+      "price": 13.52
+    }
+  ],
+  "35": [
+    {
+      "ticker": "IKNX",
+      "price": 9.7028
+    },
+    {
+      "ticker": "GOV",
+      "price": 14.86
+    }
+  ],
+  "90": [
+    {
+      "ticker": "IKNX",
+      "price": 10.33
+    },
+    {
+      "ticker": "GOV",
+      "price": 14.7524
+    },
+    {
+      "ticker": "USDP",
+      "price": 11.3177
+    },
+    {
+      "ticker": "MYOV",
+      "price": 13.695
+    },
+    {
+      "ticker": "DO",
+      "price": 15.185
+    }
+  ],
+  "223": [
+    {
+      "ticker": "IKNX",
+      "price": 10.27
+    },
+    {
+      "ticker": "GOV",
+      "price": 14.65
+    },
+    {
+      "ticker": "BXC",
+      "price": 14.51
+    },
+    {
+      "ticker": "WTID",
+      "price": 11.91
+    },
+    {
+      "ticker": "DWT",
+      "price": 11.1
+    }
+  ]
+}

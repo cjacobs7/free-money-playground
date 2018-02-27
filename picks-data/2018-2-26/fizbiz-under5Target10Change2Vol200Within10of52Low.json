@@ -1,0 +1,62 @@
+{
+  "2": [],
+  "12": [],
+  "120": [
+    {
+      "ticker": "UPL",
+      "price": 4.495
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.57
+    },
+    {
+      "ticker": "P",
+      "price": 4.41
+    }
+  ],
+  "180": [
+    {
+      "ticker": "ECR",
+      "price": 1.8
+    },
+    {
+      "ticker": "P",
+      "price": 4.44
+    },
+    {
+      "ticker": "UPL",
+      "price": 4.5
+    },
+    {
+      "ticker": "AVEO",
+      "price": 2.925
+    },
+    {
+      "ticker": "SGYP",
+      "price": 1.965
+    }
+  ],
+  "380": [
+    {
+      "ticker": "EGO",
+      "price": 1.11
+    },
+    {
+      "ticker": "AVEO",
+      "price": 2.92
+    },
+    {
+      "ticker": "STNG",
+      "price": 2.46
+    },
+    {
+      "ticker": "TRQ",
+      "price": 2.86
+    },
+    {
+      "ticker": "SGYP",
+      "price": 1.92
+    }
+  ]
+}

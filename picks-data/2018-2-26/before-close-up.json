@@ -1,0 +1,46 @@
+{
+  "350": [
+    {
+      "ticker": "NXTD",
+      "price": 2.89
+    },
+    {
+      "ticker": "SN",
+      "price": 3.89
+    },
+    {
+      "ticker": "INOD",
+      "price": 1.15
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.535
+    },
+    {
+      "ticker": "APDN",
+      "price": 1.4396
+    }
+  ],
+  "380": [
+    {
+      "ticker": "NXTD",
+      "price": 2.7155
+    },
+    {
+      "ticker": "SN",
+      "price": 3.86
+    },
+    {
+      "ticker": "INOD",
+      "price": 1.15
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.5396
+    },
+    {
+      "ticker": "APDN",
+      "price": 1.4384
+    }
+  ]
+}

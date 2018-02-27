@@ -1,0 +1,68 @@
+{
+  "13": [
+    {
+      "ticker": "ITUS",
+      "price": 3.4299
+    },
+    {
+      "ticker": "TEUM",
+      "price": 1.96
+    },
+    {
+      "ticker": "CGIX",
+      "price": 1.8
+    },
+    {
+      "ticker": "ZX",
+      "price": 1.23
+    },
+    {
+      "ticker": "OMNT",
+      "price": 3.05
+    }
+  ],
+  "73": [
+    {
+      "ticker": "CBLI",
+      "price": 3.322
+    },
+    {
+      "ticker": "ITUS",
+      "price": 3.3898
+    },
+    {
+      "ticker": "TEUM",
+      "price": 1.94
+    },
+    {
+      "ticker": "CGIX",
+      "price": 1.7785
+    },
+    {
+      "ticker": "ZX",
+      "price": 1.2201
+    }
+  ],
+  "196": [
+    {
+      "ticker": "CBLI",
+      "price": 3.2874
+    },
+    {
+      "ticker": "ITUS",
+      "price": 3.38
+    },
+    {
+      "ticker": "TEUM",
+      "price": 1.9501
+    },
+    {
+      "ticker": "CGIX",
+      "price": 1.777
+    },
+    {
+      "ticker": "ZX",
+      "price": 1.2299
+    }
+  ]
+}

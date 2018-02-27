@@ -1,0 +1,84 @@
+{
+  "2": [
+    {
+      "ticker": "NVCN",
+      "price": 0.2199
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.3
+    }
+  ],
+  "12": [
+    {
+      "ticker": "NVCN",
+      "price": 0.21
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.3031
+    }
+  ],
+  "120": [
+    {
+      "ticker": "OHGI",
+      "price": 1.11
+    },
+    {
+      "ticker": "EARS",
+      "price": 0.26
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.3035
+    },
+    {
+      "ticker": "AKTX",
+      "price": 1.88
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.208
+    }
+  ],
+  "180": [
+    {
+      "ticker": "OHGI",
+      "price": 1.12
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.2992
+    },
+    {
+      "ticker": "AKTX",
+      "price": 1.93
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.2062
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.474
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CRMD",
+      "price": 0.295
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.2149
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.4651
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.45
+    }
+  ]
+}

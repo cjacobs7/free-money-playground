@@ -1,0 +1,30 @@
+{
+  "45": [
+    {
+      "ticker": "SDLP",
+      "price": 3.48
+    },
+    {
+      "ticker": "LGCY",
+      "price": 3.53
+    },
+    {
+      "ticker": "TTI",
+      "price": 3.95
+    }
+  ],
+  "189": [
+    {
+      "ticker": "SDLP",
+      "price": 3.4726
+    },
+    {
+      "ticker": "LGCY",
+      "price": 3.52
+    },
+    {
+      "ticker": "TTI",
+      "price": 3.991
+    }
+  ]
+}

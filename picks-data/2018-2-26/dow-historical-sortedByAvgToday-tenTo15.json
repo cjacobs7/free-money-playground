@@ -1,0 +1,68 @@
+{
+  "13": [
+    {
+      "ticker": "EROS",
+      "price": 13.1394
+    },
+    {
+      "ticker": "OMER",
+      "price": 10.27
+    },
+    {
+      "ticker": "RIOT",
+      "price": 10
+    },
+    {
+      "ticker": "DZSI",
+      "price": 10.21
+    },
+    {
+      "ticker": "DRNA",
+      "price": 12.671
+    }
+  ],
+  "73": [
+    {
+      "ticker": "EROS",
+      "price": 13.125
+    },
+    {
+      "ticker": "OMER",
+      "price": 11
+    },
+    {
+      "ticker": "RIOT",
+      "price": 10
+    },
+    {
+      "ticker": "DZSI",
+      "price": 10.1897
+    },
+    {
+      "ticker": "DRNA",
+      "price": 13.1433
+    }
+  ],
+  "196": [
+    {
+      "ticker": "EROS",
+      "price": 13.225
+    },
+    {
+      "ticker": "OMER",
+      "price": 11.117
+    },
+    {
+      "ticker": "DZSI",
+      "price": 10.2
+    },
+    {
+      "ticker": "DRNA",
+      "price": 13.64
+    },
+    {
+      "ticker": "DNOW",
+      "price": 10.275
+    }
+  ]
+}

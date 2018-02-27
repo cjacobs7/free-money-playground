@@ -1,0 +1,24 @@
+{
+  "3": [
+    {
+      "ticker": "RVP",
+      "price": 0.9348
+    },
+    {
+      "ticker": "SGRP",
+      "price": 1.2
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.886
+    },
+    {
+      "ticker": "PRKR",
+      "price": 0.9
+    },
+    {
+      "ticker": "CRVP",
+      "price": 0.968
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "45": [
+    {
+      "ticker": "RHE",
+      "price": 0.2003
+    },
+    {
+      "ticker": "MYSZ",
+      "price": 1.699
+    },
+    {
+      "ticker": "SENS",
+      "price": 2.88
+    },
+    {
+      "ticker": "ROYT",
+      "price": 2.24
+    },
+    {
+      "ticker": "CIF",
+      "price": 2.84
+    }
+  ],
+  "189": [
+    {
+      "ticker": "RHE",
+      "price": 0.2406
+    },
+    {
+      "ticker": "MYSZ",
+      "price": 1.6434
+    },
+    {
+      "ticker": "SENS",
+      "price": 2.87
+    },
+    {
+      "ticker": "ROYT",
+      "price": 2.3307
+    },
+    {
+      "ticker": "CIF",
+      "price": 2.8198
+    }
+  ]
+}

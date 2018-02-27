@@ -1,0 +1,30 @@
+{
+  "193": [
+    {
+      "ticker": "UVXY",
+      "price": 13.635
+    },
+    {
+      "ticker": "LIVE",
+      "price": 13.39
+    },
+    {
+      "ticker": "SVU",
+      "price": 13.99
+    }
+  ],
+  "253": [
+    {
+      "ticker": "UVXY",
+      "price": 13.54
+    },
+    {
+      "ticker": "LIVE",
+      "price": 13.3098
+    },
+    {
+      "ticker": "SVU",
+      "price": 13.92
+    }
+  ]
+}

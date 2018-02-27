@@ -1,0 +1,24 @@
+{
+  "1": [
+    {
+      "ticker": "TVIX",
+      "price": 6.85
+    },
+    {
+      "ticker": "CRVS",
+      "price": 8.26
+    }
+  ],
+  "169": [
+    {
+      "ticker": "CRVS",
+      "price": 8.22
+    }
+  ],
+  "273": [
+    {
+      "ticker": "CRVS",
+      "price": 8.21
+    }
+  ]
+}

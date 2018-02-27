@@ -1,0 +1,46 @@
+{
+  "350": [
+    {
+      "ticker": "SNCR",
+      "price": 9.6653
+    },
+    {
+      "ticker": "KMPH",
+      "price": 5.9
+    },
+    {
+      "ticker": "AMRS",
+      "price": 5.8
+    },
+    {
+      "ticker": "VKTX",
+      "price": 6.7399
+    },
+    {
+      "ticker": "SGMA",
+      "price": 7.2401
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SNCR",
+      "price": 9.66
+    },
+    {
+      "ticker": "GLMD",
+      "price": 5.52
+    },
+    {
+      "ticker": "KMPH",
+      "price": 5.9
+    },
+    {
+      "ticker": "AMRS",
+      "price": 5.78
+    },
+    {
+      "ticker": "SGMA",
+      "price": 7.25
+    }
+  ]
+}

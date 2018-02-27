@@ -36,7 +36,7 @@ const trendFilter = async (Robinhood, trend) => {
     );
     upOvernight = upOvernight.filter(buy => buy.trendingUp && buy.percMax < -8);
 
-    console.log(cheapBuys, upOvernight.length);
+    console.log(upOvernight, upOvernight.length);
     return upOvernight
         .sort((a, b) => a.percMax - b.percMax)
         .slice(0, 15)

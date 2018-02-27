@@ -1,0 +1,46 @@
+{
+  "190": [
+    {
+      "ticker": "RIOT",
+      "price": 9.8945
+    },
+    {
+      "ticker": "DWCH",
+      "price": 9.5
+    },
+    {
+      "ticker": "AGI",
+      "price": 5.195
+    },
+    {
+      "ticker": "TRVG",
+      "price": 8.18
+    },
+    {
+      "ticker": "NPTN",
+      "price": 5.93
+    }
+  ],
+  "250": [
+    {
+      "ticker": "RIOT",
+      "price": 9.9448
+    },
+    {
+      "ticker": "DWCH",
+      "price": 9.5
+    },
+    {
+      "ticker": "AGI",
+      "price": 5.185
+    },
+    {
+      "ticker": "TRVG",
+      "price": 8.15
+    },
+    {
+      "ticker": "NPTN",
+      "price": 6.08
+    }
+  ]
+}

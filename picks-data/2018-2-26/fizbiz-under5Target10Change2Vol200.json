@@ -1,0 +1,70 @@
+{
+  "2": [],
+  "12": [],
+  "120": [
+    {
+      "ticker": "TAHO",
+      "price": 4.7094
+    },
+    {
+      "ticker": "ACHN",
+      "price": 3.26
+    },
+    {
+      "ticker": "TRXC",
+      "price": 1.84
+    },
+    {
+      "ticker": "MNKD",
+      "price": 3.2799
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.26
+    }
+  ],
+  "180": [
+    {
+      "ticker": "TAHO",
+      "price": 4.7799
+    },
+    {
+      "ticker": "ACHN",
+      "price": 3.365
+    },
+    {
+      "ticker": "TRXC",
+      "price": 1.88
+    },
+    {
+      "ticker": "MNKD",
+      "price": 3.265
+    },
+    {
+      "ticker": "UAN",
+      "price": 3.6
+    }
+  ],
+  "380": [
+    {
+      "ticker": "TAHO",
+      "price": 4.815
+    },
+    {
+      "ticker": "TRXC",
+      "price": 1.9616
+    },
+    {
+      "ticker": "ACHN",
+      "price": 3.405
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.87
+    },
+    {
+      "ticker": "MNKD",
+      "price": 3.27
+    }
+  ]
+}

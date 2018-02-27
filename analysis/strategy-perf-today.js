@@ -18,7 +18,9 @@ let Robinhood;
 
     console.log(sortedFolders);
 
-    console.log(JSON.stringify(await analyzeDay(Robinhood, sortedFolders[sortedFolders.length - 1]), null, 2));
+    let todayReport = await analyzeDay(Robinhood, sortedFolders[sortedFolders.length - 1]);
+    todayReport = todayReport.filter(strat => !strat.strategyName.includes('-first3') && !strat.strategyName.includes('-single') );
+    console.log(JSON.stringify(todayReport, null, 2));
 
     // calcStratPerf('2018-1-18');
     // sortedFiles.forEach(calcStratPerf);

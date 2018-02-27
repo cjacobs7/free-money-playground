@@ -1,0 +1,40 @@
+{
+  "1": [
+    {
+      "ticker": "IVTY",
+      "price": 3.45
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.6973
+    }
+  ],
+  "169": [
+    {
+      "ticker": "NSPR",
+      "price": 3.96
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.69
+    },
+    {
+      "ticker": "IVTY",
+      "price": 3.625
+    }
+  ],
+  "273": [
+    {
+      "ticker": "NSPR",
+      "price": 3.861
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.701
+    },
+    {
+      "ticker": "IVTY",
+      "price": 3.675
+    }
+  ]
+}

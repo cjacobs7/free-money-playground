@@ -1,0 +1,68 @@
+{
+  "13": [
+    {
+      "ticker": "RUN",
+      "price": 6.94
+    },
+    {
+      "ticker": "ERII",
+      "price": 7.7
+    },
+    {
+      "ticker": "GPRO",
+      "price": 5.6552
+    },
+    {
+      "ticker": "ROSE",
+      "price": 7.18
+    },
+    {
+      "ticker": "JASO",
+      "price": 7.401
+    }
+  ],
+  "73": [
+    {
+      "ticker": "RUN",
+      "price": 6.98
+    },
+    {
+      "ticker": "ERII",
+      "price": 7.7886
+    },
+    {
+      "ticker": "GPRO",
+      "price": 5.635
+    },
+    {
+      "ticker": "ROSE",
+      "price": 7.14
+    },
+    {
+      "ticker": "PXJ",
+      "price": 9
+    }
+  ],
+  "196": [
+    {
+      "ticker": "RUN",
+      "price": 7.04
+    },
+    {
+      "ticker": "GFA",
+      "price": 9.45
+    },
+    {
+      "ticker": "GPRO",
+      "price": 5.68
+    },
+    {
+      "ticker": "ERII",
+      "price": 7.76
+    },
+    {
+      "ticker": "PXJ",
+      "price": 9.0491
+    }
+  ]
+}

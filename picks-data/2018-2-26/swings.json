@@ -1,0 +1,46 @@
+{
+  "193": [
+    {
+      "ticker": "HTBX",
+      "price": 2.6437
+    },
+    {
+      "ticker": "MBVX",
+      "price": 2.05
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.57
+    },
+    {
+      "ticker": "CAPR",
+      "price": 1.8108
+    },
+    {
+      "ticker": "P",
+      "price": 4.43
+    }
+  ],
+  "253": [
+    {
+      "ticker": "HTBX",
+      "price": 2.6648
+    },
+    {
+      "ticker": "MBVX",
+      "price": 2.049
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.57
+    },
+    {
+      "ticker": "CAPR",
+      "price": 1.82
+    },
+    {
+      "ticker": "P",
+      "price": 4.43
+    }
+  ]
+}

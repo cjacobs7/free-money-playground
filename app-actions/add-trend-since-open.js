@@ -23,7 +23,7 @@ module.exports = async (Robinhood, trend) => {
         };
     });
 
-    console.log('with fundame', withFundamentals);
+    // console.log('with fundame', withFundamentals);
 
     return withFundamentals.map(stock => ({
         ...stock,

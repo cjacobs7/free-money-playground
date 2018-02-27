@@ -40,7 +40,7 @@ class HashTable {
 
     console.log(sortedFiles);
 
-    let threeMostRecent = sortedFiles.slice(-7);
+    let threeMostRecent = sortedFiles.slice(-2);
 
 
     const stratResults = new HashTable();
@@ -56,7 +56,7 @@ class HashTable {
                 const strategyName = split.join('-');
                 const key = {
                     strategyName,
-                    // buyMin,
+                    buyMin,
                     // sellMin
                 };
                 stratResults.put(key, (stratResults.get(key) || []).concat(stratPerf.avgTrend));
@@ -100,8 +100,8 @@ class HashTable {
                 const lastChunk = strategyName.substring(strategyName.lastIndexOf('-') + 1);
                 return !['single', 'first3'].includes(lastChunk);
             })
-            .map(({ strategyName, avgTrend }) => ({
-                name: strategyName,
+            .map(({ strategyName, avgTrend, buyMin }) => ({
+                name: strategyName + '-' + buyMin,
                 avgTrend
             }))
     );

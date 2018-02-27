@@ -1,0 +1,46 @@
+{
+  "45": [
+    {
+      "ticker": "HEB",
+      "price": 0.578
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.72
+    },
+    {
+      "ticker": "IMMY",
+      "price": 1.8
+    },
+    {
+      "ticker": "IBIO",
+      "price": 0.1998
+    },
+    {
+      "ticker": "SENS",
+      "price": 2.88
+    }
+  ],
+  "189": [
+    {
+      "ticker": "HEB",
+      "price": 0.5468
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.8064
+    },
+    {
+      "ticker": "IMMY",
+      "price": 1.7924
+    },
+    {
+      "ticker": "IBIO",
+      "price": 0.1993
+    },
+    {
+      "ticker": "SENS",
+      "price": 2.87
+    }
+  ]
+}

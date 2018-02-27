@@ -1,0 +1,49 @@
+{
+  "7": [
+    {
+      "ticker": "NIHD",
+      "price": 0.9951
+    },
+    {
+      "ticker": "CVEO",
+      "price": 3.71
+    },
+    {
+      "ticker": "AUPH",
+      "price": 5.61
+    }
+  ],
+  "60": [
+    {
+      "ticker": "NIHD",
+      "price": 0.9464
+    },
+    {
+      "ticker": "CVEO",
+      "price": 3.765
+    },
+    {
+      "ticker": "AUPH",
+      "price": 5.51
+    }
+  ],
+  "123": [
+    {
+      "ticker": "NIHD",
+      "price": 1.0225
+    },
+    {
+      "ticker": "CVEO",
+      "price": 3.7
+    },
+    {
+      "ticker": "AUPH",
+      "price": 5.55
+    },
+    {
+      "ticker": "JCP",
+      "price": 4.145
+    }
+  ],
+  "263": []
+}

@@ -1,0 +1,46 @@
+{
+  "190": [
+    {
+      "ticker": "TROV",
+      "price": 0.3099
+    },
+    {
+      "ticker": "CLIR",
+      "price": 2.45
+    },
+    {
+      "ticker": "USAU",
+      "price": 1.92
+    },
+    {
+      "ticker": "LBCC",
+      "price": 2.92
+    },
+    {
+      "ticker": "ADXS",
+      "price": 1.9196
+    }
+  ],
+  "250": [
+    {
+      "ticker": "TROV",
+      "price": 0.31
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.3012
+    },
+    {
+      "ticker": "CLIR",
+      "price": 2.4
+    },
+    {
+      "ticker": "USAU",
+      "price": 1.93
+    },
+    {
+      "ticker": "LBCC",
+      "price": 2.8902
+    }
+  ]
+}

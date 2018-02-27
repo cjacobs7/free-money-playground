@@ -1,0 +1,42 @@
+{
+  "193": [
+    {
+      "ticker": "RIOT",
+      "price": 9.8945
+    },
+    {
+      "ticker": "INSE",
+      "price": 5.5
+    },
+    {
+      "ticker": "TVIX",
+      "price": 6.86
+    },
+    {
+      "ticker": "GOGO",
+      "price": 9.15
+    }
+  ],
+  "253": [
+    {
+      "ticker": "RIOT",
+      "price": 9.911
+    },
+    {
+      "ticker": "INSE",
+      "price": 5.525
+    },
+    {
+      "ticker": "TVIX",
+      "price": 6.8101
+    },
+    {
+      "ticker": "RARX",
+      "price": 6.81
+    },
+    {
+      "ticker": "GOGO",
+      "price": 9.16
+    }
+  ]
+}

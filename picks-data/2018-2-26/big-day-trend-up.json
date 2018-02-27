@@ -1,0 +1,86 @@
+{
+  "10": [
+    {
+      "ticker": "AMRN",
+      "price": 3.73
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.43
+    },
+    {
+      "ticker": "RXII",
+      "price": 3.29
+    },
+    {
+      "ticker": "CJJD",
+      "price": 1.4072
+    }
+  ],
+  "35": [
+    {
+      "ticker": "ABIO",
+      "price": 0.645
+    },
+    {
+      "ticker": "AMRN",
+      "price": 3.71
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.03
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.018
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.75
+    }
+  ],
+  "90": [
+    {
+      "ticker": "ABIO",
+      "price": 0.6
+    },
+    {
+      "ticker": "RXII",
+      "price": 3.1503
+    },
+    {
+      "ticker": "AMRN",
+      "price": 3.73
+    },
+    {
+      "ticker": "LRAD",
+      "price": 2.14
+    },
+    {
+      "ticker": "CRNT",
+      "price": 2.77
+    }
+  ],
+  "223": [
+    {
+      "ticker": "ABIO",
+      "price": 0.525
+    },
+    {
+      "ticker": "AMRN",
+      "price": 3.73
+    },
+    {
+      "ticker": "KLDX",
+      "price": 1.46
+    },
+    {
+      "ticker": "CRNT",
+      "price": 2.77
+    },
+    {
+      "ticker": "BMRA",
+      "price": 4.321
+    }
+  ]
+}

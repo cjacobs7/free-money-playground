@@ -1,0 +1,68 @@
+{
+  "13": [
+    {
+      "ticker": "ERH",
+      "price": 12.2982
+    },
+    {
+      "ticker": "MIY",
+      "price": 13.3987
+    },
+    {
+      "ticker": "DNOW",
+      "price": 10.1631
+    },
+    {
+      "ticker": "EROS",
+      "price": 13.1394
+    },
+    {
+      "ticker": "GCH",
+      "price": 13.274
+    }
+  ],
+  "73": [
+    {
+      "ticker": "EROS",
+      "price": 13.125
+    },
+    {
+      "ticker": "DNOW",
+      "price": 10.23
+    },
+    {
+      "ticker": "ERH",
+      "price": 12.21
+    },
+    {
+      "ticker": "MIY",
+      "price": 13.4
+    },
+    {
+      "ticker": "GCH",
+      "price": 13.3401
+    }
+  ],
+  "196": [
+    {
+      "ticker": "ERH",
+      "price": 12.1601
+    },
+    {
+      "ticker": "MIY",
+      "price": 13.4032
+    },
+    {
+      "ticker": "EROS",
+      "price": 13.225
+    },
+    {
+      "ticker": "DNOW",
+      "price": 10.275
+    },
+    {
+      "ticker": "GCH",
+      "price": 13.3739
+    }
+  ]
+}

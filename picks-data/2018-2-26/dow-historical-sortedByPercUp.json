@@ -1,0 +1,68 @@
+{
+  "13": [
+    {
+      "ticker": "TMQ",
+      "price": 1.5
+    },
+    {
+      "ticker": "GORO",
+      "price": 4.485
+    },
+    {
+      "ticker": "SCYX",
+      "price": 1.7804
+    },
+    {
+      "ticker": "VHC",
+      "price": 4.019
+    },
+    {
+      "ticker": "AUO",
+      "price": 4.5701
+    }
+  ],
+  "73": [
+    {
+      "ticker": "TMQ",
+      "price": 1.4977
+    },
+    {
+      "ticker": "GORO",
+      "price": 4.535
+    },
+    {
+      "ticker": "SCYX",
+      "price": 1.73
+    },
+    {
+      "ticker": "VHC",
+      "price": 4
+    },
+    {
+      "ticker": "IDSA",
+      "price": 2.12
+    }
+  ],
+  "196": [
+    {
+      "ticker": "TMQ",
+      "price": 1.47
+    },
+    {
+      "ticker": "GORO",
+      "price": 4.42
+    },
+    {
+      "ticker": "VHC",
+      "price": 4.025
+    },
+    {
+      "ticker": "SCYX",
+      "price": 1.7
+    },
+    {
+      "ticker": "AUO",
+      "price": 4.55
+    }
+  ]
+}

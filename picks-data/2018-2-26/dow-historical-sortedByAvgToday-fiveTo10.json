@@ -1,0 +1,68 @@
+{
+  "13": [
+    {
+      "ticker": "MARK",
+      "price": 6.79
+    },
+    {
+      "ticker": "HMNY",
+      "price": 5.0034
+    },
+    {
+      "ticker": "SORL",
+      "price": 6.04
+    },
+    {
+      "ticker": "SIEB",
+      "price": 7.8667
+    },
+    {
+      "ticker": "NETE",
+      "price": 6.082
+    }
+  ],
+  "73": [
+    {
+      "ticker": "MARK",
+      "price": 6.82
+    },
+    {
+      "ticker": "SORL",
+      "price": 6.0697
+    },
+    {
+      "ticker": "SIEB",
+      "price": 8.189
+    },
+    {
+      "ticker": "NETE",
+      "price": 5.9898
+    },
+    {
+      "ticker": "ASYS",
+      "price": 7.59
+    }
+  ],
+  "196": [
+    {
+      "ticker": "MARK",
+      "price": 7.1642
+    },
+    {
+      "ticker": "HMNY",
+      "price": 5.14
+    },
+    {
+      "ticker": "RIOT",
+      "price": 9.9
+    },
+    {
+      "ticker": "SORL",
+      "price": 6.15
+    },
+    {
+      "ticker": "SIEB",
+      "price": 8.14
+    }
+  ]
+}

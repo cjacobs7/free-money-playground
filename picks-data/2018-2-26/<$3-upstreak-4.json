@@ -1,0 +1,38 @@
+{
+  "45": [
+    {
+      "ticker": "ARLZ",
+      "price": 1.72
+    },
+    {
+      "ticker": "LUNA",
+      "price": 2.52
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.4505
+    },
+    {
+      "ticker": "TURN",
+      "price": 1.9007
+    }
+  ],
+  "189": [
+    {
+      "ticker": "ARLZ",
+      "price": 1.7494
+    },
+    {
+      "ticker": "LUNA",
+      "price": 2.5518
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.4603
+    },
+    {
+      "ticker": "TURN",
+      "price": 1.9195
+    }
+  ]
+}

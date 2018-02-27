@@ -38,11 +38,12 @@ module.exports = async (Robinhood, strategy, min, picks) => {
     };
     await jsonMgr.save(fileLocation, savedData);
 
-    if (strategiesEnabled.includes(`${strategy}-${min}`)) {
+    const enableCount = strategiesEnabled.filter(strat => strat === `${strategy}-${min}`).length;
+    if (enableCount) {
         await purchaseStocks(Robinhood, {
             stocksToBuy: picks,
-            ratioToSpend: 0.37,
-            strategy
+            strategy,
+            multiplier: enableCount
         });
     }
 

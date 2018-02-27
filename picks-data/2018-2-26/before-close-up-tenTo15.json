@@ -1,0 +1,46 @@
+{
+  "350": [
+    {
+      "ticker": "IKNX",
+      "price": 10.5329
+    },
+    {
+      "ticker": "MBIO",
+      "price": 10.79
+    },
+    {
+      "ticker": "PAR",
+      "price": 11.1132
+    },
+    {
+      "ticker": "SYBX",
+      "price": 11.6601
+    },
+    {
+      "ticker": "OBSV",
+      "price": 14.41
+    }
+  ],
+  "380": [
+    {
+      "ticker": "IKNX",
+      "price": 10.533
+    },
+    {
+      "ticker": "FET",
+      "price": 12.2
+    },
+    {
+      "ticker": "NAII",
+      "price": 11.7
+    },
+    {
+      "ticker": "USDP",
+      "price": 11.2
+    },
+    {
+      "ticker": "MBIO",
+      "price": 10.75
+    }
+  ]
+}
